@@ -1,0 +1,2175 @@
+,Battery,Brand,Multi_core,Name,OpenCL,Processor,Processor_Cores,Processor_Frequency,RenderScript,Single_core
+0,3160,Samsung,9818,Samsung Galaxy S10,16974,Samsung Exynos 9820,8,1950 MHz,9441,4314
+1,3794,Samsung,9892,Samsung Galaxy S10+,17077,Samsung Exynos 9820,8,1950 MHz,9520,4313
+2,4690,Samsung,9788,Samsung Galaxy S10e,17630,Samsung Exynos 9820,8,1950 MHz,9383,4253
+3,5154,Samsung,8804,Samsung Galaxy Note 9,13452,Samsung Exynos 9810,8,1794 MHz,9353,3467
+4,5020,Samsung,10645,Samsung Galaxy S10+,14426,Qualcomm Snapdragon 855,8,1785 MHz,7280,3430
+5,5990,Samsung,10598,Samsung Galaxy S10,14206,Qualcomm Snapdragon 855,8,1785 MHz,7284,3422
+6,5690,Samsung,10513,Samsung Galaxy S10e,14450,Qualcomm Snapdragon 855,8,1785 MHz,7336,3414
+7,4096,Samsung,8671,Samsung Galaxy S9+,13490,Samsung Exynos 9810,8,1794 MHz,8585,3335
+8,5833,Huawei,9771,Huawei Mate 20 Pro,13986,HiSilicon Kirin 980,8,1805 MHz,7629,3331
+9,3960,Samsung,8527,Samsung Galaxy S9,13197,Samsung Exynos 9810,8,1794 MHz,8705,3289
+10,3880,HTC,8711,HTC U12+,13266,Qualcomm Snapdragon 845,8,1766 MHz,13476,2406
+11,N/A,Xiaomi,8367,Xiaomi Black Shark,11561,Qualcomm Snapdragon 845,8,1766 MHz,13220,2392
+12,3565,OnePlus,8846,OnePlus 6,13181,Qualcomm Snapdragon 845,8,1766 MHz,13505,2390
+13,N/A,Vivo,8769,Vivo NEX S,13109,Qualcomm Snapdragon 845,8,1766 MHz,13620,2390
+14,3209,Asus,8554,Asus Zenfone 5z,13241,Qualcomm Snapdragon 845,8,1766 MHz,13482,2383
+15,3681,Sony,8389,Sony Xperia XZ2,13078,Qualcomm Snapdragon 845,8,1766 MHz,13340,2378
+16,4873,OnePlus,8842,OnePlus 6T,13130,Qualcomm Snapdragon 845,8,1766 MHz,13165,2372
+17,4783,Samsung,8532,Samsung Galaxy Note 9,13010,Qualcomm Snapdragon 845,8,1766 MHz,13256,2358
+18,N/A,Sony,8280,Sony Xperia XZ2 Compact,13081,Qualcomm Snapdragon 845,8,1766 MHz,13233,2351
+19,3770,LG,8445,LG G7 ThinQ,13059,Qualcomm Snapdragon 845,8,1766 MHz,13153,2317
+20,4150,Samsung,8306,Samsung Galaxy S9+,12992,Qualcomm Snapdragon 845,8,1766 MHz,13406,2292
+21,4270,Google,8039,Google Pixel 3 XL,N/A,Qualcomm Snapdragon 845,8,1766 MHz,13325,2290
+22,3420,Samsung,8239,Samsung Galaxy S9,12708,Qualcomm Snapdragon 845,8,1766 MHz,13121,2281
+23,3965,Xiaomi,8243,Xiaomi Mi 8,13262,Qualcomm Snapdragon 845,8,1766 MHz,13090,2279
+24,3013,Xiaomi,8148,Xiaomi Mix 2S,13291,Qualcomm Snapdragon 845,8,1766 MHz,13318,2259
+25,N/A,Google,7770,Google Pixel 3,13451,Qualcomm Snapdragon 845,8,1766 MHz,13217,2244
+26,4575,Xiaomi,7697,Xiaomi Pocophone F1,13340,Qualcomm Snapdragon 845,8,1766 MHz,12922,2194
+27,N/A,Xiaomi,7148,Xiaomi Poco F1,13326,Qualcomm Snapdragon 845,8,1766 MHz,12621,2093
+28,3844,Samsung,6405,Samsung Galaxy Note 8,13930,Samsung Exynos 8895 Octa,8,1690 MHz,9907,1951
+29,3948,Samsung,6386,Samsung Galaxy S8,13873,Samsung Exynos 8895 Octa,8,1690 MHz,9210,1941
+30,3960,OnePlus,6612,OnePlus 5T,10846,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7859,1941
+31,4097,Samsung,6350,Samsung Galaxy S8+,13802,Samsung Exynos 8895 Octa,8,1690 MHz,9035,1939
+32,N/A,HTC,6409,HTC U11+,11041,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7882,1925
+33,N/A,ZTE,6437,ZTE Nubia Z17S,10753,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7823,1922
+34,5308,ZTE,6303,ZTE Nubia Z17,10556,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7702,1914
+35,N/A,HTC,6333,HTC U11,10923,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7938,1913
+36,5360,Razer,6603,Razer Phone,10962,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7908,1913
+37,4630,Meizu,6330,Meizu 15 Plus,N/A,Samsung Exynos 8895 Octa,8,1690 MHz,8067,1911
+38,3375,Nokia,6431,Nokia 8,11189,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7839,1908
+39,3620,Xiaomi,6193,Xiaomi MI 6,10795,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7658,1894
+40,N/A,Huawei,6386,Huawei Nova 2s,11811,Hisilicon Kirin 960,8,1844 MHz,10914,1893
+41,3490,Motorola,6482,Motorola Moto Z2 Force,10913,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7770,1892
+42,3488,Xiaomi,6267,Xiaomi Mi Mix 2,10857,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7672,1890
+43,N/A,Sony,6422,Sony Xperia XZ1 Compact,11214,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7814,1890
+44,4046,Sony,6156,Sony Xperia XZ Premium,11018,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7782,1886
+45,3186,Sony,6179,Sony Xperia XZ1,11221,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7775,1880
+46,N/A,Smartisan,4432,Smartisan M1,10091,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7427,1880
+47,N/A,Huawei,6106,Huawei Honor V9,9458,Hisilicon Kirin 960,8,1844 MHz,9623,1877
+48,2627,Huawei,6461,Huawei Honor View 10,13379,HiSilicon Kirin 970,8,1844 MHz,8984,1877
+49,2428,Huawei,6302,Huawei Honor 9,11257,Hisilicon Kirin 960,8,1844 MHz,10491,1873
+50,3440,Essential,6319,Essential PH-1,10798,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7647,1873
+51,N/A,Huawei,5972,Huawei Mate 9,9776,Hisilicon Kirin 960,8,1844 MHz,8619,1870
+52,2440,Huawei,5850,Huawei P10 Plus,9990,Hisilicon Kirin 960,8,1844 MHz,8821,1870
+53,N/A,Smartisan,4330,Smartisan M1L,9964,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7512,1868
+54,2768,Huawei,6063,Huawei Honor 8 Pro,8156,Hisilicon Kirin 960,8,1844 MHz,9032,1867
+55,N/A,Huawei,5707,Huawei Mate 9 Pro,9659,Hisilicon Kirin 960,8,1844 MHz,8923,1866
+56,4033,LG,6151,LG V30,9542,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7480,1866
+57,2447,Huawei,6054,Huawei P10,9580,Hisilicon Kirin 960,8,1844 MHz,9000,1861
+58,3012,Google,6060,Google Pixel 2,9970,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7179,1838
+59,3482,Huawei,6217,Huawei Honor 10,13372,HiSilicon Kirin 970,8,1844 MHz,8459,1827
+60,3860,Google,6121,Google Pixel 2 XL,7553,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7089,1826
+61,4523,Xiaomi,5718,Xiaomi Mi 8 SE,5761,Qualcomm SDM710 Snapdragon 710,8,1708 MHz,6682,1823
+62,2220,Samsung,5356,Samsung Galaxy S7,7368,Samsung Exynos 8890,8,1586 MHz,4790,1811
+63,2010,OnePlus,4117,OnePlus 3T,10178,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7474,1800
+64,3375,LeEco,4055,LeEco Le Pro3,9828,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7217,1798
+65,3572,Samsung,6277,Samsung Galaxy Note 8,12953,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,9054,1792
+66,2556,Xiaomi,4020,Xiaomi MI 5s Plus,9476,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6912,1776
+67,N/A,Samsung,6057,Samsung Galaxy S8 Active,10321,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7509,1775
+68,N/A,Coolpad,4187,Coolpad Cool S1,9300,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7272,1772
+69,4174,Samsung,6032,Samsung Galaxy S8+,11747,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8349,1771
+70,2574,Huawei,5096,Huawei P9 Plus,3766,HiSilicon Kirin 955,8,1805 MHz,3853,1767
+71,N/A,Meizu,5763,Meizu Pro 7,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,4807,1767
+72,3410,Samsung,6028,Samsung Galaxy S8,12897,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8800,1763
+73,3140,Xiaomi,3963,Xiaomi Mi Note 2,9375,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7100,1761
+74,N/A,Huawei,5067,Huawei Honor V8 Max,4288,HiSilicon Kirin 955,8,1805 MHz,3973,1759
+75,N/A,Xiaomi,3882,Xiaomi Mi Mix,9388,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6859,1749
+76,2782,Samsung,5291,Samsung Galaxy S7 edge,6965,Samsung Exynos 8890,8,1586 MHz,4571,1745
+77,N/A,Huawei,5375,Huawei Honor V8,4187,HiSilicon Kirin 950,8,1805 MHz,3870,1745
+78,N/A,Samsung,5109,Samsung Galaxy Note 7,3811,Samsung Exynos 8890,8,1586 MHz,3308,1734
+79,1848,HTC,2774,HTC Nexus 9,N/A,NVIDIA Tegra K1 Denver,2,2499 MHz,3643,1728
+80,1725,Huawei,4820,Huawei P9,3869,HiSilicon Kirin 955,8,1805 MHz,3797,1709
+81,1667,BlackBerry,3788,BlackBerry DTEK60,9674,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6820,1703
+82,N/A,Vivo,3897,Vivo Xplay 6,9843,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7054,1695
+83,N/A,Vernee,4265,Vernee Apollo,4203,Mediatek MT6797T Helio X25,10,1547 MHz,3118,1691
+84,N/A,Meizu,5635,Meizu Pro 7 Plus,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,5041,1684
+85,1956,OnePlus,3947,OnePlus 3,10046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7325,1683
+86,2292,Huawei,5282,Huawei Mate 8,3754,HiSilicon Kirin 950,8,1805 MHz,3812,1683
+87,N/A,ZTE,3824,ZTE Nubia Z11,7526,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4201,1676
+88,3338,Huawei,5132,Huawei MediaPad M3 8.4,3568,HiSilicon Kirin 950,8,1805 MHz,4219,1672
+89,N/A,OPPO,5563,OPPO R11 Plus,7289,Qualcomm Snapdragon 660,8,1843 MHz,5623,1672
+90,1920,Huawei,5203,Huawei Honor 8,3956,HiSilicon Kirin 950,8,1805 MHz,3962,1665
+91,2501,LeEco,3825,LeEco Le Max 2,9202,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6987,1665
+92,3246,LG,3795,LG G6,8827,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6910,1664
+93,1810,HTC,3922,HTC U Ultra,9857,Qualcomm MSM8996 Snapdragon 821,4,1996 MHz,7174,1662
+94,1804,ZTE,3919,ZTE Axon 7,9711,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6911,1656
+95,1726,LG,3668,LG G5,9345,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6585,1651
+96,2908,Xiaomi,4014,Xiaomi Redmi Pro,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3133,1648
+97,2107,Lenovo,3492,Lenovo ZUK Z2,9937,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6333,1642
+98,1674,ZTE,3869,ZTE Axon 7,9757,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6936,1639
+99,N/A,Vivo,5703,Vivo X20,N/A,Qualcomm Snapdragon 660,8,1843 MHz,5409,1632
+100,2141,Google,4060,Google Pixel XL,7201,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7508,1626
+101,1738,Google,4014,Google Pixel,N/A,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7708,1626
+102,3778,Nokia,5707,Nokia 7 Plus,4431,Qualcomm Snapdragon 660,8,1843 MHz,5642,1620
+103,2377,Xiaomi,3935,Xiaomi MI 5s,9499,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1996 MHz,6953,1617
+104,3208,Smartisan,5705,Smartisan Nut Pro 2,4132,Qualcomm Snapdragon 660,8,1843 MHz,5272,1614
+105,N/A,Vernee,4410,Vernee Apollo Lite,3858,Mediatek MT6797 Helio X20,10,1391 MHz,2871,1612
+106,N/A,Sony,3696,Sony Xperia XZs,9978,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7390,1610
+107,1865,Xiaomi,3694,Xiaomi Mi 5,9045,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6540,1606
+108,N/A,Qihoo,5681,Qihoo 360 N6 Pro,4141,Qualcomm Snapdragon 660,8,1843 MHz,5426,1605
+109,N/A,Vivo,5778,Vivo X20A,4045,Qualcomm Snapdragon 660,8,1843 MHz,5397,1604
+110,N/A,OPPO,5602,OPPO R11,8994,Qualcomm Snapdragon 660,8,1843 MHz,4973,1603
+111,1341,Kodak,4468,Kodak Ektra,3960,Mediatek MT6797 Helio X20,10,1391 MHz,3421,1599
+112,N/A,UMi,4371,UMi Z,4356,Mediatek Helio X27,10,1547 MHz,3177,1598
+113,N/A,Xiaomi,5253,Xiaomi Mi A2,4407,Qualcomm Snapdragon 660,8,1843 MHz,5453,1596
+114,4548,Xiaomi,5630,Xiaomi Mi Note 3,4128,Qualcomm Snapdragon 660,8,1843 MHz,5365,1588
+115,N/A,Xiaomi,3510,Xiaomi Mi Pad 3,N/A,Mediatek MT8176,6,1703 MHz,2966,1578
+116,1878,LG,3492,LG V20,9037,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6372,1569
+117,2270,Sony,3616,Sony Xperia XZ,9849,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7230,1567
+118,1679,HTC,3479,HTC 10,9510,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6633,1557
+119,N/A,Sony,3603,Sony Xperia X Performance,9746,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7142,1551
+120,N/A,UMi,4335,UMi Z Pro,4197,Mediatek Helio X27,10,1547 MHz,3464,1550
+121,1926,Samsung,3719,Samsung Galaxy S7,7424,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4954,1536
+122,1475,Motorola,3744,Motorola Moto Z,9046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6836,1536
+123,N/A,Asus,3405,Asus Zenpad 3S 10,N/A,Mediatek MT8176,6,1703 MHz,2799,1534
+124,1776,Lenovo,3587,Lenovo ZUK Z2 Pro,9951,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6198,1532
+125,N/A,Lenovo,3770,Lenovo ZUK Edge,10170,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7122,1530
+126,N/A,Samsung,3836,Samsung Galaxy Tab S3,9064,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6700,1523
+127,N/A,Samsung,3865,Samsung Galaxy Note 7,3929,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4061,1519
+128,N/A,Qihoo,4296,Qihoo 360 N4,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2926,1517
+129,N/A,QiKU,4275,QiKU N4s,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2879,1511
+130,N/A,NVIDIA,4263,NVIDIA SHIELD Android TV,N/A,NVIDIA Tegra X1,4,2014 MHz,3424,1510
+131,N/A,Meizu,3671,Meizu MX6,3371,Mediatek MT6797 Helio X20,10,1391 MHz,3049,1505
+132,2747,Samsung,3700,Samsung Galaxy S7 Active,8229,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6161,1501
+133,3035,Samsung,4208,Samsung Galaxy A8 (2018),4585,Samsung Exynos 7885 Octa,8,1586 MHz,3705,1482
+134,2733,Lenovo,4067,Lenovo K8 Note,N/A,Mediatek Helio X23,10,1391 MHz,3243,1476
+135,1485,LeEco,3583,LeEco Le S3,3727,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3410,1476
+136,N/A,Xiaomi,4010,Xiaomi Redmi Note 4,1785,Qualcomm MSM8953 Snapdragon 625,8,0 MHz,3151,1475
+137,N/A,LeEco,3716,LeEco Le2 Pro,N/A,Mediatek MT6797T Helio X25,10,1846 MHz,2615,1472
+138,4030,Oppo,5554,Oppo F7,N/A,Mediatek MT6771 Helio P60,8,1989 MHz,5172,1472
+139,2710,Meizu,4362,Meizu PRO 6 Plus,5206,Samsung Exynos 8890,8,1482 MHz,4322,1465
+140,3032,Samsung,3744,Samsung Galaxy S7 edge,6992,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4741,1456
+141,2930,Samsung,4083,Samsung Galaxy A8+ (2018),4640,Samsung Exynos 7885 Octa,8,1586 MHz,3548,1455
+142,2105,Asus,5089,Asus Zenfone 5 Max,3108,Qualcomm Snapdragon 660,8,1612 MHz,4796,1449
+143,5425,Oppo,5343,Oppo Realme 1,4380,Mediatek MT6771 Helio P60,8,1989 MHz,5018,1444
+144,N/A,Vivo,4466,Vivo X9 Plus,4011,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4483,1430
+145,2051,Oppo,4515,Oppo F3 Plus,3992,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4932,1427
+146,N/A,Asus,3362,Asus Zenpad Z10,3841,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3876,1419
+147,N/A,Alcatel,3088,Alcatel Idol 4s,3866,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3904,1414
+148,N/A,LeMobile,2345,LeMobile Le X527,N/A,,0,1401 MHz,3641,1406
+149,N/A,Qihoo,4343,Qihoo 360 N5S,3834,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4415,1402
+150,2133,Xiaomi,2694,Xiaomi Redmi Note 3,3775,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3315,1399
+151,N/A,Qihoo,4217,Qihoo 360 N5,3929,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4275,1397
+152,1241,Vodafone,3085,Vodafone Smart Platinum 7,3792,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3821,1397
+153,N/A,Lyf,2768,Lyf F1S,3881,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4089,1396
+154,N/A,LeEco,2446,LeEco Cool Changer 1C,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3744,1388
+155,2206,Xiaomi,3146,Xiaomi MI MAX,3835,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3679,1376
+156,1618,LeEco,2575,LeEco Le 2,3617,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3920,1374
+157,N/A,Sony,3404,Sony Xperia X Compact,3755,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3834,1374
+158,1729,Sony,3282,Sony Xperia X,3802,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3867,1373
+159,1839,LeEco,2846,LeEco Coolpad Cool1 dual,3867,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4040,1372
+160,N/A,Vivo,2825,Vivo V3 Max,3886,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3605,1372
+161,N/A,ZTE,4259,ZTE Nubia Z17 Mini,3730,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4264,1372
+162,1947,Samsung,4274,Samsung Galaxy Tab S2 9.7 (2016),3901,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4235,1369
+163,763,Asus,2873,Asus Zenpad Z8,3872,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3710,1365
+164,N/A,LeEco,2723,LeEco LeRee Le 3,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4201,1364
+165,N/A,Samsung,3969,Samsung Galaxy Tab S2 8.0,3386,Samsung Exynos 5433,8,1401 MHz,3215,1359
+166,N/A,Meizu,4227,Meizu PRO 5,3860,Samsung Exynos 7420,8,1500 MHz,3032,1357
+167,N/A,Asus,3659,Asus Zenfone 3 Ultra,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4146,1357
+168,1841,Samsung,3956,Samsung Galaxy Tab S2 8.0,3888,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4163,1355
+169,N/A,Sony,3440,Sony Xperia Z4 Tablet (Wi-Fi),5588,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4240,1350
+170,N/A,Google,3371,Google Pixel C,N/A,NVIDIA Tegra X1,4,1912 MHz,2145,1345
+171,N/A,Vivo,3329,Vivo X7,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4023,1339
+172,5257,Xiaomi,4773,Xiaomi Redmi Note 5 AI,3121,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4483,1330
+173,N/A,ZTE,3472,ZTE Nubia Z11 Max,3437,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3564,1327
+174,5444,Xiaomi,4667,Xiaomi Redmi Note 5 Pro,3035,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4438,1326
+175,N/A,Vivo,3301,Vivo X7 Plus,N/A,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4015,1326
+176,N/A,Vivo,3158,Vivo X6S,3889,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3877,1325
+177,3934,Nokia,4761,Nokia 6.1 Plus,3054,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4258,1319
+178,1627,Meizu,3786,Meizu Pro 6,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3230,1318
+179,6442,Asus,4681,Asus Zenfone Max Pro (M1),3123,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4451,1317
+180,1666,Samsung,4059,Samsung Galaxy S6 edge+,5498,Samsung Exynos 7420,8,1500 MHz,2914,1309
+181,N/A,Meizu,3152,Meizu S6,N/A,Samsung Exynos 7885 Octa,8,1586 MHz,2731,1308
+182,N/A,Samsung,4204,Samsung Galaxy A8 (2016),5735,Samsung Exynos 7420,8,1500 MHz,3401,1305
+183,1753,Samsung,4028,Samsung Galaxy Note 5,5600,Samsung Exynos 7420,8,1500 MHz,2908,1303
+184,N/A,Smartron,2814,Smartron srt.phone,3653,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4076,1301
+185,N/A,Samsung,3796,Samsung Galaxy A9 Pro,3738,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3558,1300
+186,N/A,Elephone,4091,Elephone S8,N/A,Mediatek MT6797T Helio X25,10,2002 MHz,3285,1299
+187,N/A,Samsung,4034,Samsung Galaxy C9 Pro,3475,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4099,1294
+188,1586,Samsung,4051,Samsung Galaxy S6 edge,5264,Samsung Exynos 7420,8,1500 MHz,2943,1292
+189,N/A,Sony,2815,Sony Xperia Z4,5113,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3970,1288
+190,1716,Samsung,4149,Samsung Galaxy S6 Active,5813,Samsung Exynos 7420,8,1500 MHz,3097,1286
+191,N/A,Elephone,3086,Elephone S7,3517,Mediatek MT6797 Helio X20,10,1391 MHz,2854,1283
+192,N/A,Lenovo,3099,Lenovo Yoga Tab 3 Plus,3820,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,4089,1279
+193,1417,Samsung,3954,Samsung Galaxy Note5 Duos,5225,Samsung Exynos 7420,8,1500 MHz,2898,1278
+194,N/A,Motorola,3375,Motorola Moto X Force,5454,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4227,1271
+195,1202,Sony,2791,Sony Xperia Z5 Premium,5525,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4190,1266
+196,N/A,LeEco,2832,LeEco Le Pro 1,5542,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3824,1261
+197,N/A,LeEco,2921,LeEco Le Max,5159,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3776,1258
+198,N/A,Sharp,3994,Sharp Luna S,3877,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4001,1258
+199,1618,Samsung,3945,Samsung Galaxy S6,5388,Samsung Exynos 7420,8,1500 MHz,2854,1257
+200,N/A,Sony,2751,Sony Xperia Z5 Premium Dual,5345,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4138,1239
+201,1192,Huawei,2878,Huawei Nexus 6P,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4404,1238
+202,N/A,ZTE,2716,ZTE Nubia Z9 Max,5635,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3783,1235
+203,1359,Sony,2715,Sony Xperia Z5 Dual,5337,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4114,1234
+204,1135,Sony,2699,Sony Xperia Z5,5503,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4070,1230
+205,1340,Sony,2688,Sony Xperia Z5 Compact,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3887,1222
+206,886,Xiaomi,2715,Xiaomi Mi Note Pro,5509,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3930,1218
+207,N/A,Sony,2595,Sony Xperia Z5 Compact,5460,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4000,1215
+208,1080,Sony,2296,Sony Xperia Z3+,4744,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3655,1207
+209,879,HTC,2476,HTC One M9,4911,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3765,1204
+210,N/A,ZTE,2652,ZTE Nubia Z9,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3695,1200
+211,N/A,Amazon,2161,Amazon Fire HD 10,N/A,Mediatek MT8173,4,1404 MHz,1541,1195
+212,954,LG,2351,LG G Flex 2,4842,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3441,1177
+213,3844,Lenovo,3245,Lenovo Yogabook YB1-X90F,N/A,Intel Atom x5-Z8550,4,2400 MHz,3099,1170
+214,N/A,Meizu,4305,Meizu Pro 6s,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3175,1169
+215,N/A,LG,3310,LG G5 SE,3956,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3614,1165
+216,N/A,HTC,1881,HTC Butterfly 3,5279,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3580,1157
+217,N/A,BQ,2672,BQ Aquaris X5 Plus,4066,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3369,1155
+218,N/A,QiKU,2812,QiKU Q Terra,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2701,1150
+219,N/A,Acer,1071,Acer Chromebook R11,N/A,Intel Celeron N3150,4,2582 MHz,933,1140
+220,1058,Motorola,2798,Motorola Moto X Style,2721,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2787,1124
+221,N/A,Lenovo,3101,Lenovo Yoga Tab 3 Pro,N/A,Intel Atom x5-Z8500,4,2240 MHz,4480,1107
+222,1264,Nextbit,2249,Nextbit Robin,2807,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2812,1096
+223,N/A,LG,2579,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2728,1095
+224,N/A,LG,2462,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2720,1079
+225,N/A,Asus,3031,Asus Zenpad S 8.0,2411,Intel Atom Z3580,4,2333 MHz,1202,1077
+226,973,Xiaomi,2127,Xiaomi Mi 4c,2592,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2425,1076
+227,1605,Asus,2864,Asus Zenfone Zoom,2307,Intel Atom Z3590,4,2500 MHz,1288,1064
+228,1636,Xiaomi,3103,Xiaomi MI PAD 2,N/A,Intel Atom x5-Z8500,4,2240 MHz,4164,1063
+229,1229,BlackBerry,2378,BlackBerry Priv,2741,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2637,1060
+230,N/A,Lenovo,2739,Lenovo Vibe X3,2742,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2662,1053
+231,1209,OnePlus,2740,OnePlus 2,4544,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3510,1050
+232,1220,NVIDIA,2757,NVIDIA SHIELD Tablet K1,N/A,NVIDIA Tegra K1,4,2218 MHz,4033,1026
+233,1696,Asus,2754,Asus Zenfone 2 ,2335,Intel Atom Z2560,2,2333 MHz,1213,1026
+234,1368,NVIDIA,2740,NVIDIA SHIELD Tablet,N/A,NVIDIA Tegra K1,4,2218 MHz,3957,1025
+235,1453,Lenovo,2700,Lenovo ZUK Z1,2423,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,1025
+236,N/A,Lenovo,3275,Lenovo Vibe X2,1273,MediaTek MT6595M,8,1690 MHz,1214,1020
+237,1362,LG,2273,LG Nexus 5X,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2918,1012
+238,1546,Samsung,2615,Samsung Galaxy S5 Plus,4966,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3290,1010
+239,N/A,Oppo,2627,Oppo Find 7a,N/A,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2501,1009
+240,1357,Motorola,2576,Motorola Nexus 6,N/A,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2852,1008
+241,1939,Motorola,2446,Motorola DROID Turbo,5086,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,3542,1007
+242,1484,OnePlus,2511,OnePlus One,2214,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2168,1003
+243,N/A,Samsung,3302,Samsung Galaxy Tab S2 9.7,3545,Samsung Exynos 5433,8,1300 MHz,2855,1003
+244,1501,Motorola,2374,Motorola Moto Maxx,4828,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2862,1000
+245,N/A,Motorola,2418,Motorola Moto X (2014),2414,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2529,999
+246,N/A,Sony,2675,Sony Xperia Z3 Tablet Compact,2267,Qualcomm MSM8274AB Snapdragon 801,4,2457 MHz,2244,998
+247,1303,Sony,2538,Sony Xperia Z3,2245,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2216,993
+248,1173,LG,2329,LG G2,2026,Qualcomm Snapdragon 800,4,2265 MHz,2158,991
+249,1434,Sony,2453,Sony Xperia Z3 Dual,2232,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2156,984
+250,1705,Sony,2541,Sony Xperia Z1 Compact,2025,Qualcomm Snapdragon 800,4,2150 MHz,2275,978
+251,921,Samsung,2626,Samsung Galaxy S5 LTE-A,4782,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3081,976
+252,1394,Sony,2561,Sony Xperia Z3 Compact,2251,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2235,975
+253,N/A,Sony,2463,Sony Xperia Z Ultra,2035,Qualcomm Snapdragon 800,4,2150 MHz,2328,973
+254,1038,Samsung,3223,Samsung Galaxy Note 4,3434,Samsung Exynos 5433,8,1300 MHz,2621,973
+255,N/A,HTC,2305,HTC One (M8x),2496,Qualcomm MSM8974AB Snapdragon 801,4,2457 MHz,2656,973
+256,N/A,Sony,2612,Sony Xperia Z2 Tablet LTE,2218,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2146,973
+257,N/A,ZTE,2255,ZTE Nubia Z7 Max,2453,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2086,971
+258,N/A,LG,2323,LG G Pro 2,2040,Qualcomm Snapdragon 800,4,2265 MHz,2292,971
+259,1385,Sony,2343,Sony Xperia Z1,2003,Qualcomm Snapdragon 800,4,2150 MHz,2240,970
+260,N/A,Samsung,2550,Samsung Galaxy Tab Pro 8.4,2349,Qualcomm Snapdragon 800,4,2265 MHz,2101,970
+261,1434,LG,2655,LG V10,2632,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2603,968
+262,1250,Samsung,2493,Samsung Galaxy Note 4 Duos,4636,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2774,967
+263,N/A,Samsung,2456,Samsung Galaxy Note Edge,4792,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2872,964
+264,1320,HTC,2305,HTC One (M8),2498,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2435,961
+265,935,Asus,2044,Asus Padfone S,2474,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2201,956
+266,1496,Sony,2498,Sony Xperia Z2,2251,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2087,954
+267,N/A,HTC,2291,HTC One M8 Dual Sim,2514,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2466,953
+268,N/A,Samsung,2416,Samsung Galaxy S4,1452,Qualcomm Snapdragon 800,4,2265 MHz,1533,950
+269,1271,OnePlus,2276,OnePlus X,2009,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,1959,949
+270,N/A,Xiaomi,1948,Xiaomi Mi 4s,2464,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2422,946
+271,N/A,Samsung,2519,Samsung Galaxy S5 Active,2390,Qualcomm MSM8974AA Snapdragon 801,4,2457 MHz,2586,942
+272,N/A,HTC,2222,HTC One E8,2482,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,2614,940
+273,N/A,ZTE,2370,ZTE Nubia Z7 Mini,N/A,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,1936,940
+274,999,LG,2130,LG G3,2552,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,1957,939
+275,N/A,HTC,2764,HTC 10 evo,4981,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3922,933
+276,N/A,CHUWI,2133,CHUWI Hi8 Pro,N/A,Intel Atom x5-Z8350,4,1840 MHz,3746,933
+277,1105,Samsung,2412,Samsung Galaxy S5,2171,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2328,931
+278,4057,Vivo,4372,Vivo V9,2719,Qualcomm Snapdragon 626,8,2208 MHz,3756,929
+279,N/A,Xiaomi,2128,Xiaomi Mi Note,2212,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2038,928
+280,N/A,Huawei,3608,Huawei Mate SE,2146,HiSilicon Kirin 659,8,1709 MHz,3043,928
+281,N/A,Huawei,3626,Huawei P Smart,2156,HiSilicon Kirin 659,8,1709 MHz,3049,926
+282,N/A,HTC,2134,HTC Desire Eye,2058,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2323,926
+283,2887,Huawei,3631,Huawei P20 Lite,2129,HiSilicon Kirin 659,8,1709 MHz,3067,925
+284,N/A,Huawei,3620,Huawei Honor 9 Lite,2165,HiSilicon Kirin 659,8,1709 MHz,3042,925
+285,1329,Samsung,2422,Samsung Galaxy Note 3,1974,Qualcomm Snapdragon 800,4,2265 MHz,2235,923
+286,N/A,HTC,2179,HTC One M8 Eye,2068,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2335,922
+287,N/A,Samsung,2259,Samsung Galaxy J,2329,Qualcomm Snapdragon 800,4,2265 MHz,2118,922
+288,N/A,BQ,4419,BQ Aquaris X Pro,1783,Qualcomm Snapdragon 626,8,2208 MHz,3482,919
+289,N/A,BQ,4392,BQ Aquaris X,1770,Qualcomm Snapdragon 626,8,2208 MHz,3457,915
+290,N/A,Samsung,2372,Samsung Galaxy S5 Duos,2219,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,913
+291,3694,Huawei,3490,Huawei Mate 10 Lite,2046,HiSilicon Kirin 659,8,1709 MHz,2973,912
+292,3696,Huawei,3522,Huawei Honor 7X,2058,HiSilicon Kirin 659,8,1709 MHz,2978,911
+293,4852,10.or,4339,10.or G,1796,Qualcomm Snapdragon 626,8,2208 MHz,3501,911
+294,1664,Xiaomi,2057,Xiaomi Mi 3,2402,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2089,910
+295,N/A,Huawei,3549,Huawei Nova 2,2073,HiSilicon Kirin 659,8,1709 MHz,2991,910
+296,3717,Huawei,3542,Huawei Nova 2 Plus,2052,HiSilicon Kirin 659,8,1709 MHz,3002,910
+297,N/A,ASUS,2204,ASUS MeMO Pad 7,N/A,Intel Atom Z3745,4,1862 MHz,1295,908
+298,N/A,Samsung,4143,Samsung Galaxy J7 Perx,1781,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3425,903
+299,N/A,Lenovo,3436,Lenovo K8 Plus,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2549,901
+300,986,Xiaomi,2010,Xiaomi MI 4LTE,2325,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2020,900
+301,N/A,Samsung,4166,Samsung Galaxy J7 V,N/A,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3426,900
+302,995,LG,1926,LG Nexus 5,N/A,Qualcomm Snapdragon 800,4,2265 MHz,1988,897
+303,4009,Motorola,4436,Motorola Moto Z2 Play,2001,Qualcomm Snapdragon 626,8,2208 MHz,3155,895
+304,N/A,Samsung,4213,Samsung Galaxy C7 Pro,1688,Qualcomm Snapdragon 626,8,2208 MHz,3358,893
+305,N/A,Fujitsu,2630,Fujitsu Arrows NX F-04G,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3240,892
+306,N/A,Xiaomi,1967,Xiaomi Mi 4,2269,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,1997,891
+307,1076,Yota,1911,Yota YotaPhone 2,2021,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2206,891
+308,N/A,Huawei,3267,Huawei Nova 2i,2003,HiSilicon Kirin 659,8,1709 MHz,2828,887
+309,2866,Huawei,3360,Huawei P10 Lite,2069,HiSilicon Kirin 658,8,1709 MHz,2796,885
+310,N/A,Samsung,4057,Samsung Galaxy C5 Pro,1718,Qualcomm Snapdragon 626,8,2208 MHz,3333,881
+311,1267,NVIDIA,2274,NVIDIA Shield,N/A,NVIDIA Tegra 4,4,1912 MHz,2060,877
+312,3644,Nokia,4102,Nokia 6.1,3014,Qualcomm Snapdragon 630,8,2208 MHz,3732,869
+313,N/A,Qihoo,4141,Qihoo 360 N6 Lite,2964,Qualcomm Snapdragon 630,8,2208 MHz,3753,869
+314,N/A,Xiaomi,3595,Xiaomi Redmi 4 Prime,1963,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3118,868
+315,3622,Motorola,4077,Motorola Moto X4,2980,Qualcomm Snapdragon 630,8,2208 MHz,3754,863
+316,N/A,Sony,3698,Sony Xperia XA1 Ultra,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2711,863
+317,N/A,Meizu,3904,Meizu M3x,2485,Mediatek Helio P20 MT6757,8,1638 MHz,2710,861
+318,N/A,Motorola,4046,Motorola Moto G6 Plus,3029,Qualcomm Snapdragon 630,8,2208 MHz,3739,861
+319,N/A,Asus,4188,Asus Zenfone 3 Zoom,1791,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3341,860
+320,3415,Xiaomi,4171,Xiaomi Mi A1,1817,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3431,859
+321,3540,Oppo,3416,Oppo R9s,1708,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3102,859
+322,N/A,Sharp,4079,Sharp Aquos S2,2947,Qualcomm Snapdragon 630,8,2208 MHz,3688,859
+323,2738,Vernee,3934,Vernee Mars Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2777,856
+324,N/A,Sony,3666,Sony Xperia XA1,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2701,855
+325,N/A,Huawei,3651,Huawei Nova,1774,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3074,854
+326,2956,Asus,4100,Asus Zenfone 3,3318,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3482,853
+327,N/A,Vivo,3964,Vivo X9,1750,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3080,852
+328,N/A,Samsung,2763,Samsung Galaxy A8 Duos,1917,Qualcomm MSM8939 Snapdragon 615,8,1300 MHz,1996,852
+329,4058,Asus,4068,Asus Zenfone 4,3837,Qualcomm Snapdragon 630,8,2208 MHz,4686,851
+330,N/A,Huawei,3515,Huawei Nova Plus,1773,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2982,851
+331,6059,Xiaomi,3824,Xiaomi Mi Max 2,1818,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3071,850
+332,N/A,Vivo,3784,Vivo V5 Plus,1792,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3061,850
+333,4842,Lenovo,3836,Lenovo P2,1758,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3207,847
+334,N/A,UMi,3751,UMi Plus E,2221,Mediatek Helio P20 MT6757,8,2340 MHz,2730,847
+335,N/A,Meizu,3933,Meizu M2E,2372,Mediatek Helio P20 MT6757,8,1638 MHz,2761,845
+336,N/A,Maze,3400,Maze Alpha,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2637,844
+337,3240,Lenovo,3021,Lenovo Tab3 8 Plus,1643,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3175,843
+338,895,Meizu,2042,Meizu MX4 Pro,2012,Samsung Exynos 5430,8,1500 MHz,1717,841
+339,N/A,Doogee,3657,Doogee Mix,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2729,840
+340,N/A,Samsung,3559,Samsung Galaxy C7,1735,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3070,840
+341,4250,Xiaomi,2810,Xiaomi Redmi 4,1530,Qualcomm MSM8937 Snapdragon 430,8,2016 MHz,2630,837
+342,N/A,ZTE,4036,ZTE Nubia M2,1585,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3262,837
+343,3710,Xiaomi,4088,Xiaomi Redmi S2,1974,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3397,835
+344,3181,Motorola,4112,Motorola Moto G5 Plus,1994,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2889,834
+345,4190,Xiaomi,3415,Xiaomi Redmi Note 4X,1778,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3045,832
+346,2912,Motorola,4161,Motorola Moto G5S Plus,2001,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2945,832
+347,N/A,Blackview,3798,Blackview BV8000 Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2616,832
+348,5274,Meizu,4062,Meizu M6 Note,1775,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3174,831
+349,N/A,Vernee,3100,Vernee Mix 2,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2423,831
+350,5327,Doogee,3707,Doogee S60,N/A,Mediatek Helio P20 MT6757,8,2600 MHz,2621,829
+351,N/A,LeEco,3296,LeEco Le 1s,1685,Mediatek MT6795 Helio X10,8,2158 MHz,2444,827
+352,N/A,ZTE,3814,ZTE Nubia Z11 Mini S,1640,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2933,824
+353,4149,Motorola,3801,Motorola Moto Z Play,1995,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2832,822
+354,1918,Meizu,2793,Meizu MX5,1715,Mediatek MT6795 Helio X10,8,2158 MHz,2478,817
+355,N/A,Bluboo,3072,Bluboo S1,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2469,817
+356,1276,Huawei,3395,Huawei Honor 8 Lite,2157,HiSilicon Kirin 655,8,1709 MHz,2722,816
+357,1499,Huawei,3372,Huawei P8 lite (2017),2156,HiSilicon Kirin 655,8,1709 MHz,2767,815
+358,N/A,Huawei,3336,Huawei Mate 9 Lite,1888,HiSilicon Kirin 655,8,1709 MHz,2678,814
+359,N/A,Huawei,3359,Huawei Nova Lite,2159,HiSilicon Kirin 655,8,1709 MHz,2753,813
+360,N/A,Huawei,3335,Huawei Honor 6X,2073,HiSilicon Kirin 655,8,1709 MHz,2655,811
+361,N/A,Samsung,2018,Samsung Galaxy Tab Pro 10.1,N/A,Exynos 5 Octa 5420,4,1900 MHz,1728,807
+362,1033,Samsung,1223,Samsung Nexus 10,N/A,Samsung Exynos 5250,2,1700 MHz,1326,801
+363,N/A,HTC,2463,HTC One M9+,1740,Mediatek MT6795 Helio X10,8,2158 MHz,1948,801
+364,N/A,Meizu,2605,Meizu MX4,1264,MediaTek MT6595,8,1690 MHz,2253,797
+365,1450,Huawei,3360,Huawei P9 lite,2038,HiSilicon Kirin 650,4,1709 MHz,2441,796
+366,2209,Huawei,3300,Huawei Honor 5c,2035,HiSilicon Kirin 650,4,1709 MHz,2423,795
+367,N/A,NVIDIA,2001,NVIDIA Tegra Note,N/A,NVIDIA Tegra 4,4,1810 MHz,1683,791
+368,N/A,Oppo,3058,Oppo R9,1548,Mediatek MT6755 Helio P10,8,1950 MHz,2114,790
+369,1219,Meizu,2850,Meizu M1 Note,N/A,Mediatek MT6752m,8,1690 MHz,2157,789
+370,N/A,HTC,2041,HTC One ME,1703,Mediatek MT6795 Helio X10,8,2158 MHz,663,789
+371,N/A,LeTV,3987,LeTV Le 1 (X600),1785,Mediatek MT6795 Helio X10,8,1950 MHz,1974,788
+372,1593,Samsung,1979,Samsung Galaxy Tab S 10.5,2152,Exynos 5 Octa 5420,4,1900 MHz,1723,785
+373,1074,Samsung,1891,Samsung Galaxy Tab S 8.4,2344,Exynos 5 Octa 5420,4,1900 MHz,1722,782
+374,455,Samsung,2457,Samsung Galaxy Alpha,1645,Samsung Exynos 5430,8,1300 MHz,1803,782
+375,1437,Samsung,1939,Samsung Galaxy Tab S 10.5,2152,Qualcomm Snapdragon 800,4,1900 MHz,1719,778
+376,N/A,PPTV,2143,PPTV King 7,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1820,778
+377,858,Xiaomi,2487,Xiaomi Redmi Note 2,1508,Mediatek MT6795,8,2158 MHz,923,777
+378,N/A,Meizu,2675,Meizu M1 Metal,1467,Mediatek MT6795 Helio X10,8,1950 MHz,2373,776
+379,N/A,Oppo,2959,Oppo F1 Plus,1584,Mediatek MT6755 Helio P10,8,1950 MHz,1811,774
+380,3041,Samsung,4104,Samsung Galaxy A5 (2017),3303,Samsung Exynos 7880,8,1872 MHz,3000,773
+381,N/A,Xiaomi,3701,Xiaomi Redmi 5,1687,Qualcomm SDM450 Snapdragon 450,8,2016 MHz,3021,773
+382,N/A,Samsung,1850,Samsung Galaxy Tab S 8.4 LTE,2221,Qualcomm Snapdragon 800,4,1900 MHz,1710,772
+383,N/A,Samsung,4011,Samsung Galaxy A7 (2017),3288,Samsung Exynos 7880,8,1872 MHz,2980,771
+384,N/A,Sony,1178,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T Pro,2,1728 MHz,926,769
+385,1307,Samsung,1982,Samsung Galaxy Note 10.1 (2014),1841,Exynos 5 Octa 5420,4,1900 MHz,1951,768
+386,3275,Samsung,3246,Samsung Galaxy J7 Max,N/A,Mediatek Helio P20 MT6757,8,1690 MHz,1926,767
+387,N/A,Huawei,1899,Huawei Ascend Mate 7,2639,HiSilicon Kirin 925,8,1305 MHz,1881,767
+388,N/A,Vivo,3787,Vivo V7,1702,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3045,766
+389,N/A,HTC,2367,HTC One E9+,1759,Mediatek MT6795 Helio X10,8,1950 MHz,690,766
+390,N/A,Huawei,1871,Huawei Honor 6 Plus,2587,HiSilicon Kirin 925,8,1305 MHz,1851,765
+391,1994,Samsung,1965,Samsung Galaxy Note Pro 12.2,1806,Exynos 5 Octa 5420,4,1900 MHz,1793,764
+392,829,Samsung,1968,Samsung Galaxy Note 3,1987,Exynos 5 Octa 5420,4,1900 MHz,2239,761
+393,N/A,Sony,2826,Sony Xperia XA,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2020,760
+394,N/A,Vivo,3781,Vivo V7+,1726,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3009,760
+395,1162,HTC,2487,HTC One X9,1830,Mediatek MT6795 Helio X10,8,1950 MHz,2219,759
+396,N/A,Sony,2821,Sony Xperia XA Dual,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2024,759
+397,799,Huawei,2511,Huawei Honor 7,2461,HiSilicon Kirin 935,4,1516 MHz,2095,758
+398,1224,Motorola,2515,Motorola Moto M,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1787,757
+399,N/A,Huawei,2591,Huawei P8 Max,N/A,HiSilicon Kirin 935,4,1516 MHz,2173,756
+400,N/A,Oppo,2761,Oppo F3,N/A,Mediatek MT6750,8,1508 MHz,2139,754
+401,1331,Huawei,2491,Huawei Mate S,N/A,HiSilicon Kirin 935,4,1516 MHz,2047,750
+402,N/A,Sony,1094,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T,2,1728 MHz,926,745
+403,N/A,Sony,3370,Sony Xperia C5 Ultra Dual,N/A,Mediatek MT6752,8,1690 MHz,2318,743
+404,N/A,Xiaomi,1151,Xiaomi MI-2a,N/A,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,1277,742
+405,N/A,Sony,3231,Sony Xperia C4 Dual,N/A,Mediatek MT6752,8,1690 MHz,2287,742
+406,N/A,HTC,2756,HTC U Play,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1977,740
+407,3060,Motorola,3782,Motorola Moto G6,1862,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,2868,739
+408,669,Huawei,1752,Huawei Honor 6,2476,Huawei HiSilicon Kirin 920 Hi3630,8,1305 MHz,1764,738
+409,N/A,Lenovo,2076,Lenovo Tab 2 A10-70 (WiFi),N/A,Mediatek MT8165,4,1690 MHz,1031,738
+410,1199,Lenovo,3188,Lenovo Vibe S1,N/A,Mediatek MT6752,8,1690 MHz,2071,738
+411,N/A,Sony,3351,Sony Xperia C5 Ultra,N/A,Mediatek MT6752,8,1690 MHz,2082,738
+412,N/A,Sony,3280,Sony Xperia C4,N/A,Mediatek MT6752,8,1690 MHz,2318,737
+413,N/A,Samsung,1533,Samsung Galaxy S4 (Google Play Edition),1373,Qualcomm Snapdragon 600,4,1900 MHz,1261,736
+414,N/A,Blackview,2631,Blackview BV6000,N/A,Mediatek MT6755 Helio P10,8,1144 MHz,1693,733
+415,N/A,Gionee,2779,Gionee A1,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1957,733
+416,1230,Lenovo,2897,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2146,731
+417,1238,Sony,3576,Sony Xperia M5,1795,Mediatek MT6795 Helio X10,8,1950 MHz,2581,730
+418,N/A,JiaYu,3084,JiaYu S3,N/A,Mediatek MT6752,8,1690 MHz,2248,730
+419,N/A,Lenovo,3035,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2173,728
+420,N/A,Lenovo,2037,Lenovo Tab 2 A10-70 (4G),N/A,Mediatek MT8732,4,1690 MHz,911,728
+421,1570,HTC,2655,HTC One A9s,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1924,727
+422,N/A,Xiaomi,2780,Xiaomi Mi 5c,N/A,Xiaomi Surge S1,8,1404 MHz,1966,726
+423,N/A,UMi,2579,UMi Super,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1585,726
+424,N/A,Sony,3327,Sony Xperia M5 Dual,1695,Mediatek MT6795 Helio X10,8,1950 MHz,2515,726
+425,1691,Lenovo,2886,Lenovo A7000,N/A,Mediatek MT6752m,8,1690 MHz,1920,725
+426,1126,Elephone,2566,Elephone P9000,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1611,725
+427,N/A,Lenovo,3245,Lenovo P70,N/A,Mediatek MT6752m,8,1690 MHz,2069,722
+428,712,Samsung,1796,Samsung Galaxy S4 Value Edition,1296,Qualcomm Snapdragon 600,4,1890 MHz,1364,721
+429,N/A,Meizu,2378,Meizu M3 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1542,720
+430,938,Motorola,1144,Motorola Moto X,1263,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,628,719
+431,735,Samsung,1774,Samsung Galaxy S4,1431,Qualcomm Snapdragon 600,4,1900 MHz,1521,717
+432,904,Samsung,1793,Samsung Galaxy S4 Active,1362,Qualcomm Snapdragon 600,4,1890 MHz,1347,717
+433,N/A,Meizu,2587,Meizu M1E,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1857,717
+434,3943,Samsung,3481,Samsung Galaxy J7 (2017),1234,Samsung Exynos 7870 Octa,8,1586 MHz,2288,713
+435,N/A,Samsung,3462,Samsung Galaxy J7 Pro,1232,Samsung Exynos 7870 Octa,8,1586 MHz,2268,711
+436,N/A,ZTE,2422,ZTE Trek 2 ,1276,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2425,710
+437,N/A,Samsung,3532,Samsung Galaxy Feel,1237,Samsung Exynos 7870 Octa,8,1586 MHz,2412,710
+438,N/A,Samsung,1661,Samsung Galaxy Note 3 Neo,1422,Samsung Exynos 5260,6,1300 MHz,1294,709
+439,1146,Cat,2151,Cat S60,1288,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2353,709
+440,1040,HTC,1652,HTC One,1274,Qualcomm Snapdragon 600,4,1700 MHz,791,705
+441,3638,Samsung,3412,Samsung Galaxy Tab A 10.1,1235,Samsung Exynos 7870 Octa,8,1586 MHz,2198,705
+442,2530,Samsung,3430,Samsung Galaxy A3 (2017),1233,Samsung Exynos 7870 Octa,8,1586 MHz,2283,705
+443,2575,Samsung,3367,Samsung Galaxy J5 (2017),1200,Samsung Exynos 7870 Octa,8,1586 MHz,2267,705
+444,N/A,Meizu,2305,Meizu U20,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1553,703
+445,N/A,UMi,2552,UMi Max,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1636,703
+446,978,HTC,1630,HTC One Dual Sim,1216,Qualcomm Snapdragon 600,4,1728 MHz,598,703
+447,N/A,YU,2630,YU Yunicorn,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1268,702
+448,N/A,LG,1608,LG G Pad 8.3,1178,Qualcomm Snapdragon 600,4,1728 MHz,1300,701
+449,1670,Meizu,2348,Meizu M5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1865,700
+450,1221,ZTE,2028,ZTE Zmax Pro,1247,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2127,699
+451,N/A,UMi,2509,UMi Plus,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1568,698
+452,1659,Samsung,3327,Samsung Galaxy J7,1057,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,1997,693
+453,N/A,Alcatel,1845,Alcatel Idol 4,1260,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2027,693
+454,N/A,Vodafone,2560,Vodafone Smart Ultra 7,N/A,Mediatek MT6755M Helio P10 M,8,1807 MHz,1742,692
+455,N/A,Alcatel,2488,Alcatel Flash Plus 2,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1571,691
+456,1049,ZTE,2144,ZTE Nubia Z11 Mini,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1924,691
+457,3730,Samsung,3232,Samsung Galaxy J7 Nxt,1116,Samsung Exynos 7870 Octa,8,1586 MHz,2201,690
+458,N/A,LG,1481,LG Optimus G Pro,N/A,Qualcomm Snapdragon 600,4,1700 MHz,1087,688
+459,N/A,Samsung,3326,Samsung Galaxy J7 (2016),1151,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,2048,687
+460,N/A,Lenovo,2616,Lenovo K5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1664,685
+461,N/A,General,2402,General Mobile GM 5 Plus,1227,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1822,684
+462,N/A,Huawei,2875,Huawei Enjoy 5s,N/A,Mediatek MT6753,8,1495 MHz,1887,684
+463,460,Samsung,1696,Samsung Galaxy S4,1452,Exynos 5 Octa 5410,4,1600 MHz,1533,683
+464,2549,Samsung,3146,Samsung Galaxy J7 Prime,1196,Samsung Exynos 7870 Octa,8,1586 MHz,2131,682
+465,1403,Huawei,2427,Huawei P8,1883,HiSilicon Kirin 935,4,1516 MHz,1972,680
+466,N/A,ZTE,2505,ZTE Max XL,1368,Qualcomm Snapdragon 435,8,1401 MHz,2252,674
+467,N/A,Nokia,2792,Nokia 5,1314,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2314,673
+468,N/A,ZTE,2516,ZTE Blade Z Max,1356,Qualcomm Snapdragon 435,8,1401 MHz,2331,673
+469,2450,Xiaomi,2112,Xiaomi Redmi Note 5A,822,Qualcomm Snapdragon 435,8,1401 MHz,1744,672
+470,2135,Xiaomi,1833,Xiaomi Redmi 5A,584,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1368,671
+471,1234,Motorola,2251,Motorola Moto G4,1272,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1920,670
+472,N/A,HTC,2583,HTC One A9,1277,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2110,670
+473,N/A,ZTE,2191,ZTE Blade X Max,N/A,Qualcomm Snapdragon 435,8,1401 MHz,2066,669
+474,N/A,Nokia,2786,Nokia 6,1319,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2272,668
+475,1050,Samsung,2622,Samsung Galaxy C5,1256,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1910,666
+476,N/A,Motorola,2205,Motorola Moto G4 Plus,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2118,666
+477,N/A,Asus,1805,Asus Zenfone 3 Max,1291,Mediatek MT6737,4,1443 MHz,1445,665
+478,N/A,Huawei,1845,Huawei Y5 (2017),N/A,Mediatek MT6737T,4,1443 MHz,1203,665
+479,1963,Asus,1711,Asus Nexus 7 (2013),N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1541,664
+480,2655,Xiaomi,1740,Xiaomi Redmi 4A,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1349,664
+481,N/A,Sony,1828,Sony Xperia L1,N/A,Mediatek MT6737T,4,1443 MHz,1215,660
+482,N/A,ZTE,1874,ZTE Axon 7 Mini,1269,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2339,659
+483,1163,Oppo,1893,Oppo F1,1253,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2104,658
+484,1298,Oppo,2764,Oppo A57,1200,Qualcomm Snapdragon 435,8,1401 MHz,2302,657
+485,N/A,Asus,1815,Asus Zenpad 8.0,730,MediaTek MT8163 V/B,4,1300 MHz,1153,657
+486,2823,Asus,2145,Asus Zenfone 4 Max,1213,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1865,656
+487,N/A,Vivo,1716,Vivo V3,1238,Qualcomm MSM8939v2 Snapdragon 616,8,0 MHz,1949,655
+488,N/A,Infinix,3014,Infinix Zero 3,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1792,655
+489,N/A,Wileyfox,2344,Wileyfox Swift 2 Plus,1292,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2086,652
+490,N/A,Vivo,1838,Vivo Y53,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1232,652
+491,N/A,Huawei,1806,Huawei P9 lite mini,587,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1220,651
+492,N/A,Asus,2445,Asus Zenfone 3 Laser,1286,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2015,651
+493,N/A,Xiaomi,2059,Xiaomi Redmi 4X,1347,Qualcomm Snapdragon 435,8,0 MHz,2170,649
+494,N/A,Oppo,2537,Oppo A39,N/A,Mediatek MT6750,8,1508 MHz,1863,649
+495,N/A,Vivo,1831,Vivo Y55s,582,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1230,648
+496,N/A,Oppo,2533,Oppo F1s,1192,Mediatek MT6755 Helio P10,8,1508 MHz,1786,646
+497,658,Lenovo,1534,Lenovo Vibe Shot,1233,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1961,645
+498,N/A,BLU,1995,BLU Life One X2,1200,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2049,645
+499,N/A,ZTE,2003,ZTE Axon Mini,1228,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2062,644
+500,1808,Samsung,3207,Samsung Galaxy A7 (2016),1282,Samsung Exynos 7580,8,1600 MHz,1981,643
+501,1087,Samsung,3208,Samsung Galaxy A5 (2016),1143,Samsung Exynos 7580,8,1600 MHz,1983,642
+502,N/A,Lenovo,2370,Lenovo K6 Note,1293,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2126,642
+503,1040,Samsung,3067,Samsung Galaxy S5 Neo,1041,Samsung Exynos 7580 Octa,8,1600 MHz,1979,641
+504,N/A,Huawei,2616,Huawei Y7 Prime,1559,Qualcomm Snapdragon 435,8,1401 MHz,2201,641
+505,N/A,Samsung,1648,Samsung Galaxy J7 Sky Pro,N/A,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,1201,640
+506,1144,Motorola,1652,Motorola Moto X Play,1253,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1778,639
+507,N/A,Huawei,2572,Huawei Honor 6A,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2127,636
+508,2442,Motorola,2106,Motorola Moto G6 Play,834,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1910,635
+509,2881,Xiaomi,1774,Xiaomi Redmi 3s,1189,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1802,633
+510,N/A,Xiaomi,1685,Xiaomi Redmi 3,1182,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1770,633
+511,N/A,Samsung,986,Samsung Galaxy S4 Mini,N/A,Qualcomm Snapdragon 400,2,1728 MHz,682,632
+512,N/A,Xiaomi,1774,Xiaomi Redmi 3x,1199,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1822,632
+513,778,Samsung,987,Samsung Galaxy S4 Duos,N/A,Qualcomm Snapdragon 400,2,1728 MHz,705,630
+514,N/A,Meizu,2003,Meizu M3,N/A,Mediatek MT6750,8,1508 MHz,1403,630
+515,N/A,Vivo,1881,Vivo Y55L,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1971,629
+516,N/A,Samsung,1638,Samsung Galaxy J3 Luna Pro,539,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1203,629
+517,1690,Meizu,2110,Meizu M3s,N/A,Mediatek MT6750,8,1508 MHz,1354,627
+518,N/A,Lenovo,2220,Lenovo K6,1472,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1955,627
+519,N/A,Wileyfox,2016,Wileyfox Swift 2,1303,Qualcomm MSM8937 Snapdragon 430,8,0 MHz,2105,627
+520,N/A,Motorola,2222,Motorola Moto G5S,1468,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1957,626
+521,N/A,Huawei,2028,Huawei Honor 5X,1392,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2274,625
+522,N/A,Lenovo,2231,Lenovo Vibe K6,1461,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1949,625
+523,N/A,Lenovo,2284,Lenovo K6 Power,1450,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1950,624
+524,841,Samsung,1620,Samsung Galaxy J3 Emerge,567,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1157,624
+525,2337,LG,2557,LG Stylus 3,1448,Mediatek MT6750,8,1401 MHz,1770,623
+526,1001,Huawei,1972,Huawei G8,1222,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2123,619
+527,N/A,LG,2485,LG Stylo 3 Plus,1428,Qualcomm Snapdragon 435,8,1401 MHz,2001,619
+528,N/A,Huawei,1975,Huawei Ascend XT,1244,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2197,619
+529,N/A,Xiaomi,1374,Xiaomi Mi 4i,1237,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1404,617
+530,1833,Motorola,2476,Motorola Moto G5,1467,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1956,617
+531,N/A,Meizu,2184,Meizu M5s,N/A,Mediatek MT6753,8,1300 MHz,1577,616
+532,N/A,Lenovo,1819,Lenovo Vibe P1,1237,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2022,614
+533,N/A,Amazon,1616,Amazon Fire HD 8 (2017),N/A,MediaTek MT8163 V/B,4,1300 MHz,1027,614
+534,1011,Samsung,1827,Samsung Galaxy A3 (2016),1204,Samsung Exynos 7578,4,1500 MHz,1124,613
+535,N/A,Vernee,2599,Vernee Thor,N/A,Mediatek MT6753,8,1300 MHz,1688,613
+536,1145,Amazon,1614,Amazon Fire HD 8 (2016),N/A,MediaTek MT8163 V/B,4,1300 MHz,985,612
+537,N/A,Samsung,1752,Samsung Galaxy J3 Prime,N/A,Samsung Exynos 7570,4,1430 MHz,1074,609
+538,N/A,Ulefone,2465,Ulefone Metal,N/A,Mediatek MT6753,8,1300 MHz,1598,609
+539,N/A,HTC,1704,HTC One M8s,1251,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,2036,607
+540,N/A,ZTE,2412,ZTE Blade V7,N/A,Mediatek MT6753,8,1300 MHz,1647,607
+541,N/A,Samsung,1751,Samsung Galaxy J3 (2017),644,Samsung Exynos 7570,4,1430 MHz,1109,606
+542,694,Lenovo,1654,Lenovo Vibe K5,1161,Qualcomm MSM8929 Snapdragon 415,8,0 MHz,1786,605
+543,N/A,Doogee,2421,Doogee F5,N/A,Mediatek MT6753,8,1300 MHz,1468,605
+544,N/A,Elephone,2450,Elephone P8000,N/A,Mediatek MT6753,8,1300 MHz,1592,605
+545,919,HTC,1792,HTC Desire 628,N/A,Mediatek MT6753,8,1300 MHz,1401,603
+546,1851,Wiko,2415,Wiko Fever 4G,N/A,Mediatek MT6753,8,1300 MHz,1572,602
+547,N/A,Vivo,2225,Vivo V5s,N/A,Mediatek MT6750,8,1508 MHz,1682,602
+548,1649,Meizu,2082,Meizu U10,N/A,Mediatek MT6750,8,1001 MHz,1399,601
+549,N/A,Meizu,2379,Meizu M6,N/A,Mediatek MT6750,8,1001 MHz,1710,601
+550,N/A,Meizu,2150,Meizu M5,N/A,Mediatek MT6750,8,1001 MHz,1494,600
+551,N/A,Sony,1405,Sony Xperia M4 Aqua,1136,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1634,599
+552,2870,Samsung,1717,Samsung Galaxy J5 Prime,622,Samsung Exynos 7570,4,1430 MHz,1053,599
+553,N/A,BLU,2382,BLU Vivo 5R,N/A,Mediatek MT6753,8,1300 MHz,1639,599
+554,N/A,Lenovo,2360,Lenovo Vibe K4 Note,N/A,Mediatek MT6753,8,1300 MHz,1665,598
+555,N/A,Alcatel,1534,Alcatel OneTouch Idol 3,1236,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1800,598
+556,N/A,Huawei,1520,Huawei Ascend P7,N/A,HiSilicon Kirin 910T,4,1795 MHz,1022,597
+557,N/A,Oukitel,2409,Oukitel K6000 Pro,N/A,Mediatek MT6753,8,1300 MHz,1610,596
+558,2548,ulefone,2337,ulefone Power,N/A,Mediatek MT6753,8,1300 MHz,1496,596
+559,N/A,LG,1608,LG K20 plus,532,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1079,595
+560,N/A,Sony,1347,Sony Xperia M4 Aqua Dual,1255,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1588,595
+561,N/A,Coolpad,2274,Coolpad Note 3,N/A,Mediatek MT6753,8,1300 MHz,1581,591
+562,1212,Meizu,1542,Meizu M2,N/A,Mediatek MT6735,4,1300 MHz,848,590
+563,N/A,Motorola,1481,Motorola Moto G Turbo Edition,1241,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1594,590
+564,1927,LG,2228,LG K10 (2017),N/A,Mediatek MT6750,8,1001 MHz,1492,588
+565,N/A,LG,1966,LG Stylus 2 Plus,1317,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1762,587
+566,N/A,Vivo,2428,Vivo Y66,N/A,Qualcomm MSM8937 Snapdragon 430,8,1508 MHz,1671,586
+567,N/A,Asus,1610,Asus Zenfone Selfie,1236,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1670,582
+568,1709,Coolpad,1599,Coolpad Note 3 Lite,N/A,Mediatek MT6735,4,1300 MHz,927,582
+569,2018,Meizu,2241,Meizu M2 Note,N/A,Mediatek MT6753,8,1300 MHz,1447,580
+570,N/A,Lenovo,1873,Lenovo Vibe K5 Plus,1218,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1788,580
+571,581,Samsung,1490,Samsung Galaxy Note II,N/A,Samsung Exynos 4412,4,1600 MHz,961,579
+572,848,Samsung,1469,Samsung Galaxy Note 8.0,N/A,Samsung Exynos 4412,4,1600 MHz,900,579
+573,N/A,Vodafone,1394,Vodafone Smart Ultra 6,1243,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1850,578
+574,N/A,BQ,1659,BQ Aquaris M5,1250,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1862,574
+575,701,HTC,1447,HTC Desire 820,1255,Qualcomm MSM8939 Snapdragon 615,8,1536 MHz,1914,573
+576,N/A,Samsung,1471,Samsung Galaxy A7,1255,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1984,568
+577,N/A,ZTE,1523,ZTE Blade V6,N/A,Mediatek MT6735,4,1300 MHz,487,568
+578,N/A,LG,1732,LG K10,398,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,1508,567
+579,N/A,YU,1309,YU Yureka,N/A,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1593,559
+580,N/A,BLU,1554,BLU R1 HD,N/A,Mediatek MT6735,4,1300 MHz,879,558
+581,1620,Nokia,1526,Nokia 3,N/A,Mediatek MT6737,4,1248 MHz,1081,557
+582,N/A,Samsung,1596,Samsung Galaxy J2 Prime,422,Mediatek MT6737,4,1443 MHz,935,557
+583,N/A,LG,1484,LG X power,N/A,Mediatek MT6735,4,1300 MHz,1234,555
+584,N/A,Sony,1476,Sony Xperia E5,N/A,Mediatek MT6735,4,1300 MHz,961,555
+585,N/A,LG,1373,LG Aristo 2,419,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,895,554
+586,1054,Motorola,1424,Motorola Moto G3,458,Qualcomm MSM8916 Snapdragon 410,4,1363 MHz,1004,552
+587,N/A,Meizu,1437,Meizu M5c,N/A,Mediatek MT6737,4,1248 MHz,1023,552
+588,1722,LG,1993,LG Q6,1260,Qualcomm Snapdragon 435,8,1401 MHz,1750,550
+589,837,Xiaomi,1531,Xiaomi MI-2,1246,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1312,547
+590,N/A,Oppo,1487,Oppo Find 5,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,1124,545
+591,1074,Sony,1348,Sony Xperia ZR,1189,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,954,542
+592,N/A,Huawei,1966,Huawei Y6II Compact,N/A,Mediatek MT6735,4,1200 MHz,1391,542
+593,N/A,LG,1465,LG K8,N/A,Mediatek MT6735,4,1300 MHz,936,542
+594,N/A,Sony,1409,Sony Xperia Tablet Z,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,978,541
+595,1225,Huawei,1977,Huawei P8 lite,N/A,HiSilicon Kirin 620,8,1200 MHz,1355,541
+596,N/A,Huawei,1988,Huawei Honor 4C,N/A,HiSilicon Kirin 620,8,1200 MHz,1381,540
+597,N/A,Sony,1379,Sony Xperia ZL,1209,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,939,539
+598,1007,Sony,1331,Sony Xperia Z,1210,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,930,538
+599,3398,Motorola,1501,Motorola Moto E4 Plus,629,Mediatek MT6737,4,1248 MHz,964,537
+600,N/A,Huawei,1987,Huawei Honor 4X,N/A,HiSilicon Kirin 620,8,1200 MHz,1436,536
+601,926,LG,1347,LG Nexus 4,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1103,535
+602,N/A,Motorola,1514,Motorola Moto E4,593,Mediatek MT6737,4,1248 MHz,1098,535
+603,N/A,Asus,2044,Asus Zenfone Max Plus,N/A,Mediatek MT6750,8,1508 MHz,1595,533
+604,N/A,HTC,1332,HTC Droid DNA,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,964,532
+605,N/A,Motorola,1489,Motorola Moto C Plus,N/A,Mediatek MT6737,4,1248 MHz,910,531
+606,N/A,Samsung,1386,Samsung Galaxy Note 10.1,N/A,Samsung Exynos 4412,4,1400 MHz,821,530
+607,N/A,Samsung,1382,Samsung Galaxy Note 10.1 3G,N/A,Samsung Exynos 4412,4,1400 MHz,820,525
+608,1008,Wileyfox,1390,Wileyfox Swift,400,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,912,522
+609,N/A,Vivo,1332,Vivo Y51L,403,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,858,522
+610,N/A,Lenovo,1321,Lenovo S90 Sisley,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,778,520
+611,1376,Samsung,1435,Samsung Galaxy Core Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1248 MHz,809,519
+612,N/A,Huawei,1452,Huawei Y6 Pro,N/A,Mediatek MT6735P,4,1300 MHz,814,518
+613,N/A,Oppo,1311,Oppo A37,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,1030,516
+614,853,Asus,1298,Asus Zenfone 2 Laser,945,Qualcomm MSM8956 Snapdragon 650,6,1209 MHz,1216,514
+615,N/A,Doogee,1327,Doogee X5 Max Pro,N/A,Mediatek MT6737,4,1092 MHz,825,513
+616,N/A,LG,1336,LG Optimus G,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,841,511
+617,N/A,Lenovo,1292,Lenovo A6010,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,810,511
+618,N/A,Xiaomi,1328,Xiaomi Redmi 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,892,509
+619,N/A,Motorola,1328,Motorola Moto G4 Play,402,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,947,508
+620,N/A,ZTE,1296,ZTE Zmax 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,866,508
+621,1303,Lenovo,1219,Lenovo A6000,401,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,842,506
+622,845,Samsung,1253,Samsung Galaxy S III,N/A,Samsung Exynos 4412,4,1400 MHz,725,505
+623,N/A,LG,1292,LG G Stylo,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,863,505
+624,N/A,HTC,1194,HTC Desire 510,N/A,Qualcomm Snapdragon 410,4,1190 MHz,N/A,502
+625,1168,Motorola,1272,Motorola Moto E (2nd Gen.),399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,887,500
+626,N/A,Samsung,1265,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,868,497
+627,N/A,LG,1331,LG Stylo 2,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,869,497
+628,N/A,Samsung,1251,Samsung Galaxy Tab E 9.6,N/A,Spreadtrum SC7730,4,1190 MHz,913,496
+629,1495,Samsung,1257,Samsung Galaxy Tab A 8.0,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,892,492
+630,541,Samsung,1200,Samsung Galaxy J5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,869,491
+631,N/A,Samsung,1281,Samsung Galaxy Tab A 9.7,415,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,871,491
+632,N/A,Samsung,1167,Samsung Galaxy J5 (2016),400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,875,491
+633,931,Samsung,1126,Samsung Galaxy A5 Duos,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,808,491
+634,N/A,LG,1248,LG Stylus 2,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,491
+635,724,Samsung,1115,Samsung Galaxy A3,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,811,490
+636,N/A,Barnes,808,Barnes & Noble Nook HD+,N/A,Ti OMAP 4470,2,1500 MHz,436,489
+637,N/A,Samsung,1124,Samsung Galaxy A5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,488
+638,N/A,Xiaomi,1264,Xiaomi Redmi 1S,N/A,Qualcomm Snapdragon 400,2,1593 MHz,2619,485
+639,N/A,Samsung,1158,Samsung Galaxy E5,397,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,484
+640,N/A,Oppo,1235,Oppo A33,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,920,483
+641,N/A,Samsung,1142,Samsung Galaxy J3 V,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,862,481
+642,N/A,Samsung,762,Samsung Galaxy Tab 3 8.0,N/A,Samsung Exynos 4212,2,1500 MHz,443,478
+643,N/A,LG,1226,LG Spirit,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,477
+644,N/A,Samsung,774,Samsung Galaxy S III,N/A,Qualcomm Snapdragon S4 MSM8960,2,1500 MHz,724,475
+645,N/A,Lenovo,1272,Lenovo Vibe P1m,N/A,Mediatek MT6735,4,988 MHz,717,475
+646,N/A,Samsung,1108,Samsung Galaxy On7,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,834,475
+647,N/A,Huawei,1347,Huawei Y5II,N/A,Mediatek MT6735,4,1300 MHz,782,473
+648,N/A,Samsung,1208,Samsung Galaxy S3 Neo,427,Qualcomm MSM8226 Snapdragon 400,4,1401 MHz,769,466
+649,440,Samsung,698,Samsung Galaxy Note,N/A,Samsung Exynos 4210,2,1400 MHz,424,464
+650,691,Lenovo,1233,Lenovo A2010,N/A,Mediatek MT6735,4,988 MHz,698,452
+651,N/A,Motorola,1223,Motorola Moto C,N/A,Mediatek MT6737,4,1092 MHz,782,446
+652,688,Amazon,1185,Amazon Kindle Fire (2015),N/A,Mediatek MT8127,4,1300 MHz,729,442
+653,N/A,Samsung,1159,Samsung Galaxy J3,502,Spreadtrum SC9830,4,1500 MHz,740,441
+654,2161,Amazon,1158,Amazon Fire (2017),N/A,Mediatek MT8127,4,1300 MHz,782,441
+655,N/A,Lenovo,1220,Lenovo Lenovo TB3-710F,N/A,Mediatek MT8161,4,1300 MHz,527,436
+656,N/A,Lenovo,1183,Lenovo C2,N/A,Mediatek MT6735,4,988 MHz,707,432
+657,780,LG,1133,LG G3 S,N/A,Qualcomm Snapdragon 400,2,1190 MHz,667,430
+658,N/A,Motorola,1093,Motorola Moto G,426,Qualcomm Snapdragon 400,2,1190 MHz,690,427
+659,N/A,Motorola,1156,Motorola Moto E3 Power,N/A,Mediatek MT6735,4,988 MHz,687,427
+660,N/A,Samsung,1126,Samsung Galaxy Tab 4 10.1,316,Qualcomm Snapdragon 400,2,1190 MHz,712,426
+661,569,Motorola,1077,Motorola Moto G (2014),426,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,690,425
+662,N/A,HTC,981,HTC One X,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,622,423
+663,N/A,ZTE,1146,ZTE Blade V7 Lite,N/A,Mediatek MT6735P,4,988 MHz,655,422
+664,N/A,Samsung,1099,Samsung Galaxy Grand 2,N/A,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,685,416
+665,N/A,Samsung,639,Samsung Galaxy S II,N/A,Samsung Exynos 4210,2,1200 MHz,346,415
+666,N/A,Asus,1186,Asus Zenfone Go,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+667,642,Doogee,1121,Doogee X5,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+668,1032,Samsung,1122,Samsung Galaxy S5 Mini,425,Samsung Exynos 3470,4,1400 MHz,743,414
+669,198,Samsung,668,Samsung Galaxy Nexus,N/A,Ti OMAP 4460,2,1200 MHz,336,413
+670,N/A,LG,1056,LG Phoenix 2,398,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,687,412
+671,N/A,Samsung,1051,Samsung Galaxy J2 Pro (2016),N/A,Spreadtrum SC8830,4,1500 MHz,676,411
+672,N/A,LG,1007,LG Tribute,396,Qualcomm Snapdragon 400,2,1267 MHz,714,410
+673,N/A,Huawei,661,Huawei Ascend P1,N/A,Ti OMAP 4460,2,1500 MHz,494,408
+674,N/A,Samsung,1071,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,853,408
+675,934,Samsung,1120,Samsung Galaxy J2,N/A,Samsung Exynos 3475 Quad,4,1300 MHz,702,406
+676,N/A,Cubot,1151,Cubot Note S,N/A,Mediatek MT6580M,4,1300 MHz,691,404
+677,N/A,Samsung,1152,Samsung Galaxy On5,353,Samsung Exynos 3475 Quad,4,1300 MHz,677,403
+678,1909,Samsung,1027,Samsung Galaxy Tab A 7.0,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,713,396
+679,N/A,LG,1013,LG K7,N/A,Mediatek MT6580M,4,1094 MHz,634,396
+680,N/A,HTC,978,HTC Desire 530,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,658,388
+681,N/A,Lenovo,992,Lenovo Tab 10,N/A,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,748,388
+682,N/A,Samsung,1005,Samsung Galaxy J3 (2016),397,Spreadtrum SC9830,4,1300 MHz,703,386
+683,749,Asus,979,Asus Nexus 7,N/A,NVIDIA Tegra 3 T30L,4,1300 MHz,672,384
+684,N/A,LG,879,LG Optimus 4X HD,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,654,384
+685,N/A,HTC,978,HTC Desire 626s,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,635,384
+686,N/A,Asus,882,Asus Zenfone Max,627,Qualcomm MSM8916 Snapdragon 410,4,998 MHz,1125,382
+687,N/A,Lenovo,951,Lenovo A1000,N/A,Spreadtrum SC7731,4,1300 MHz,497,382
+688,N/A,Motorola,738,Motorola Moto E,N/A,Qualcomm MSM8210 Snapdragon 200,2,1190 MHz,463,379
+689,N/A,Samsung,974,Samsung Galaxy J1 (2016),491,Spreadtrum SC9830,4,1200 MHz,683,374
+690,612,Motorola,595,Motorola RAZR XT910 ,N/A,Ti OMAP 4430,2,1200 MHz,325,368
+691,N/A,Sony,593,Sony Xperia M,N/A,Qualcomm Snapdragon S4 Plus MSM8227,2,972 MHz,296,368
+692,N/A,Sony,849,Sony Xperia M2,N/A,Qualcomm Snapdragon 400,2,1190 MHz,631,341
+693,N/A,Samsung,580,Samsung Galaxy Note LTE,N/A,Qualcomm Snapdragon S4 MSM8660,2,1500 MHz,N/A,339
+694,N/A,Samsung,521,Samsung Galaxy Tab 2 10.1,N/A,Ti OMAP 4430,2,1008 MHz,310,312
+695,N/A,Samsung,517,Samsung Galaxy Tab 2 7.0 (WiFi),N/A,Ti OMAP 4430,2,1000 MHz,334,311
+696,N/A,Sony,289,Sony Ericsson Xperia Arc S,N/A,Qualcomm Snapdragon S2 MSM8255T,1,1400 MHz,N/A,310
+697,N/A,Samsung,514,Samsung Galaxy Tab 2 7.0,N/A,Ti OMAP 4430,2,1000 MHz,285,310
+698,242,Samsung,490,Samsung Galaxy S III mini,N/A,ST-Ericsson NovaThor U8420,2,1000 MHz,291,307
+699,5020,Samsung,10645,Samsung Galaxy S10+,14426,Qualcomm Snapdragon 855,8,1785 MHz,7280,3430
+700,5990,Samsung,10598,Samsung Galaxy S10,14206,Qualcomm Snapdragon 855,8,1785 MHz,7284,3422
+701,5690,Samsung,10513,Samsung Galaxy S10e,14450,Qualcomm Snapdragon 855,8,1785 MHz,7336,3414
+702,3794,Samsung,9892,Samsung Galaxy S10+,17077,Samsung Exynos 9820,8,1950 MHz,9520,4313
+703,3160,Samsung,9818,Samsung Galaxy S10,16974,Samsung Exynos 9820,8,1950 MHz,9441,4314
+704,4690,Samsung,9788,Samsung Galaxy S10e,17630,Samsung Exynos 9820,8,1950 MHz,9383,4253
+705,5833,Huawei,9771,Huawei Mate 20 Pro,13986,HiSilicon Kirin 980,8,1805 MHz,7629,3331
+706,3565,OnePlus,8846,OnePlus 6,13181,Qualcomm Snapdragon 845,8,1766 MHz,13505,2390
+707,4873,OnePlus,8842,OnePlus 6T,13130,Qualcomm Snapdragon 845,8,1766 MHz,13165,2372
+708,5154,Samsung,8804,Samsung Galaxy Note 9,13452,Samsung Exynos 9810,8,1794 MHz,9353,3467
+709,N/A,Vivo,8769,Vivo NEX S,13109,Qualcomm Snapdragon 845,8,1766 MHz,13620,2390
+710,3880,HTC,8711,HTC U12+,13266,Qualcomm Snapdragon 845,8,1766 MHz,13476,2406
+711,4096,Samsung,8671,Samsung Galaxy S9+,13490,Samsung Exynos 9810,8,1794 MHz,8585,3335
+712,3209,Asus,8554,Asus Zenfone 5z,13241,Qualcomm Snapdragon 845,8,1766 MHz,13482,2383
+713,4783,Samsung,8532,Samsung Galaxy Note 9,13010,Qualcomm Snapdragon 845,8,1766 MHz,13256,2358
+714,3960,Samsung,8527,Samsung Galaxy S9,13197,Samsung Exynos 9810,8,1794 MHz,8705,3289
+715,3770,LG,8445,LG G7 ThinQ,13059,Qualcomm Snapdragon 845,8,1766 MHz,13153,2317
+716,3681,Sony,8389,Sony Xperia XZ2,13078,Qualcomm Snapdragon 845,8,1766 MHz,13340,2378
+717,N/A,Xiaomi,8367,Xiaomi Black Shark,11561,Qualcomm Snapdragon 845,8,1766 MHz,13220,2392
+718,4150,Samsung,8306,Samsung Galaxy S9+,12992,Qualcomm Snapdragon 845,8,1766 MHz,13406,2292
+719,N/A,Sony,8280,Sony Xperia XZ2 Compact,13081,Qualcomm Snapdragon 845,8,1766 MHz,13233,2351
+720,3965,Xiaomi,8243,Xiaomi Mi 8,13262,Qualcomm Snapdragon 845,8,1766 MHz,13090,2279
+721,3420,Samsung,8239,Samsung Galaxy S9,12708,Qualcomm Snapdragon 845,8,1766 MHz,13121,2281
+722,3013,Xiaomi,8148,Xiaomi Mix 2S,13291,Qualcomm Snapdragon 845,8,1766 MHz,13318,2259
+723,4270,Google,8039,Google Pixel 3 XL,N/A,Qualcomm Snapdragon 845,8,1766 MHz,13325,2290
+724,N/A,Google,7770,Google Pixel 3,13451,Qualcomm Snapdragon 845,8,1766 MHz,13217,2244
+725,4575,Xiaomi,7697,Xiaomi Pocophone F1,13340,Qualcomm Snapdragon 845,8,1766 MHz,12922,2194
+726,N/A,Xiaomi,7148,Xiaomi Poco F1,13326,Qualcomm Snapdragon 845,8,1766 MHz,12621,2093
+727,3960,OnePlus,6612,OnePlus 5T,10846,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7859,1941
+728,5360,Razer,6603,Razer Phone,10962,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7908,1913
+729,3490,Motorola,6482,Motorola Moto Z2 Force,10913,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7770,1892
+730,2627,Huawei,6461,Huawei Honor View 10,13379,HiSilicon Kirin 970,8,1844 MHz,8984,1877
+731,N/A,ZTE,6437,ZTE Nubia Z17S,10753,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7823,1922
+732,3375,Nokia,6431,Nokia 8,11189,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7839,1908
+733,N/A,Sony,6422,Sony Xperia XZ1 Compact,11214,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7814,1890
+734,N/A,HTC,6409,HTC U11+,11041,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7882,1925
+735,3844,Samsung,6405,Samsung Galaxy Note 8,13930,Samsung Exynos 8895 Octa,8,1690 MHz,9907,1951
+736,3948,Samsung,6386,Samsung Galaxy S8,13873,Samsung Exynos 8895 Octa,8,1690 MHz,9210,1941
+737,N/A,Huawei,6386,Huawei Nova 2s,11811,Hisilicon Kirin 960,8,1844 MHz,10914,1893
+738,4097,Samsung,6350,Samsung Galaxy S8+,13802,Samsung Exynos 8895 Octa,8,1690 MHz,9035,1939
+739,N/A,HTC,6333,HTC U11,10923,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7938,1913
+740,4630,Meizu,6330,Meizu 15 Plus,N/A,Samsung Exynos 8895 Octa,8,1690 MHz,8067,1911
+741,3440,Essential,6319,Essential PH-1,10798,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7647,1873
+742,5308,ZTE,6303,ZTE Nubia Z17,10556,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7702,1914
+743,2428,Huawei,6302,Huawei Honor 9,11257,Hisilicon Kirin 960,8,1844 MHz,10491,1873
+744,3572,Samsung,6277,Samsung Galaxy Note 8,12953,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,9054,1792
+745,3488,Xiaomi,6267,Xiaomi Mi Mix 2,10857,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7672,1890
+746,3482,Huawei,6217,Huawei Honor 10,13372,HiSilicon Kirin 970,8,1844 MHz,8459,1827
+747,3620,Xiaomi,6193,Xiaomi MI 6,10795,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7658,1894
+748,3186,Sony,6179,Sony Xperia XZ1,11221,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7775,1880
+749,4046,Sony,6156,Sony Xperia XZ Premium,11018,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7782,1886
+750,4033,LG,6151,LG V30,9542,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7480,1866
+751,3860,Google,6121,Google Pixel 2 XL,7553,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7089,1826
+752,N/A,Huawei,6106,Huawei Honor V9,9458,Hisilicon Kirin 960,8,1844 MHz,9623,1877
+753,2768,Huawei,6063,Huawei Honor 8 Pro,8156,Hisilicon Kirin 960,8,1844 MHz,9032,1867
+754,3012,Google,6060,Google Pixel 2,9970,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7179,1838
+755,N/A,Samsung,6057,Samsung Galaxy S8 Active,10321,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7509,1775
+756,2447,Huawei,6054,Huawei P10,9580,Hisilicon Kirin 960,8,1844 MHz,9000,1861
+757,4174,Samsung,6032,Samsung Galaxy S8+,11747,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8349,1771
+758,3410,Samsung,6028,Samsung Galaxy S8,12897,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8800,1763
+759,N/A,Huawei,5972,Huawei Mate 9,9776,Hisilicon Kirin 960,8,1844 MHz,8619,1870
+760,2440,Huawei,5850,Huawei P10 Plus,9990,Hisilicon Kirin 960,8,1844 MHz,8821,1870
+761,N/A,Vivo,5778,Vivo X20A,4045,Qualcomm Snapdragon 660,8,1843 MHz,5397,1604
+762,N/A,Meizu,5763,Meizu Pro 7,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,4807,1767
+763,4523,Xiaomi,5718,Xiaomi Mi 8 SE,5761,Qualcomm SDM710 Snapdragon 710,8,1708 MHz,6682,1823
+764,N/A,Huawei,5707,Huawei Mate 9 Pro,9659,Hisilicon Kirin 960,8,1844 MHz,8923,1866
+765,3778,Nokia,5707,Nokia 7 Plus,4431,Qualcomm Snapdragon 660,8,1843 MHz,5642,1620
+766,3208,Smartisan,5705,Smartisan Nut Pro 2,4132,Qualcomm Snapdragon 660,8,1843 MHz,5272,1614
+767,N/A,Vivo,5703,Vivo X20,N/A,Qualcomm Snapdragon 660,8,1843 MHz,5409,1632
+768,N/A,Qihoo,5681,Qihoo 360 N6 Pro,4141,Qualcomm Snapdragon 660,8,1843 MHz,5426,1605
+769,N/A,Meizu,5635,Meizu Pro 7 Plus,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,5041,1684
+770,4548,Xiaomi,5630,Xiaomi Mi Note 3,4128,Qualcomm Snapdragon 660,8,1843 MHz,5365,1588
+771,N/A,OPPO,5602,OPPO R11,8994,Qualcomm Snapdragon 660,8,1843 MHz,4973,1603
+772,N/A,OPPO,5563,OPPO R11 Plus,7289,Qualcomm Snapdragon 660,8,1843 MHz,5623,1672
+773,4030,Oppo,5554,Oppo F7,N/A,Mediatek MT6771 Helio P60,8,1989 MHz,5172,1472
+774,N/A,Huawei,5375,Huawei Honor V8,4187,HiSilicon Kirin 950,8,1805 MHz,3870,1745
+775,2220,Samsung,5356,Samsung Galaxy S7,7368,Samsung Exynos 8890,8,1586 MHz,4790,1811
+776,5425,Oppo,5343,Oppo Realme 1,4380,Mediatek MT6771 Helio P60,8,1989 MHz,5018,1444
+777,2782,Samsung,5291,Samsung Galaxy S7 edge,6965,Samsung Exynos 8890,8,1586 MHz,4571,1745
+778,2292,Huawei,5282,Huawei Mate 8,3754,HiSilicon Kirin 950,8,1805 MHz,3812,1683
+779,N/A,Xiaomi,5253,Xiaomi Mi A2,4407,Qualcomm Snapdragon 660,8,1843 MHz,5453,1596
+780,1920,Huawei,5203,Huawei Honor 8,3956,HiSilicon Kirin 950,8,1805 MHz,3962,1665
+781,3338,Huawei,5132,Huawei MediaPad M3 8.4,3568,HiSilicon Kirin 950,8,1805 MHz,4219,1672
+782,N/A,Samsung,5109,Samsung Galaxy Note 7,3811,Samsung Exynos 8890,8,1586 MHz,3308,1734
+783,2574,Huawei,5096,Huawei P9 Plus,3766,HiSilicon Kirin 955,8,1805 MHz,3853,1767
+784,2105,Asus,5089,Asus Zenfone 5 Max,3108,Qualcomm Snapdragon 660,8,1612 MHz,4796,1449
+785,N/A,Huawei,5067,Huawei Honor V8 Max,4288,HiSilicon Kirin 955,8,1805 MHz,3973,1759
+786,1725,Huawei,4820,Huawei P9,3869,HiSilicon Kirin 955,8,1805 MHz,3797,1709
+787,5257,Xiaomi,4773,Xiaomi Redmi Note 5 AI,3121,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4483,1330
+788,3934,Nokia,4761,Nokia 6.1 Plus,3054,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4258,1319
+789,6442,Asus,4681,Asus Zenfone Max Pro (M1),3123,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4451,1317
+790,5444,Xiaomi,4667,Xiaomi Redmi Note 5 Pro,3035,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4438,1326
+791,2051,Oppo,4515,Oppo F3 Plus,3992,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4932,1427
+792,1341,Kodak,4468,Kodak Ektra,3960,Mediatek MT6797 Helio X20,10,1391 MHz,3421,1599
+793,N/A,Vivo,4466,Vivo X9 Plus,4011,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4483,1430
+794,4009,Motorola,4436,Motorola Moto Z2 Play,2001,Qualcomm Snapdragon 626,8,2208 MHz,3155,895
+795,N/A,Smartisan,4432,Smartisan M1,10091,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7427,1880
+796,N/A,BQ,4419,BQ Aquaris X Pro,1783,Qualcomm Snapdragon 626,8,2208 MHz,3482,919
+797,N/A,Vernee,4410,Vernee Apollo Lite,3858,Mediatek MT6797 Helio X20,10,1391 MHz,2871,1612
+798,N/A,BQ,4392,BQ Aquaris X,1770,Qualcomm Snapdragon 626,8,2208 MHz,3457,915
+799,4057,Vivo,4372,Vivo V9,2719,Qualcomm Snapdragon 626,8,2208 MHz,3756,929
+800,N/A,UMi,4371,UMi Z,4356,Mediatek Helio X27,10,1547 MHz,3177,1598
+801,2710,Meizu,4362,Meizu PRO 6 Plus,5206,Samsung Exynos 8890,8,1482 MHz,4322,1465
+802,N/A,Qihoo,4343,Qihoo 360 N5S,3834,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4415,1402
+803,4852,10.or,4339,10.or G,1796,Qualcomm Snapdragon 626,8,2208 MHz,3501,911
+804,N/A,UMi,4335,UMi Z Pro,4197,Mediatek Helio X27,10,1547 MHz,3464,1550
+805,N/A,Smartisan,4330,Smartisan M1L,9964,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7512,1868
+806,N/A,Meizu,4305,Meizu Pro 6s,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3175,1169
+807,N/A,Qihoo,4296,Qihoo 360 N4,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2926,1517
+808,N/A,QiKU,4275,QiKU N4s,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2879,1511
+809,1947,Samsung,4274,Samsung Galaxy Tab S2 9.7 (2016),3901,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4235,1369
+810,N/A,Vernee,4265,Vernee Apollo,4203,Mediatek MT6797T Helio X25,10,1547 MHz,3118,1691
+811,N/A,NVIDIA,4263,NVIDIA SHIELD Android TV,N/A,NVIDIA Tegra X1,4,2014 MHz,3424,1510
+812,N/A,ZTE,4259,ZTE Nubia Z17 Mini,3730,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4264,1372
+813,N/A,Meizu,4227,Meizu PRO 5,3860,Samsung Exynos 7420,8,1500 MHz,3032,1357
+814,N/A,Qihoo,4217,Qihoo 360 N5,3929,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4275,1397
+815,N/A,Samsung,4213,Samsung Galaxy C7 Pro,1688,Qualcomm Snapdragon 626,8,2208 MHz,3358,893
+816,3035,Samsung,4208,Samsung Galaxy A8 (2018),4585,Samsung Exynos 7885 Octa,8,1586 MHz,3705,1482
+817,N/A,Samsung,4204,Samsung Galaxy A8 (2016),5735,Samsung Exynos 7420,8,1500 MHz,3401,1305
+818,N/A,Asus,4188,Asus Zenfone 3 Zoom,1791,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3341,860
+819,N/A,Coolpad,4187,Coolpad Cool S1,9300,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7272,1772
+820,3415,Xiaomi,4171,Xiaomi Mi A1,1817,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3431,859
+821,N/A,Samsung,4166,Samsung Galaxy J7 V,N/A,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3426,900
+822,2912,Motorola,4161,Motorola Moto G5S Plus,2001,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2945,832
+823,1716,Samsung,4149,Samsung Galaxy S6 Active,5813,Samsung Exynos 7420,8,1500 MHz,3097,1286
+824,N/A,Samsung,4143,Samsung Galaxy J7 Perx,1781,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3425,903
+825,N/A,Qihoo,4141,Qihoo 360 N6 Lite,2964,Qualcomm Snapdragon 630,8,2208 MHz,3753,869
+826,2010,OnePlus,4117,OnePlus 3T,10178,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7474,1800
+827,3181,Motorola,4112,Motorola Moto G5 Plus,1994,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2889,834
+828,3041,Samsung,4104,Samsung Galaxy A5 (2017),3303,Samsung Exynos 7880,8,1872 MHz,3000,773
+829,3644,Nokia,4102,Nokia 6.1,3014,Qualcomm Snapdragon 630,8,2208 MHz,3732,869
+830,2956,Asus,4100,Asus Zenfone 3,3318,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3482,853
+831,N/A,Elephone,4091,Elephone S8,N/A,Mediatek MT6797T Helio X25,10,2002 MHz,3285,1299
+832,3710,Xiaomi,4088,Xiaomi Redmi S2,1974,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3397,835
+833,2930,Samsung,4083,Samsung Galaxy A8+ (2018),4640,Samsung Exynos 7885 Octa,8,1586 MHz,3548,1455
+834,N/A,Sharp,4079,Sharp Aquos S2,2947,Qualcomm Snapdragon 630,8,2208 MHz,3688,859
+835,3622,Motorola,4077,Motorola Moto X4,2980,Qualcomm Snapdragon 630,8,2208 MHz,3754,863
+836,4058,Asus,4068,Asus Zenfone 4,3837,Qualcomm Snapdragon 630,8,2208 MHz,4686,851
+837,2733,Lenovo,4067,Lenovo K8 Note,N/A,Mediatek Helio X23,10,1391 MHz,3243,1476
+838,5274,Meizu,4062,Meizu M6 Note,1775,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3174,831
+839,2141,Google,4060,Google Pixel XL,7201,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7508,1626
+840,1666,Samsung,4059,Samsung Galaxy S6 edge+,5498,Samsung Exynos 7420,8,1500 MHz,2914,1309
+841,N/A,Samsung,4057,Samsung Galaxy C5 Pro,1718,Qualcomm Snapdragon 626,8,2208 MHz,3333,881
+842,3375,LeEco,4055,LeEco Le Pro3,9828,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7217,1798
+843,1586,Samsung,4051,Samsung Galaxy S6 edge,5264,Samsung Exynos 7420,8,1500 MHz,2943,1292
+844,N/A,Motorola,4046,Motorola Moto G6 Plus,3029,Qualcomm Snapdragon 630,8,2208 MHz,3739,861
+845,N/A,ZTE,4036,ZTE Nubia M2,1585,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3262,837
+846,N/A,Samsung,4034,Samsung Galaxy C9 Pro,3475,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4099,1294
+847,1753,Samsung,4028,Samsung Galaxy Note 5,5600,Samsung Exynos 7420,8,1500 MHz,2908,1303
+848,2556,Xiaomi,4020,Xiaomi MI 5s Plus,9476,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6912,1776
+849,1738,Google,4014,Google Pixel,N/A,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7708,1626
+850,2908,Xiaomi,4014,Xiaomi Redmi Pro,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3133,1648
+851,N/A,Samsung,4011,Samsung Galaxy A7 (2017),3288,Samsung Exynos 7880,8,1872 MHz,2980,771
+852,N/A,Xiaomi,4010,Xiaomi Redmi Note 4,1785,Qualcomm MSM8953 Snapdragon 625,8,0 MHz,3151,1475
+853,N/A,Sharp,3994,Sharp Luna S,3877,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4001,1258
+854,N/A,LeTV,3987,LeTV Le 1 (X600),1785,Mediatek MT6795 Helio X10,8,1950 MHz,1974,788
+855,N/A,Samsung,3969,Samsung Galaxy Tab S2 8.0,3386,Samsung Exynos 5433,8,1401 MHz,3215,1359
+856,N/A,Vivo,3964,Vivo X9,1750,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3080,852
+857,3140,Xiaomi,3963,Xiaomi Mi Note 2,9375,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7100,1761
+858,1841,Samsung,3956,Samsung Galaxy Tab S2 8.0,3888,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4163,1355
+859,1417,Samsung,3954,Samsung Galaxy Note5 Duos,5225,Samsung Exynos 7420,8,1500 MHz,2898,1278
+860,1956,OnePlus,3947,OnePlus 3,10046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7325,1683
+861,1618,Samsung,3945,Samsung Galaxy S6,5388,Samsung Exynos 7420,8,1500 MHz,2854,1257
+862,2377,Xiaomi,3935,Xiaomi MI 5s,9499,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1996 MHz,6953,1617
+863,2738,Vernee,3934,Vernee Mars Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2777,856
+864,N/A,Meizu,3933,Meizu M2E,2372,Mediatek Helio P20 MT6757,8,1638 MHz,2761,845
+865,1810,HTC,3922,HTC U Ultra,9857,Qualcomm MSM8996 Snapdragon 821,4,1996 MHz,7174,1662
+866,1804,ZTE,3919,ZTE Axon 7,9711,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6911,1656
+867,N/A,Meizu,3904,Meizu M3x,2485,Mediatek Helio P20 MT6757,8,1638 MHz,2710,861
+868,N/A,Vivo,3897,Vivo Xplay 6,9843,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7054,1695
+869,N/A,Xiaomi,3882,Xiaomi Mi Mix,9388,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6859,1749
+870,1674,ZTE,3869,ZTE Axon 7,9757,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6936,1639
+871,N/A,Samsung,3865,Samsung Galaxy Note 7,3929,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4061,1519
+872,4842,Lenovo,3836,Lenovo P2,1758,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3207,847
+873,N/A,Samsung,3836,Samsung Galaxy Tab S3,9064,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6700,1523
+874,2501,LeEco,3825,LeEco Le Max 2,9202,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6987,1665
+875,N/A,ZTE,3824,ZTE Nubia Z11,7526,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4201,1676
+876,6059,Xiaomi,3824,Xiaomi Mi Max 2,1818,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3071,850
+877,N/A,ZTE,3814,ZTE Nubia Z11 Mini S,1640,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2933,824
+878,4149,Motorola,3801,Motorola Moto Z Play,1995,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2832,822
+879,N/A,Blackview,3798,Blackview BV8000 Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2616,832
+880,N/A,Samsung,3796,Samsung Galaxy A9 Pro,3738,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3558,1300
+881,3246,LG,3795,LG G6,8827,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6910,1664
+882,1667,BlackBerry,3788,BlackBerry DTEK60,9674,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6820,1703
+883,N/A,Vivo,3787,Vivo V7,1702,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3045,766
+884,1627,Meizu,3786,Meizu Pro 6,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3230,1318
+885,N/A,Vivo,3784,Vivo V5 Plus,1792,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3061,850
+886,3060,Motorola,3782,Motorola Moto G6,1862,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,2868,739
+887,N/A,Vivo,3781,Vivo V7+,1726,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3009,760
+888,N/A,Lenovo,3770,Lenovo ZUK Edge,10170,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7122,1530
+889,N/A,UMi,3751,UMi Plus E,2221,Mediatek Helio P20 MT6757,8,2340 MHz,2730,847
+890,3032,Samsung,3744,Samsung Galaxy S7 edge,6992,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4741,1456
+891,1475,Motorola,3744,Motorola Moto Z,9046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6836,1536
+892,1926,Samsung,3719,Samsung Galaxy S7,7424,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4954,1536
+893,N/A,LeEco,3716,LeEco Le2 Pro,N/A,Mediatek MT6797T Helio X25,10,1846 MHz,2615,1472
+894,5327,Doogee,3707,Doogee S60,N/A,Mediatek Helio P20 MT6757,8,2600 MHz,2621,829
+895,N/A,Xiaomi,3701,Xiaomi Redmi 5,1687,Qualcomm SDM450 Snapdragon 450,8,2016 MHz,3021,773
+896,2747,Samsung,3700,Samsung Galaxy S7 Active,8229,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6161,1501
+897,N/A,Sony,3698,Sony Xperia XA1 Ultra,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2711,863
+898,N/A,Sony,3696,Sony Xperia XZs,9978,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7390,1610
+899,1865,Xiaomi,3694,Xiaomi Mi 5,9045,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6540,1606
+900,N/A,Meizu,3671,Meizu MX6,3371,Mediatek MT6797 Helio X20,10,1391 MHz,3049,1505
+901,1726,LG,3668,LG G5,9345,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6585,1651
+902,N/A,Sony,3666,Sony Xperia XA1,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2701,855
+903,N/A,Asus,3659,Asus Zenfone 3 Ultra,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4146,1357
+904,N/A,Doogee,3657,Doogee Mix,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2729,840
+905,N/A,Huawei,3651,Huawei Nova,1774,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3074,854
+906,2887,Huawei,3631,Huawei P20 Lite,2129,HiSilicon Kirin 659,8,1709 MHz,3067,925
+907,N/A,Huawei,3626,Huawei P Smart,2156,HiSilicon Kirin 659,8,1709 MHz,3049,926
+908,N/A,Huawei,3620,Huawei Honor 9 Lite,2165,HiSilicon Kirin 659,8,1709 MHz,3042,925
+909,2270,Sony,3616,Sony Xperia XZ,9849,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7230,1567
+910,N/A,Huawei,3608,Huawei Mate SE,2146,HiSilicon Kirin 659,8,1709 MHz,3043,928
+911,N/A,Sony,3603,Sony Xperia X Performance,9746,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7142,1551
+912,N/A,Xiaomi,3595,Xiaomi Redmi 4 Prime,1963,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3118,868
+913,1776,Lenovo,3587,Lenovo ZUK Z2 Pro,9951,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6198,1532
+914,1485,LeEco,3583,LeEco Le S3,3727,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3410,1476
+915,1238,Sony,3576,Sony Xperia M5,1795,Mediatek MT6795 Helio X10,8,1950 MHz,2581,730
+916,N/A,Samsung,3559,Samsung Galaxy C7,1735,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3070,840
+917,N/A,Huawei,3549,Huawei Nova 2,2073,HiSilicon Kirin 659,8,1709 MHz,2991,910
+918,3717,Huawei,3542,Huawei Nova 2 Plus,2052,HiSilicon Kirin 659,8,1709 MHz,3002,910
+919,N/A,Samsung,3532,Samsung Galaxy Feel,1237,Samsung Exynos 7870 Octa,8,1586 MHz,2412,710
+920,3696,Huawei,3522,Huawei Honor 7X,2058,HiSilicon Kirin 659,8,1709 MHz,2978,911
+921,N/A,Huawei,3515,Huawei Nova Plus,1773,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2982,851
+922,N/A,Xiaomi,3510,Xiaomi Mi Pad 3,N/A,Mediatek MT8176,6,1703 MHz,2966,1578
+923,2107,Lenovo,3492,Lenovo ZUK Z2,9937,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6333,1642
+924,1878,LG,3492,LG V20,9037,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6372,1569
+925,3694,Huawei,3490,Huawei Mate 10 Lite,2046,HiSilicon Kirin 659,8,1709 MHz,2973,912
+926,3943,Samsung,3481,Samsung Galaxy J7 (2017),1234,Samsung Exynos 7870 Octa,8,1586 MHz,2288,713
+927,1679,HTC,3479,HTC 10,9510,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6633,1557
+928,N/A,ZTE,3472,ZTE Nubia Z11 Max,3437,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3564,1327
+929,N/A,Samsung,3462,Samsung Galaxy J7 Pro,1232,Samsung Exynos 7870 Octa,8,1586 MHz,2268,711
+930,N/A,Sony,3440,Sony Xperia Z4 Tablet (Wi-Fi),5588,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4240,1350
+931,N/A,Lenovo,3436,Lenovo K8 Plus,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2549,901
+932,2530,Samsung,3430,Samsung Galaxy A3 (2017),1233,Samsung Exynos 7870 Octa,8,1586 MHz,2283,705
+933,3540,Oppo,3416,Oppo R9s,1708,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3102,859
+934,4190,Xiaomi,3415,Xiaomi Redmi Note 4X,1778,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3045,832
+935,3638,Samsung,3412,Samsung Galaxy Tab A 10.1,1235,Samsung Exynos 7870 Octa,8,1586 MHz,2198,705
+936,N/A,Asus,3405,Asus Zenpad 3S 10,N/A,Mediatek MT8176,6,1703 MHz,2799,1534
+937,N/A,Sony,3404,Sony Xperia X Compact,3755,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3834,1374
+938,N/A,Maze,3400,Maze Alpha,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2637,844
+939,1276,Huawei,3395,Huawei Honor 8 Lite,2157,HiSilicon Kirin 655,8,1709 MHz,2722,816
+940,N/A,Motorola,3375,Motorola Moto X Force,5454,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4227,1271
+941,1499,Huawei,3372,Huawei P8 lite (2017),2156,HiSilicon Kirin 655,8,1709 MHz,2767,815
+942,N/A,Google,3371,Google Pixel C,N/A,NVIDIA Tegra X1,4,1912 MHz,2145,1345
+943,N/A,Sony,3370,Sony Xperia C5 Ultra Dual,N/A,Mediatek MT6752,8,1690 MHz,2318,743
+944,2575,Samsung,3367,Samsung Galaxy J5 (2017),1200,Samsung Exynos 7870 Octa,8,1586 MHz,2267,705
+945,N/A,Asus,3362,Asus Zenpad Z10,3841,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3876,1419
+946,1450,Huawei,3360,Huawei P9 lite,2038,HiSilicon Kirin 650,4,1709 MHz,2441,796
+947,2866,Huawei,3360,Huawei P10 Lite,2069,HiSilicon Kirin 658,8,1709 MHz,2796,885
+948,N/A,Huawei,3359,Huawei Nova Lite,2159,HiSilicon Kirin 655,8,1709 MHz,2753,813
+949,N/A,Sony,3351,Sony Xperia C5 Ultra,N/A,Mediatek MT6752,8,1690 MHz,2082,738
+950,N/A,Huawei,3336,Huawei Mate 9 Lite,1888,HiSilicon Kirin 655,8,1709 MHz,2678,814
+951,N/A,Huawei,3335,Huawei Honor 6X,2073,HiSilicon Kirin 655,8,1709 MHz,2655,811
+952,N/A,Vivo,3329,Vivo X7,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4023,1339
+953,1659,Samsung,3327,Samsung Galaxy J7,1057,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,1997,693
+954,N/A,Sony,3327,Sony Xperia M5 Dual,1695,Mediatek MT6795 Helio X10,8,1950 MHz,2515,726
+955,N/A,Samsung,3326,Samsung Galaxy J7 (2016),1151,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,2048,687
+956,N/A,LG,3310,LG G5 SE,3956,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3614,1165
+957,N/A,Samsung,3302,Samsung Galaxy Tab S2 9.7,3545,Samsung Exynos 5433,8,1300 MHz,2855,1003
+958,N/A,Vivo,3301,Vivo X7 Plus,N/A,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4015,1326
+959,2209,Huawei,3300,Huawei Honor 5c,2035,HiSilicon Kirin 650,4,1709 MHz,2423,795
+960,N/A,LeEco,3296,LeEco Le 1s,1685,Mediatek MT6795 Helio X10,8,2158 MHz,2444,827
+961,1729,Sony,3282,Sony Xperia X,3802,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3867,1373
+962,N/A,Sony,3280,Sony Xperia C4,N/A,Mediatek MT6752,8,1690 MHz,2318,737
+963,N/A,Lenovo,3275,Lenovo Vibe X2,1273,MediaTek MT6595M,8,1690 MHz,1214,1020
+964,N/A,Huawei,3267,Huawei Nova 2i,2003,HiSilicon Kirin 659,8,1709 MHz,2828,887
+965,3275,Samsung,3246,Samsung Galaxy J7 Max,N/A,Mediatek Helio P20 MT6757,8,1690 MHz,1926,767
+966,N/A,Lenovo,3245,Lenovo P70,N/A,Mediatek MT6752m,8,1690 MHz,2069,722
+967,3844,Lenovo,3245,Lenovo Yogabook YB1-X90F,N/A,Intel Atom x5-Z8550,4,2400 MHz,3099,1170
+968,3730,Samsung,3232,Samsung Galaxy J7 Nxt,1116,Samsung Exynos 7870 Octa,8,1586 MHz,2201,690
+969,N/A,Sony,3231,Sony Xperia C4 Dual,N/A,Mediatek MT6752,8,1690 MHz,2287,742
+970,1038,Samsung,3223,Samsung Galaxy Note 4,3434,Samsung Exynos 5433,8,1300 MHz,2621,973
+971,1087,Samsung,3208,Samsung Galaxy A5 (2016),1143,Samsung Exynos 7580,8,1600 MHz,1983,642
+972,1808,Samsung,3207,Samsung Galaxy A7 (2016),1282,Samsung Exynos 7580,8,1600 MHz,1981,643
+973,1199,Lenovo,3188,Lenovo Vibe S1,N/A,Mediatek MT6752,8,1690 MHz,2071,738
+974,N/A,Vivo,3158,Vivo X6S,3889,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3877,1325
+975,N/A,Meizu,3152,Meizu S6,N/A,Samsung Exynos 7885 Octa,8,1586 MHz,2731,1308
+976,2206,Xiaomi,3146,Xiaomi MI MAX,3835,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3679,1376
+977,2549,Samsung,3146,Samsung Galaxy J7 Prime,1196,Samsung Exynos 7870 Octa,8,1586 MHz,2131,682
+978,1636,Xiaomi,3103,Xiaomi MI PAD 2,N/A,Intel Atom x5-Z8500,4,2240 MHz,4164,1063
+979,N/A,Lenovo,3101,Lenovo Yoga Tab 3 Pro,N/A,Intel Atom x5-Z8500,4,2240 MHz,4480,1107
+980,N/A,Vernee,3100,Vernee Mix 2,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2423,831
+981,N/A,Lenovo,3099,Lenovo Yoga Tab 3 Plus,3820,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,4089,1279
+982,N/A,Alcatel,3088,Alcatel Idol 4s,3866,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3904,1414
+983,N/A,Elephone,3086,Elephone S7,3517,Mediatek MT6797 Helio X20,10,1391 MHz,2854,1283
+984,1241,Vodafone,3085,Vodafone Smart Platinum 7,3792,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3821,1397
+985,N/A,JiaYu,3084,JiaYu S3,N/A,Mediatek MT6752,8,1690 MHz,2248,730
+986,N/A,Bluboo,3072,Bluboo S1,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2469,817
+987,1040,Samsung,3067,Samsung Galaxy S5 Neo,1041,Samsung Exynos 7580 Octa,8,1600 MHz,1979,641
+988,N/A,Oppo,3058,Oppo R9,1548,Mediatek MT6755 Helio P10,8,1950 MHz,2114,790
+989,N/A,Lenovo,3035,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2173,728
+990,N/A,Asus,3031,Asus Zenpad S 8.0,2411,Intel Atom Z3580,4,2333 MHz,1202,1077
+991,3240,Lenovo,3021,Lenovo Tab3 8 Plus,1643,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3175,843
+992,N/A,Infinix,3014,Infinix Zero 3,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1792,655
+993,N/A,Oppo,2959,Oppo F1 Plus,1584,Mediatek MT6755 Helio P10,8,1950 MHz,1811,774
+994,N/A,LeEco,2921,LeEco Le Max,5159,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3776,1258
+995,1230,Lenovo,2897,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2146,731
+996,1691,Lenovo,2886,Lenovo A7000,N/A,Mediatek MT6752m,8,1690 MHz,1920,725
+997,1192,Huawei,2878,Huawei Nexus 6P,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4404,1238
+998,N/A,Huawei,2875,Huawei Enjoy 5s,N/A,Mediatek MT6753,8,1495 MHz,1887,684
+999,763,Asus,2873,Asus Zenpad Z8,3872,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3710,1365
+1000,1605,Asus,2864,Asus Zenfone Zoom,2307,Intel Atom Z3590,4,2500 MHz,1288,1064
+1001,1219,Meizu,2850,Meizu M1 Note,N/A,Mediatek MT6752m,8,1690 MHz,2157,789
+1002,1839,LeEco,2846,LeEco Coolpad Cool1 dual,3867,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4040,1372
+1003,N/A,LeEco,2832,LeEco Le Pro 1,5542,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3824,1261
+1004,N/A,Sony,2826,Sony Xperia XA,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2020,760
+1005,N/A,Vivo,2825,Vivo V3 Max,3886,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3605,1372
+1006,N/A,Sony,2821,Sony Xperia XA Dual,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2024,759
+1007,N/A,Sony,2815,Sony Xperia Z4,5113,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3970,1288
+1008,N/A,Smartron,2814,Smartron srt.phone,3653,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4076,1301
+1009,N/A,QiKU,2812,QiKU Q Terra,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2701,1150
+1010,4250,Xiaomi,2810,Xiaomi Redmi 4,1530,Qualcomm MSM8937 Snapdragon 430,8,2016 MHz,2630,837
+1011,1058,Motorola,2798,Motorola Moto X Style,2721,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2787,1124
+1012,1918,Meizu,2793,Meizu MX5,1715,Mediatek MT6795 Helio X10,8,2158 MHz,2478,817
+1013,N/A,Nokia,2792,Nokia 5,1314,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2314,673
+1014,1202,Sony,2791,Sony Xperia Z5 Premium,5525,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4190,1266
+1015,N/A,Nokia,2786,Nokia 6,1319,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2272,668
+1016,N/A,Xiaomi,2780,Xiaomi Mi 5c,N/A,Xiaomi Surge S1,8,1404 MHz,1966,726
+1017,N/A,Gionee,2779,Gionee A1,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1957,733
+1018,1848,HTC,2774,HTC Nexus 9,N/A,NVIDIA Tegra K1 Denver,2,2499 MHz,3643,1728
+1019,N/A,Lyf,2768,Lyf F1S,3881,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4089,1396
+1020,1298,Oppo,2764,Oppo A57,1200,Qualcomm Snapdragon 435,8,1401 MHz,2302,657
+1021,N/A,HTC,2764,HTC 10 evo,4981,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3922,933
+1022,N/A,Samsung,2763,Samsung Galaxy A8 Duos,1917,Qualcomm MSM8939 Snapdragon 615,8,1300 MHz,1996,852
+1023,N/A,Oppo,2761,Oppo F3,N/A,Mediatek MT6750,8,1508 MHz,2139,754
+1024,1220,NVIDIA,2757,NVIDIA SHIELD Tablet K1,N/A,NVIDIA Tegra K1,4,2218 MHz,4033,1026
+1025,N/A,HTC,2756,HTC U Play,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1977,740
+1026,1696,Asus,2754,Asus Zenfone 2 ,2335,Intel Atom Z2560,2,2333 MHz,1213,1026
+1027,N/A,Sony,2751,Sony Xperia Z5 Premium Dual,5345,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4138,1239
+1028,1368,NVIDIA,2740,NVIDIA SHIELD Tablet,N/A,NVIDIA Tegra K1,4,2218 MHz,3957,1025
+1029,1209,OnePlus,2740,OnePlus 2,4544,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3510,1050
+1030,N/A,Lenovo,2739,Lenovo Vibe X3,2742,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2662,1053
+1031,N/A,LeEco,2723,LeEco LeRee Le 3,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4201,1364
+1032,N/A,ZTE,2716,ZTE Nubia Z9 Max,5635,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3783,1235
+1033,886,Xiaomi,2715,Xiaomi Mi Note Pro,5509,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3930,1218
+1034,1359,Sony,2715,Sony Xperia Z5 Dual,5337,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4114,1234
+1035,1453,Lenovo,2700,Lenovo ZUK Z1,2423,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,1025
+1036,1135,Sony,2699,Sony Xperia Z5,5503,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4070,1230
+1037,2133,Xiaomi,2694,Xiaomi Redmi Note 3,3775,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3315,1399
+1038,1340,Sony,2688,Sony Xperia Z5 Compact,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3887,1222
+1039,N/A,Meizu,2675,Meizu M1 Metal,1467,Mediatek MT6795 Helio X10,8,1950 MHz,2373,776
+1040,N/A,Sony,2675,Sony Xperia Z3 Tablet Compact,2267,Qualcomm MSM8274AB Snapdragon 801,4,2457 MHz,2244,998
+1041,N/A,BQ,2672,BQ Aquaris X5 Plus,4066,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3369,1155
+1042,1434,LG,2655,LG V10,2632,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2603,968
+1043,1570,HTC,2655,HTC One A9s,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1924,727
+1044,N/A,ZTE,2652,ZTE Nubia Z9,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3695,1200
+1045,N/A,Blackview,2631,Blackview BV6000,N/A,Mediatek MT6755 Helio P10,8,1144 MHz,1693,733
+1046,N/A,YU,2630,YU Yunicorn,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1268,702
+1047,N/A,Fujitsu,2630,Fujitsu Arrows NX F-04G,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3240,892
+1048,N/A,Oppo,2627,Oppo Find 7a,N/A,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2501,1009
+1049,921,Samsung,2626,Samsung Galaxy S5 LTE-A,4782,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3081,976
+1050,1050,Samsung,2622,Samsung Galaxy C5,1256,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1910,666
+1051,N/A,Lenovo,2616,Lenovo K5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1664,685
+1052,N/A,Huawei,2616,Huawei Y7 Prime,1559,Qualcomm Snapdragon 435,8,1401 MHz,2201,641
+1053,1546,Samsung,2615,Samsung Galaxy S5 Plus,4966,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3290,1010
+1054,N/A,Sony,2612,Sony Xperia Z2 Tablet LTE,2218,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2146,973
+1055,N/A,Meizu,2605,Meizu MX4,1264,MediaTek MT6595,8,1690 MHz,2253,797
+1056,N/A,Vernee,2599,Vernee Thor,N/A,Mediatek MT6753,8,1300 MHz,1688,613
+1057,N/A,Sony,2595,Sony Xperia Z5 Compact,5460,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4000,1215
+1058,N/A,Huawei,2591,Huawei P8 Max,N/A,HiSilicon Kirin 935,4,1516 MHz,2173,756
+1059,N/A,Meizu,2587,Meizu M1E,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1857,717
+1060,N/A,HTC,2583,HTC One A9,1277,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2110,670
+1061,N/A,UMi,2579,UMi Super,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1585,726
+1062,N/A,LG,2579,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2728,1095
+1063,1357,Motorola,2576,Motorola Nexus 6,N/A,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2852,1008
+1064,1618,LeEco,2575,LeEco Le 2,3617,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3920,1374
+1065,N/A,Huawei,2572,Huawei Honor 6A,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2127,636
+1066,1126,Elephone,2566,Elephone P9000,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1611,725
+1067,1394,Sony,2561,Sony Xperia Z3 Compact,2251,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2235,975
+1068,N/A,Vodafone,2560,Vodafone Smart Ultra 7,N/A,Mediatek MT6755M Helio P10 M,8,1807 MHz,1742,692
+1069,2337,LG,2557,LG Stylus 3,1448,Mediatek MT6750,8,1401 MHz,1770,623
+1070,N/A,UMi,2552,UMi Max,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1636,703
+1071,N/A,Samsung,2550,Samsung Galaxy Tab Pro 8.4,2349,Qualcomm Snapdragon 800,4,2265 MHz,2101,970
+1072,1705,Sony,2541,Sony Xperia Z1 Compact,2025,Qualcomm Snapdragon 800,4,2150 MHz,2275,978
+1073,1303,Sony,2538,Sony Xperia Z3,2245,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2216,993
+1074,N/A,Oppo,2537,Oppo A39,N/A,Mediatek MT6750,8,1508 MHz,1863,649
+1075,N/A,Oppo,2533,Oppo F1s,1192,Mediatek MT6755 Helio P10,8,1508 MHz,1786,646
+1076,N/A,Samsung,2519,Samsung Galaxy S5 Active,2390,Qualcomm MSM8974AA Snapdragon 801,4,2457 MHz,2586,942
+1077,N/A,ZTE,2516,ZTE Blade Z Max,1356,Qualcomm Snapdragon 435,8,1401 MHz,2331,673
+1078,1224,Motorola,2515,Motorola Moto M,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1787,757
+1079,1484,OnePlus,2511,OnePlus One,2214,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2168,1003
+1080,799,Huawei,2511,Huawei Honor 7,2461,HiSilicon Kirin 935,4,1516 MHz,2095,758
+1081,N/A,UMi,2509,UMi Plus,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1568,698
+1082,N/A,ZTE,2505,ZTE Max XL,1368,Qualcomm Snapdragon 435,8,1401 MHz,2252,674
+1083,1496,Sony,2498,Sony Xperia Z2,2251,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2087,954
+1084,1250,Samsung,2493,Samsung Galaxy Note 4 Duos,4636,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2774,967
+1085,1331,Huawei,2491,Huawei Mate S,N/A,HiSilicon Kirin 935,4,1516 MHz,2047,750
+1086,N/A,Alcatel,2488,Alcatel Flash Plus 2,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1571,691
+1087,858,Xiaomi,2487,Xiaomi Redmi Note 2,1508,Mediatek MT6795,8,2158 MHz,923,777
+1088,1162,HTC,2487,HTC One X9,1830,Mediatek MT6795 Helio X10,8,1950 MHz,2219,759
+1089,N/A,LG,2485,LG Stylo 3 Plus,1428,Qualcomm Snapdragon 435,8,1401 MHz,2001,619
+1090,879,HTC,2476,HTC One M9,4911,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3765,1204
+1091,1833,Motorola,2476,Motorola Moto G5,1467,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1956,617
+1092,N/A,Ulefone,2465,Ulefone Metal,N/A,Mediatek MT6753,8,1300 MHz,1598,609
+1093,N/A,Sony,2463,Sony Xperia Z Ultra,2035,Qualcomm Snapdragon 800,4,2150 MHz,2328,973
+1094,N/A,HTC,2463,HTC One M9+,1740,Mediatek MT6795 Helio X10,8,2158 MHz,1948,801
+1095,N/A,LG,2462,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2720,1079
+1096,455,Samsung,2457,Samsung Galaxy Alpha,1645,Samsung Exynos 5430,8,1300 MHz,1803,782
+1097,N/A,Samsung,2456,Samsung Galaxy Note Edge,4792,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2872,964
+1098,1434,Sony,2453,Sony Xperia Z3 Dual,2232,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2156,984
+1099,N/A,Elephone,2450,Elephone P8000,N/A,Mediatek MT6753,8,1300 MHz,1592,605
+1100,1939,Motorola,2446,Motorola DROID Turbo,5086,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,3542,1007
+1101,N/A,LeEco,2446,LeEco Cool Changer 1C,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3744,1388
+1102,N/A,Asus,2445,Asus Zenfone 3 Laser,1286,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2015,651
+1103,N/A,Vivo,2428,Vivo Y66,N/A,Qualcomm MSM8937 Snapdragon 430,8,1508 MHz,1671,586
+1104,1403,Huawei,2427,Huawei P8,1883,HiSilicon Kirin 935,4,1516 MHz,1972,680
+1105,1329,Samsung,2422,Samsung Galaxy Note 3,1974,Qualcomm Snapdragon 800,4,2265 MHz,2235,923
+1106,N/A,ZTE,2422,ZTE Trek 2 ,1276,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2425,710
+1107,N/A,Doogee,2421,Doogee F5,N/A,Mediatek MT6753,8,1300 MHz,1468,605
+1108,N/A,Motorola,2418,Motorola Moto X (2014),2414,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2529,999
+1109,N/A,Samsung,2416,Samsung Galaxy S4,1452,Qualcomm Snapdragon 800,4,2265 MHz,1533,950
+1110,1851,Wiko,2415,Wiko Fever 4G,N/A,Mediatek MT6753,8,1300 MHz,1572,602
+1111,1105,Samsung,2412,Samsung Galaxy S5,2171,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2328,931
+1112,N/A,ZTE,2412,ZTE Blade V7,N/A,Mediatek MT6753,8,1300 MHz,1647,607
+1113,N/A,Oukitel,2409,Oukitel K6000 Pro,N/A,Mediatek MT6753,8,1300 MHz,1610,596
+1114,N/A,General,2402,General Mobile GM 5 Plus,1227,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1822,684
+1115,N/A,BLU,2382,BLU Vivo 5R,N/A,Mediatek MT6753,8,1300 MHz,1639,599
+1116,N/A,Meizu,2379,Meizu M6,N/A,Mediatek MT6750,8,1001 MHz,1710,601
+1117,N/A,Meizu,2378,Meizu M3 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1542,720
+1118,1229,BlackBerry,2378,BlackBerry Priv,2741,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2637,1060
+1119,1501,Motorola,2374,Motorola Moto Maxx,4828,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2862,1000
+1120,N/A,Samsung,2372,Samsung Galaxy S5 Duos,2219,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,913
+1121,N/A,Lenovo,2370,Lenovo K6 Note,1293,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2126,642
+1122,N/A,ZTE,2370,ZTE Nubia Z7 Mini,N/A,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,1936,940
+1123,N/A,HTC,2367,HTC One E9+,1759,Mediatek MT6795 Helio X10,8,1950 MHz,690,766
+1124,N/A,Lenovo,2360,Lenovo Vibe K4 Note,N/A,Mediatek MT6753,8,1300 MHz,1665,598
+1125,954,LG,2351,LG G Flex 2,4842,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3441,1177
+1126,1670,Meizu,2348,Meizu M5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1865,700
+1127,N/A,LeMobile,2345,LeMobile Le X527,N/A,,0,1401 MHz,3641,1406
+1128,N/A,Wileyfox,2344,Wileyfox Swift 2 Plus,1292,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2086,652
+1129,1385,Sony,2343,Sony Xperia Z1,2003,Qualcomm Snapdragon 800,4,2150 MHz,2240,970
+1130,2548,ulefone,2337,ulefone Power,N/A,Mediatek MT6753,8,1300 MHz,1496,596
+1131,1173,LG,2329,LG G2,2026,Qualcomm Snapdragon 800,4,2265 MHz,2158,991
+1132,N/A,LG,2323,LG G Pro 2,2040,Qualcomm Snapdragon 800,4,2265 MHz,2292,971
+1133,1320,HTC,2305,HTC One (M8),2498,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2435,961
+1134,N/A,HTC,2305,HTC One (M8x),2496,Qualcomm MSM8974AB Snapdragon 801,4,2457 MHz,2656,973
+1135,N/A,Meizu,2305,Meizu U20,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1553,703
+1136,1080,Sony,2296,Sony Xperia Z3+,4744,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3655,1207
+1137,N/A,HTC,2291,HTC One M8 Dual Sim,2514,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2466,953
+1138,N/A,Lenovo,2284,Lenovo K6 Power,1450,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1950,624
+1139,1271,OnePlus,2276,OnePlus X,2009,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,1959,949
+1140,1267,NVIDIA,2274,NVIDIA Shield,N/A,NVIDIA Tegra 4,4,1912 MHz,2060,877
+1141,N/A,Coolpad,2274,Coolpad Note 3,N/A,Mediatek MT6753,8,1300 MHz,1581,591
+1142,1362,LG,2273,LG Nexus 5X,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2918,1012
+1143,N/A,Samsung,2259,Samsung Galaxy J,2329,Qualcomm Snapdragon 800,4,2265 MHz,2118,922
+1144,N/A,ZTE,2255,ZTE Nubia Z7 Max,2453,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2086,971
+1145,1234,Motorola,2251,Motorola Moto G4,1272,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1920,670
+1146,1264,Nextbit,2249,Nextbit Robin,2807,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2812,1096
+1147,2018,Meizu,2241,Meizu M2 Note,N/A,Mediatek MT6753,8,1300 MHz,1447,580
+1148,N/A,Lenovo,2231,Lenovo Vibe K6,1461,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1949,625
+1149,1927,LG,2228,LG K10 (2017),N/A,Mediatek MT6750,8,1001 MHz,1492,588
+1150,N/A,Vivo,2225,Vivo V5s,N/A,Mediatek MT6750,8,1508 MHz,1682,602
+1151,N/A,Motorola,2222,Motorola Moto G5S,1468,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1957,626
+1152,N/A,HTC,2222,HTC One E8,2482,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,2614,940
+1153,N/A,Lenovo,2220,Lenovo K6,1472,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1955,627
+1154,N/A,Motorola,2205,Motorola Moto G4 Plus,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2118,666
+1155,N/A,ASUS,2204,ASUS MeMO Pad 7,N/A,Intel Atom Z3745,4,1862 MHz,1295,908
+1156,N/A,ZTE,2191,ZTE Blade X Max,N/A,Qualcomm Snapdragon 435,8,1401 MHz,2066,669
+1157,N/A,Meizu,2184,Meizu M5s,N/A,Mediatek MT6753,8,1300 MHz,1577,616
+1158,N/A,HTC,2179,HTC One M8 Eye,2068,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2335,922
+1159,N/A,Amazon,2161,Amazon Fire HD 10,N/A,Mediatek MT8173,4,1404 MHz,1541,1195
+1160,1146,Cat,2151,Cat S60,1288,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2353,709
+1161,N/A,Meizu,2150,Meizu M5,N/A,Mediatek MT6750,8,1001 MHz,1494,600
+1162,2823,Asus,2145,Asus Zenfone 4 Max,1213,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1865,656
+1163,1049,ZTE,2144,ZTE Nubia Z11 Mini,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1924,691
+1164,N/A,PPTV,2143,PPTV King 7,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1820,778
+1165,N/A,HTC,2134,HTC Desire Eye,2058,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2323,926
+1166,N/A,CHUWI,2133,CHUWI Hi8 Pro,N/A,Intel Atom x5-Z8350,4,1840 MHz,3746,933
+1167,999,LG,2130,LG G3,2552,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,1957,939
+1168,N/A,Xiaomi,2128,Xiaomi Mi Note,2212,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2038,928
+1169,973,Xiaomi,2127,Xiaomi Mi 4c,2592,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2425,1076
+1170,2450,Xiaomi,2112,Xiaomi Redmi Note 5A,822,Qualcomm Snapdragon 435,8,1401 MHz,1744,672
+1171,1690,Meizu,2110,Meizu M3s,N/A,Mediatek MT6750,8,1508 MHz,1354,627
+1172,2442,Motorola,2106,Motorola Moto G6 Play,834,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1910,635
+1173,1649,Meizu,2082,Meizu U10,N/A,Mediatek MT6750,8,1001 MHz,1399,601
+1174,N/A,Lenovo,2076,Lenovo Tab 2 A10-70 (WiFi),N/A,Mediatek MT8165,4,1690 MHz,1031,738
+1175,N/A,Xiaomi,2059,Xiaomi Redmi 4X,1347,Qualcomm Snapdragon 435,8,0 MHz,2170,649
+1176,1664,Xiaomi,2057,Xiaomi Mi 3,2402,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2089,910
+1177,N/A,Asus,2044,Asus Zenfone Max Plus,N/A,Mediatek MT6750,8,1508 MHz,1595,533
+1178,935,Asus,2044,Asus Padfone S,2474,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2201,956
+1179,895,Meizu,2042,Meizu MX4 Pro,2012,Samsung Exynos 5430,8,1500 MHz,1717,841
+1180,N/A,HTC,2041,HTC One ME,1703,Mediatek MT6795 Helio X10,8,2158 MHz,663,789
+1181,N/A,Lenovo,2037,Lenovo Tab 2 A10-70 (4G),N/A,Mediatek MT8732,4,1690 MHz,911,728
+1182,1221,ZTE,2028,ZTE Zmax Pro,1247,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2127,699
+1183,N/A,Huawei,2028,Huawei Honor 5X,1392,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2274,625
+1184,N/A,Samsung,2018,Samsung Galaxy Tab Pro 10.1,N/A,Exynos 5 Octa 5420,4,1900 MHz,1728,807
+1185,N/A,Wileyfox,2016,Wileyfox Swift 2,1303,Qualcomm MSM8937 Snapdragon 430,8,0 MHz,2105,627
+1186,986,Xiaomi,2010,Xiaomi MI 4LTE,2325,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2020,900
+1187,N/A,Meizu,2003,Meizu M3,N/A,Mediatek MT6750,8,1508 MHz,1403,630
+1188,N/A,ZTE,2003,ZTE Axon Mini,1228,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2062,644
+1189,N/A,NVIDIA,2001,NVIDIA Tegra Note,N/A,NVIDIA Tegra 4,4,1810 MHz,1683,791
+1190,N/A,BLU,1995,BLU Life One X2,1200,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2049,645
+1191,1722,LG,1993,LG Q6,1260,Qualcomm Snapdragon 435,8,1401 MHz,1750,550
+1192,N/A,Huawei,1988,Huawei Honor 4C,N/A,HiSilicon Kirin 620,8,1200 MHz,1381,540
+1193,N/A,Huawei,1987,Huawei Honor 4X,N/A,HiSilicon Kirin 620,8,1200 MHz,1436,536
+1194,1307,Samsung,1982,Samsung Galaxy Note 10.1 (2014),1841,Exynos 5 Octa 5420,4,1900 MHz,1951,768
+1195,1593,Samsung,1979,Samsung Galaxy Tab S 10.5,2152,Exynos 5 Octa 5420,4,1900 MHz,1723,785
+1196,1225,Huawei,1977,Huawei P8 lite,N/A,HiSilicon Kirin 620,8,1200 MHz,1355,541
+1197,N/A,Huawei,1975,Huawei Ascend XT,1244,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2197,619
+1198,1001,Huawei,1972,Huawei G8,1222,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2123,619
+1199,829,Samsung,1968,Samsung Galaxy Note 3,1987,Exynos 5 Octa 5420,4,1900 MHz,2239,761
+1200,N/A,Xiaomi,1967,Xiaomi Mi 4,2269,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,1997,891
+1201,N/A,Huawei,1966,Huawei Y6II Compact,N/A,Mediatek MT6735,4,1200 MHz,1391,542
+1202,N/A,LG,1966,LG Stylus 2 Plus,1317,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1762,587
+1203,1994,Samsung,1965,Samsung Galaxy Note Pro 12.2,1806,Exynos 5 Octa 5420,4,1900 MHz,1793,764
+1204,N/A,Xiaomi,1948,Xiaomi Mi 4s,2464,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2422,946
+1205,1437,Samsung,1939,Samsung Galaxy Tab S 10.5,2152,Qualcomm Snapdragon 800,4,1900 MHz,1719,778
+1206,995,LG,1926,LG Nexus 5,N/A,Qualcomm Snapdragon 800,4,2265 MHz,1988,897
+1207,1076,Yota,1911,Yota YotaPhone 2,2021,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2206,891
+1208,N/A,Huawei,1899,Huawei Ascend Mate 7,2639,HiSilicon Kirin 925,8,1305 MHz,1881,767
+1209,1163,Oppo,1893,Oppo F1,1253,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2104,658
+1210,1074,Samsung,1891,Samsung Galaxy Tab S 8.4,2344,Exynos 5 Octa 5420,4,1900 MHz,1722,782
+1211,N/A,HTC,1881,HTC Butterfly 3,5279,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3580,1157
+1212,N/A,Vivo,1881,Vivo Y55L,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1971,629
+1213,N/A,ZTE,1874,ZTE Axon 7 Mini,1269,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2339,659
+1214,N/A,Lenovo,1873,Lenovo Vibe K5 Plus,1218,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1788,580
+1215,N/A,Huawei,1871,Huawei Honor 6 Plus,2587,HiSilicon Kirin 925,8,1305 MHz,1851,765
+1216,N/A,Samsung,1850,Samsung Galaxy Tab S 8.4 LTE,2221,Qualcomm Snapdragon 800,4,1900 MHz,1710,772
+1217,N/A,Alcatel,1845,Alcatel Idol 4,1260,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2027,693
+1218,N/A,Huawei,1845,Huawei Y5 (2017),N/A,Mediatek MT6737T,4,1443 MHz,1203,665
+1219,N/A,Vivo,1838,Vivo Y53,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1232,652
+1220,2135,Xiaomi,1833,Xiaomi Redmi 5A,584,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1368,671
+1221,N/A,Vivo,1831,Vivo Y55s,582,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1230,648
+1222,N/A,Sony,1828,Sony Xperia L1,N/A,Mediatek MT6737T,4,1443 MHz,1215,660
+1223,1011,Samsung,1827,Samsung Galaxy A3 (2016),1204,Samsung Exynos 7578,4,1500 MHz,1124,613
+1224,N/A,Lenovo,1819,Lenovo Vibe P1,1237,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2022,614
+1225,N/A,Asus,1815,Asus Zenpad 8.0,730,MediaTek MT8163 V/B,4,1300 MHz,1153,657
+1226,N/A,Huawei,1806,Huawei P9 lite mini,587,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1220,651
+1227,N/A,Asus,1805,Asus Zenfone 3 Max,1291,Mediatek MT6737,4,1443 MHz,1445,665
+1228,712,Samsung,1796,Samsung Galaxy S4 Value Edition,1296,Qualcomm Snapdragon 600,4,1890 MHz,1364,721
+1229,904,Samsung,1793,Samsung Galaxy S4 Active,1362,Qualcomm Snapdragon 600,4,1890 MHz,1347,717
+1230,919,HTC,1792,HTC Desire 628,N/A,Mediatek MT6753,8,1300 MHz,1401,603
+1231,735,Samsung,1774,Samsung Galaxy S4,1431,Qualcomm Snapdragon 600,4,1900 MHz,1521,717
+1232,2881,Xiaomi,1774,Xiaomi Redmi 3s,1189,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1802,633
+1233,N/A,Xiaomi,1774,Xiaomi Redmi 3x,1199,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1822,632
+1234,669,Huawei,1752,Huawei Honor 6,2476,Huawei HiSilicon Kirin 920 Hi3630,8,1305 MHz,1764,738
+1235,N/A,Samsung,1752,Samsung Galaxy J3 Prime,N/A,Samsung Exynos 7570,4,1430 MHz,1074,609
+1236,N/A,Samsung,1751,Samsung Galaxy J3 (2017),644,Samsung Exynos 7570,4,1430 MHz,1109,606
+1237,2655,Xiaomi,1740,Xiaomi Redmi 4A,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1349,664
+1238,N/A,LG,1732,LG K10,398,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,1508,567
+1239,2870,Samsung,1717,Samsung Galaxy J5 Prime,622,Samsung Exynos 7570,4,1430 MHz,1053,599
+1240,N/A,Vivo,1716,Vivo V3,1238,Qualcomm MSM8939v2 Snapdragon 616,8,0 MHz,1949,655
+1241,1963,Asus,1711,Asus Nexus 7 (2013),N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1541,664
+1242,N/A,HTC,1704,HTC One M8s,1251,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,2036,607
+1243,460,Samsung,1696,Samsung Galaxy S4,1452,Exynos 5 Octa 5410,4,1600 MHz,1533,683
+1244,N/A,Xiaomi,1685,Xiaomi Redmi 3,1182,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1770,633
+1245,N/A,Samsung,1661,Samsung Galaxy Note 3 Neo,1422,Samsung Exynos 5260,6,1300 MHz,1294,709
+1246,N/A,BQ,1659,BQ Aquaris M5,1250,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1862,574
+1247,694,Lenovo,1654,Lenovo Vibe K5,1161,Qualcomm MSM8929 Snapdragon 415,8,0 MHz,1786,605
+1248,1040,HTC,1652,HTC One,1274,Qualcomm Snapdragon 600,4,1700 MHz,791,705
+1249,1144,Motorola,1652,Motorola Moto X Play,1253,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1778,639
+1250,N/A,Samsung,1648,Samsung Galaxy J7 Sky Pro,N/A,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,1201,640
+1251,N/A,Samsung,1638,Samsung Galaxy J3 Luna Pro,539,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1203,629
+1252,978,HTC,1630,HTC One Dual Sim,1216,Qualcomm Snapdragon 600,4,1728 MHz,598,703
+1253,841,Samsung,1620,Samsung Galaxy J3 Emerge,567,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1157,624
+1254,N/A,Amazon,1616,Amazon Fire HD 8 (2017),N/A,MediaTek MT8163 V/B,4,1300 MHz,1027,614
+1255,1145,Amazon,1614,Amazon Fire HD 8 (2016),N/A,MediaTek MT8163 V/B,4,1300 MHz,985,612
+1256,N/A,Asus,1610,Asus Zenfone Selfie,1236,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1670,582
+1257,N/A,LG,1608,LG G Pad 8.3,1178,Qualcomm Snapdragon 600,4,1728 MHz,1300,701
+1258,N/A,LG,1608,LG K20 plus,532,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1079,595
+1259,1709,Coolpad,1599,Coolpad Note 3 Lite,N/A,Mediatek MT6735,4,1300 MHz,927,582
+1260,N/A,Samsung,1596,Samsung Galaxy J2 Prime,422,Mediatek MT6737,4,1443 MHz,935,557
+1261,N/A,BLU,1554,BLU R1 HD,N/A,Mediatek MT6735,4,1300 MHz,879,558
+1262,1212,Meizu,1542,Meizu M2,N/A,Mediatek MT6735,4,1300 MHz,848,590
+1263,658,Lenovo,1534,Lenovo Vibe Shot,1233,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1961,645
+1264,N/A,Alcatel,1534,Alcatel OneTouch Idol 3,1236,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1800,598
+1265,N/A,Samsung,1533,Samsung Galaxy S4 (Google Play Edition),1373,Qualcomm Snapdragon 600,4,1900 MHz,1261,736
+1266,837,Xiaomi,1531,Xiaomi MI-2,1246,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1312,547
+1267,1620,Nokia,1526,Nokia 3,N/A,Mediatek MT6737,4,1248 MHz,1081,557
+1268,N/A,ZTE,1523,ZTE Blade V6,N/A,Mediatek MT6735,4,1300 MHz,487,568
+1269,N/A,Huawei,1520,Huawei Ascend P7,N/A,HiSilicon Kirin 910T,4,1795 MHz,1022,597
+1270,N/A,Motorola,1514,Motorola Moto E4,593,Mediatek MT6737,4,1248 MHz,1098,535
+1271,3398,Motorola,1501,Motorola Moto E4 Plus,629,Mediatek MT6737,4,1248 MHz,964,537
+1272,581,Samsung,1490,Samsung Galaxy Note II,N/A,Samsung Exynos 4412,4,1600 MHz,961,579
+1273,N/A,Motorola,1489,Motorola Moto C Plus,N/A,Mediatek MT6737,4,1248 MHz,910,531
+1274,N/A,Oppo,1487,Oppo Find 5,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,1124,545
+1275,N/A,LG,1484,LG X power,N/A,Mediatek MT6735,4,1300 MHz,1234,555
+1276,N/A,LG,1481,LG Optimus G Pro,N/A,Qualcomm Snapdragon 600,4,1700 MHz,1087,688
+1277,N/A,Motorola,1481,Motorola Moto G Turbo Edition,1241,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1594,590
+1278,N/A,Sony,1476,Sony Xperia E5,N/A,Mediatek MT6735,4,1300 MHz,961,555
+1279,N/A,Samsung,1471,Samsung Galaxy A7,1255,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1984,568
+1280,848,Samsung,1469,Samsung Galaxy Note 8.0,N/A,Samsung Exynos 4412,4,1600 MHz,900,579
+1281,N/A,LG,1465,LG K8,N/A,Mediatek MT6735,4,1300 MHz,936,542
+1282,N/A,Huawei,1452,Huawei Y6 Pro,N/A,Mediatek MT6735P,4,1300 MHz,814,518
+1283,701,HTC,1447,HTC Desire 820,1255,Qualcomm MSM8939 Snapdragon 615,8,1536 MHz,1914,573
+1284,N/A,Meizu,1437,Meizu M5c,N/A,Mediatek MT6737,4,1248 MHz,1023,552
+1285,1376,Samsung,1435,Samsung Galaxy Core Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1248 MHz,809,519
+1286,1054,Motorola,1424,Motorola Moto G3,458,Qualcomm MSM8916 Snapdragon 410,4,1363 MHz,1004,552
+1287,N/A,Sony,1409,Sony Xperia Tablet Z,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,978,541
+1288,N/A,Sony,1405,Sony Xperia M4 Aqua,1136,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1634,599
+1289,N/A,Vodafone,1394,Vodafone Smart Ultra 6,1243,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1850,578
+1290,1008,Wileyfox,1390,Wileyfox Swift,400,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,912,522
+1291,N/A,Samsung,1386,Samsung Galaxy Note 10.1,N/A,Samsung Exynos 4412,4,1400 MHz,821,530
+1292,N/A,Samsung,1382,Samsung Galaxy Note 10.1 3G,N/A,Samsung Exynos 4412,4,1400 MHz,820,525
+1293,N/A,Sony,1379,Sony Xperia ZL,1209,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,939,539
+1294,N/A,Xiaomi,1374,Xiaomi Mi 4i,1237,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1404,617
+1295,N/A,LG,1373,LG Aristo 2,419,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,895,554
+1296,1074,Sony,1348,Sony Xperia ZR,1189,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,954,542
+1297,926,LG,1347,LG Nexus 4,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1103,535
+1298,N/A,Huawei,1347,Huawei Y5II,N/A,Mediatek MT6735,4,1300 MHz,782,473
+1299,N/A,Sony,1347,Sony Xperia M4 Aqua Dual,1255,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1588,595
+1300,N/A,LG,1336,LG Optimus G,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,841,511
+1301,N/A,HTC,1332,HTC Droid DNA,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,964,532
+1302,N/A,Vivo,1332,Vivo Y51L,403,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,858,522
+1303,1007,Sony,1331,Sony Xperia Z,1210,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,930,538
+1304,N/A,LG,1331,LG Stylo 2,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,869,497
+1305,N/A,Motorola,1328,Motorola Moto G4 Play,402,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,947,508
+1306,N/A,Xiaomi,1328,Xiaomi Redmi 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,892,509
+1307,N/A,Doogee,1327,Doogee X5 Max Pro,N/A,Mediatek MT6737,4,1092 MHz,825,513
+1308,N/A,Lenovo,1321,Lenovo S90 Sisley,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,778,520
+1309,N/A,Oppo,1311,Oppo A37,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,1030,516
+1310,N/A,YU,1309,YU Yureka,N/A,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1593,559
+1311,853,Asus,1298,Asus Zenfone 2 Laser,945,Qualcomm MSM8956 Snapdragon 650,6,1209 MHz,1216,514
+1312,N/A,ZTE,1296,ZTE Zmax 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,866,508
+1313,N/A,Lenovo,1292,Lenovo A6010,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,810,511
+1314,N/A,LG,1292,LG G Stylo,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,863,505
+1315,N/A,Samsung,1281,Samsung Galaxy Tab A 9.7,415,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,871,491
+1316,1168,Motorola,1272,Motorola Moto E (2nd Gen.),399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,887,500
+1317,N/A,Lenovo,1272,Lenovo Vibe P1m,N/A,Mediatek MT6735,4,988 MHz,717,475
+1318,N/A,Samsung,1265,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,868,497
+1319,N/A,Xiaomi,1264,Xiaomi Redmi 1S,N/A,Qualcomm Snapdragon 400,2,1593 MHz,2619,485
+1320,1495,Samsung,1257,Samsung Galaxy Tab A 8.0,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,892,492
+1321,845,Samsung,1253,Samsung Galaxy S III,N/A,Samsung Exynos 4412,4,1400 MHz,725,505
+1322,N/A,Samsung,1251,Samsung Galaxy Tab E 9.6,N/A,Spreadtrum SC7730,4,1190 MHz,913,496
+1323,N/A,LG,1248,LG Stylus 2,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,491
+1324,N/A,Oppo,1235,Oppo A33,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,920,483
+1325,691,Lenovo,1233,Lenovo A2010,N/A,Mediatek MT6735,4,988 MHz,698,452
+1326,N/A,LG,1226,LG Spirit,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,477
+1327,1033,Samsung,1223,Samsung Nexus 10,N/A,Samsung Exynos 5250,2,1700 MHz,1326,801
+1328,N/A,Motorola,1223,Motorola Moto C,N/A,Mediatek MT6737,4,1092 MHz,782,446
+1329,N/A,Lenovo,1220,Lenovo Lenovo TB3-710F,N/A,Mediatek MT8161,4,1300 MHz,527,436
+1330,1303,Lenovo,1219,Lenovo A6000,401,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,842,506
+1331,N/A,Samsung,1208,Samsung Galaxy S3 Neo,427,Qualcomm MSM8226 Snapdragon 400,4,1401 MHz,769,466
+1332,541,Samsung,1200,Samsung Galaxy J5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,869,491
+1333,N/A,HTC,1194,HTC Desire 510,N/A,Qualcomm Snapdragon 410,4,1190 MHz,N/A,502
+1334,N/A,Asus,1186,Asus Zenfone Go,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+1335,688,Amazon,1185,Amazon Kindle Fire (2015),N/A,Mediatek MT8127,4,1300 MHz,729,442
+1336,N/A,Lenovo,1183,Lenovo C2,N/A,Mediatek MT6735,4,988 MHz,707,432
+1337,N/A,Sony,1178,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T Pro,2,1728 MHz,926,769
+1338,N/A,Samsung,1167,Samsung Galaxy J5 (2016),400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,875,491
+1339,N/A,Samsung,1159,Samsung Galaxy J3,502,Spreadtrum SC9830,4,1500 MHz,740,441
+1340,N/A,Samsung,1158,Samsung Galaxy E5,397,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,484
+1341,2161,Amazon,1158,Amazon Fire (2017),N/A,Mediatek MT8127,4,1300 MHz,782,441
+1342,N/A,Motorola,1156,Motorola Moto E3 Power,N/A,Mediatek MT6735,4,988 MHz,687,427
+1343,N/A,Samsung,1152,Samsung Galaxy On5,353,Samsung Exynos 3475 Quad,4,1300 MHz,677,403
+1344,N/A,Xiaomi,1151,Xiaomi MI-2a,N/A,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,1277,742
+1345,N/A,Cubot,1151,Cubot Note S,N/A,Mediatek MT6580M,4,1300 MHz,691,404
+1346,N/A,ZTE,1146,ZTE Blade V7 Lite,N/A,Mediatek MT6735P,4,988 MHz,655,422
+1347,938,Motorola,1144,Motorola Moto X,1263,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,628,719
+1348,N/A,Samsung,1142,Samsung Galaxy J3 V,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,862,481
+1349,780,LG,1133,LG G3 S,N/A,Qualcomm Snapdragon 400,2,1190 MHz,667,430
+1350,931,Samsung,1126,Samsung Galaxy A5 Duos,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,808,491
+1351,N/A,Samsung,1126,Samsung Galaxy Tab 4 10.1,316,Qualcomm Snapdragon 400,2,1190 MHz,712,426
+1352,N/A,Samsung,1124,Samsung Galaxy A5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,488
+1353,1032,Samsung,1122,Samsung Galaxy S5 Mini,425,Samsung Exynos 3470,4,1400 MHz,743,414
+1354,642,Doogee,1121,Doogee X5,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+1355,934,Samsung,1120,Samsung Galaxy J2,N/A,Samsung Exynos 3475 Quad,4,1300 MHz,702,406
+1356,724,Samsung,1115,Samsung Galaxy A3,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,811,490
+1357,N/A,Samsung,1108,Samsung Galaxy On7,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,834,475
+1358,N/A,Samsung,1099,Samsung Galaxy Grand 2,N/A,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,685,416
+1359,N/A,Sony,1094,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T,2,1728 MHz,926,745
+1360,N/A,Motorola,1093,Motorola Moto G,426,Qualcomm Snapdragon 400,2,1190 MHz,690,427
+1361,569,Motorola,1077,Motorola Moto G (2014),426,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,690,425
+1362,N/A,Samsung,1071,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,853,408
+1363,N/A,Acer,1071,Acer Chromebook R11,N/A,Intel Celeron N3150,4,2582 MHz,933,1140
+1364,N/A,LG,1056,LG Phoenix 2,398,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,687,412
+1365,N/A,Samsung,1051,Samsung Galaxy J2 Pro (2016),N/A,Spreadtrum SC8830,4,1500 MHz,676,411
+1366,1909,Samsung,1027,Samsung Galaxy Tab A 7.0,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,713,396
+1367,N/A,LG,1013,LG K7,N/A,Mediatek MT6580M,4,1094 MHz,634,396
+1368,N/A,LG,1007,LG Tribute,396,Qualcomm Snapdragon 400,2,1267 MHz,714,410
+1369,N/A,Samsung,1005,Samsung Galaxy J3 (2016),397,Spreadtrum SC9830,4,1300 MHz,703,386
+1370,N/A,Lenovo,992,Lenovo Tab 10,N/A,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,748,388
+1371,778,Samsung,987,Samsung Galaxy S4 Duos,N/A,Qualcomm Snapdragon 400,2,1728 MHz,705,630
+1372,N/A,Samsung,986,Samsung Galaxy S4 Mini,N/A,Qualcomm Snapdragon 400,2,1728 MHz,682,632
+1373,N/A,HTC,981,HTC One X,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,622,423
+1374,749,Asus,979,Asus Nexus 7,N/A,NVIDIA Tegra 3 T30L,4,1300 MHz,672,384
+1375,N/A,HTC,978,HTC Desire 530,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,658,388
+1376,N/A,HTC,978,HTC Desire 626s,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,635,384
+1377,N/A,Samsung,974,Samsung Galaxy J1 (2016),491,Spreadtrum SC9830,4,1200 MHz,683,374
+1378,N/A,Lenovo,951,Lenovo A1000,N/A,Spreadtrum SC7731,4,1300 MHz,497,382
+1379,N/A,Asus,882,Asus Zenfone Max,627,Qualcomm MSM8916 Snapdragon 410,4,998 MHz,1125,382
+1380,N/A,LG,879,LG Optimus 4X HD,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,654,384
+1381,N/A,Sony,849,Sony Xperia M2,N/A,Qualcomm Snapdragon 400,2,1190 MHz,631,341
+1382,N/A,Barnes,808,Barnes & Noble Nook HD+,N/A,Ti OMAP 4470,2,1500 MHz,436,489
+1383,N/A,Samsung,774,Samsung Galaxy S III,N/A,Qualcomm Snapdragon S4 MSM8960,2,1500 MHz,724,475
+1384,N/A,Samsung,762,Samsung Galaxy Tab 3 8.0,N/A,Samsung Exynos 4212,2,1500 MHz,443,478
+1385,N/A,Motorola,738,Motorola Moto E,N/A,Qualcomm MSM8210 Snapdragon 200,2,1190 MHz,463,379
+1386,440,Samsung,698,Samsung Galaxy Note,N/A,Samsung Exynos 4210,2,1400 MHz,424,464
+1387,198,Samsung,668,Samsung Galaxy Nexus,N/A,Ti OMAP 4460,2,1200 MHz,336,413
+1388,N/A,Huawei,661,Huawei Ascend P1,N/A,Ti OMAP 4460,2,1500 MHz,494,408
+1389,N/A,Samsung,639,Samsung Galaxy S II,N/A,Samsung Exynos 4210,2,1200 MHz,346,415
+1390,612,Motorola,595,Motorola RAZR XT910 ,N/A,Ti OMAP 4430,2,1200 MHz,325,368
+1391,N/A,Sony,593,Sony Xperia M,N/A,Qualcomm Snapdragon S4 Plus MSM8227,2,972 MHz,296,368
+1392,N/A,Samsung,580,Samsung Galaxy Note LTE,N/A,Qualcomm Snapdragon S4 MSM8660,2,1500 MHz,N/A,339
+1393,N/A,Samsung,521,Samsung Galaxy Tab 2 10.1,N/A,Ti OMAP 4430,2,1008 MHz,310,312
+1394,N/A,Samsung,517,Samsung Galaxy Tab 2 7.0 (WiFi),N/A,Ti OMAP 4430,2,1000 MHz,334,311
+1395,N/A,Samsung,514,Samsung Galaxy Tab 2 7.0,N/A,Ti OMAP 4430,2,1000 MHz,285,310
+1396,242,Samsung,490,Samsung Galaxy S III mini,N/A,ST-Ericsson NovaThor U8420,2,1000 MHz,291,307
+1397,N/A,Sony,289,Sony Ericsson Xperia Arc S,N/A,Qualcomm Snapdragon S2 MSM8255T,1,1400 MHz,N/A,310
+1398,N/A,Vivo,8769,Vivo NEX S,13109,Qualcomm Snapdragon 845,8,1766 MHz,13620,2390
+1399,3565,OnePlus,8846,OnePlus 6,13181,Qualcomm Snapdragon 845,8,1766 MHz,13505,2390
+1400,3209,Asus,8554,Asus Zenfone 5z,13241,Qualcomm Snapdragon 845,8,1766 MHz,13482,2383
+1401,3880,HTC,8711,HTC U12+,13266,Qualcomm Snapdragon 845,8,1766 MHz,13476,2406
+1402,4150,Samsung,8306,Samsung Galaxy S9+,12992,Qualcomm Snapdragon 845,8,1766 MHz,13406,2292
+1403,3681,Sony,8389,Sony Xperia XZ2,13078,Qualcomm Snapdragon 845,8,1766 MHz,13340,2378
+1404,4270,Google,8039,Google Pixel 3 XL,N/A,Qualcomm Snapdragon 845,8,1766 MHz,13325,2290
+1405,3013,Xiaomi,8148,Xiaomi Mix 2S,13291,Qualcomm Snapdragon 845,8,1766 MHz,13318,2259
+1406,4783,Samsung,8532,Samsung Galaxy Note 9,13010,Qualcomm Snapdragon 845,8,1766 MHz,13256,2358
+1407,N/A,Sony,8280,Sony Xperia XZ2 Compact,13081,Qualcomm Snapdragon 845,8,1766 MHz,13233,2351
+1408,N/A,Xiaomi,8367,Xiaomi Black Shark,11561,Qualcomm Snapdragon 845,8,1766 MHz,13220,2392
+1409,N/A,Google,7770,Google Pixel 3,13451,Qualcomm Snapdragon 845,8,1766 MHz,13217,2244
+1410,4873,OnePlus,8842,OnePlus 6T,13130,Qualcomm Snapdragon 845,8,1766 MHz,13165,2372
+1411,3770,LG,8445,LG G7 ThinQ,13059,Qualcomm Snapdragon 845,8,1766 MHz,13153,2317
+1412,3420,Samsung,8239,Samsung Galaxy S9,12708,Qualcomm Snapdragon 845,8,1766 MHz,13121,2281
+1413,3965,Xiaomi,8243,Xiaomi Mi 8,13262,Qualcomm Snapdragon 845,8,1766 MHz,13090,2279
+1414,4575,Xiaomi,7697,Xiaomi Pocophone F1,13340,Qualcomm Snapdragon 845,8,1766 MHz,12922,2194
+1415,N/A,Xiaomi,7148,Xiaomi Poco F1,13326,Qualcomm Snapdragon 845,8,1766 MHz,12621,2093
+1416,N/A,Huawei,6386,Huawei Nova 2s,11811,Hisilicon Kirin 960,8,1844 MHz,10914,1893
+1417,2428,Huawei,6302,Huawei Honor 9,11257,Hisilicon Kirin 960,8,1844 MHz,10491,1873
+1418,3844,Samsung,6405,Samsung Galaxy Note 8,13930,Samsung Exynos 8895 Octa,8,1690 MHz,9907,1951
+1419,N/A,Huawei,6106,Huawei Honor V9,9458,Hisilicon Kirin 960,8,1844 MHz,9623,1877
+1420,3794,Samsung,9892,Samsung Galaxy S10+,17077,Samsung Exynos 9820,8,1950 MHz,9520,4313
+1421,3160,Samsung,9818,Samsung Galaxy S10,16974,Samsung Exynos 9820,8,1950 MHz,9441,4314
+1422,4690,Samsung,9788,Samsung Galaxy S10e,17630,Samsung Exynos 9820,8,1950 MHz,9383,4253
+1423,5154,Samsung,8804,Samsung Galaxy Note 9,13452,Samsung Exynos 9810,8,1794 MHz,9353,3467
+1424,3948,Samsung,6386,Samsung Galaxy S8,13873,Samsung Exynos 8895 Octa,8,1690 MHz,9210,1941
+1425,3572,Samsung,6277,Samsung Galaxy Note 8,12953,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,9054,1792
+1426,4097,Samsung,6350,Samsung Galaxy S8+,13802,Samsung Exynos 8895 Octa,8,1690 MHz,9035,1939
+1427,2768,Huawei,6063,Huawei Honor 8 Pro,8156,Hisilicon Kirin 960,8,1844 MHz,9032,1867
+1428,2447,Huawei,6054,Huawei P10,9580,Hisilicon Kirin 960,8,1844 MHz,9000,1861
+1429,2627,Huawei,6461,Huawei Honor View 10,13379,HiSilicon Kirin 970,8,1844 MHz,8984,1877
+1430,N/A,Huawei,5707,Huawei Mate 9 Pro,9659,Hisilicon Kirin 960,8,1844 MHz,8923,1866
+1431,2440,Huawei,5850,Huawei P10 Plus,9990,Hisilicon Kirin 960,8,1844 MHz,8821,1870
+1432,3410,Samsung,6028,Samsung Galaxy S8,12897,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8800,1763
+1433,3960,Samsung,8527,Samsung Galaxy S9,13197,Samsung Exynos 9810,8,1794 MHz,8705,3289
+1434,N/A,Huawei,5972,Huawei Mate 9,9776,Hisilicon Kirin 960,8,1844 MHz,8619,1870
+1435,4096,Samsung,8671,Samsung Galaxy S9+,13490,Samsung Exynos 9810,8,1794 MHz,8585,3335
+1436,3482,Huawei,6217,Huawei Honor 10,13372,HiSilicon Kirin 970,8,1844 MHz,8459,1827
+1437,4174,Samsung,6032,Samsung Galaxy S8+,11747,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8349,1771
+1438,4630,Meizu,6330,Meizu 15 Plus,N/A,Samsung Exynos 8895 Octa,8,1690 MHz,8067,1911
+1439,N/A,HTC,6333,HTC U11,10923,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7938,1913
+1440,5360,Razer,6603,Razer Phone,10962,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7908,1913
+1441,N/A,HTC,6409,HTC U11+,11041,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7882,1925
+1442,3960,OnePlus,6612,OnePlus 5T,10846,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7859,1941
+1443,3375,Nokia,6431,Nokia 8,11189,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7839,1908
+1444,N/A,ZTE,6437,ZTE Nubia Z17S,10753,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7823,1922
+1445,N/A,Sony,6422,Sony Xperia XZ1 Compact,11214,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7814,1890
+1446,4046,Sony,6156,Sony Xperia XZ Premium,11018,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7782,1886
+1447,3186,Sony,6179,Sony Xperia XZ1,11221,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7775,1880
+1448,3490,Motorola,6482,Motorola Moto Z2 Force,10913,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7770,1892
+1449,1738,Google,4014,Google Pixel,N/A,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7708,1626
+1450,5308,ZTE,6303,ZTE Nubia Z17,10556,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7702,1914
+1451,3488,Xiaomi,6267,Xiaomi Mi Mix 2,10857,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7672,1890
+1452,3620,Xiaomi,6193,Xiaomi MI 6,10795,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7658,1894
+1453,3440,Essential,6319,Essential PH-1,10798,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7647,1873
+1454,5833,Huawei,9771,Huawei Mate 20 Pro,13986,HiSilicon Kirin 980,8,1805 MHz,7629,3331
+1455,N/A,Smartisan,4330,Smartisan M1L,9964,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7512,1868
+1456,N/A,Samsung,6057,Samsung Galaxy S8 Active,10321,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7509,1775
+1457,2141,Google,4060,Google Pixel XL,7201,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7508,1626
+1458,4033,LG,6151,LG V30,9542,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7480,1866
+1459,2010,OnePlus,4117,OnePlus 3T,10178,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7474,1800
+1460,N/A,Smartisan,4432,Smartisan M1,10091,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7427,1880
+1461,N/A,Sony,3696,Sony Xperia XZs,9978,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7390,1610
+1462,5690,Samsung,10513,Samsung Galaxy S10e,14450,Qualcomm Snapdragon 855,8,1785 MHz,7336,3414
+1463,1956,OnePlus,3947,OnePlus 3,10046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7325,1683
+1464,5990,Samsung,10598,Samsung Galaxy S10,14206,Qualcomm Snapdragon 855,8,1785 MHz,7284,3422
+1465,5020,Samsung,10645,Samsung Galaxy S10+,14426,Qualcomm Snapdragon 855,8,1785 MHz,7280,3430
+1466,N/A,Coolpad,4187,Coolpad Cool S1,9300,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7272,1772
+1467,2270,Sony,3616,Sony Xperia XZ,9849,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7230,1567
+1468,3375,LeEco,4055,LeEco Le Pro3,9828,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7217,1798
+1469,3012,Google,6060,Google Pixel 2,9970,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7179,1838
+1470,1810,HTC,3922,HTC U Ultra,9857,Qualcomm MSM8996 Snapdragon 821,4,1996 MHz,7174,1662
+1471,N/A,Sony,3603,Sony Xperia X Performance,9746,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7142,1551
+1472,N/A,Lenovo,3770,Lenovo ZUK Edge,10170,Qualcomm MSM8996 Snapdragon 821,4,2188 MHz,7122,1530
+1473,3140,Xiaomi,3963,Xiaomi Mi Note 2,9375,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,7100,1761
+1474,3860,Google,6121,Google Pixel 2 XL,7553,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7089,1826
+1475,N/A,Vivo,3897,Vivo Xplay 6,9843,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7054,1695
+1476,2501,LeEco,3825,LeEco Le Max 2,9202,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6987,1665
+1477,2377,Xiaomi,3935,Xiaomi MI 5s,9499,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1996 MHz,6953,1617
+1478,1674,ZTE,3869,ZTE Axon 7,9757,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6936,1639
+1479,2556,Xiaomi,4020,Xiaomi MI 5s Plus,9476,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6912,1776
+1480,1804,ZTE,3919,ZTE Axon 7,9711,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6911,1656
+1481,3246,LG,3795,LG G6,8827,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6910,1664
+1482,N/A,Xiaomi,3882,Xiaomi Mi Mix,9388,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6859,1749
+1483,1475,Motorola,3744,Motorola Moto Z,9046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6836,1536
+1484,1667,BlackBerry,3788,BlackBerry DTEK60,9674,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6820,1703
+1485,N/A,Samsung,3836,Samsung Galaxy Tab S3,9064,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6700,1523
+1486,4523,Xiaomi,5718,Xiaomi Mi 8 SE,5761,Qualcomm SDM710 Snapdragon 710,8,1708 MHz,6682,1823
+1487,1679,HTC,3479,HTC 10,9510,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6633,1557
+1488,1726,LG,3668,LG G5,9345,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6585,1651
+1489,1865,Xiaomi,3694,Xiaomi Mi 5,9045,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6540,1606
+1490,1878,LG,3492,LG V20,9037,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6372,1569
+1491,2107,Lenovo,3492,Lenovo ZUK Z2,9937,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6333,1642
+1492,1776,Lenovo,3587,Lenovo ZUK Z2 Pro,9951,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6198,1532
+1493,2747,Samsung,3700,Samsung Galaxy S7 Active,8229,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6161,1501
+1494,3778,Nokia,5707,Nokia 7 Plus,4431,Qualcomm Snapdragon 660,8,1843 MHz,5642,1620
+1495,N/A,OPPO,5563,OPPO R11 Plus,7289,Qualcomm Snapdragon 660,8,1843 MHz,5623,1672
+1496,N/A,Xiaomi,5253,Xiaomi Mi A2,4407,Qualcomm Snapdragon 660,8,1843 MHz,5453,1596
+1497,N/A,Qihoo,5681,Qihoo 360 N6 Pro,4141,Qualcomm Snapdragon 660,8,1843 MHz,5426,1605
+1498,N/A,Vivo,5703,Vivo X20,N/A,Qualcomm Snapdragon 660,8,1843 MHz,5409,1632
+1499,N/A,Vivo,5778,Vivo X20A,4045,Qualcomm Snapdragon 660,8,1843 MHz,5397,1604
+1500,4548,Xiaomi,5630,Xiaomi Mi Note 3,4128,Qualcomm Snapdragon 660,8,1843 MHz,5365,1588
+1501,3208,Smartisan,5705,Smartisan Nut Pro 2,4132,Qualcomm Snapdragon 660,8,1843 MHz,5272,1614
+1502,4030,Oppo,5554,Oppo F7,N/A,Mediatek MT6771 Helio P60,8,1989 MHz,5172,1472
+1503,N/A,Meizu,5635,Meizu Pro 7 Plus,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,5041,1684
+1504,5425,Oppo,5343,Oppo Realme 1,4380,Mediatek MT6771 Helio P60,8,1989 MHz,5018,1444
+1505,N/A,OPPO,5602,OPPO R11,8994,Qualcomm Snapdragon 660,8,1843 MHz,4973,1603
+1506,1926,Samsung,3719,Samsung Galaxy S7,7424,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4954,1536
+1507,2051,Oppo,4515,Oppo F3 Plus,3992,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4932,1427
+1508,N/A,Meizu,5763,Meizu Pro 7,N/A,Mediatek MT6799 Helio X30,10,1898 MHz,4807,1767
+1509,2105,Asus,5089,Asus Zenfone 5 Max,3108,Qualcomm Snapdragon 660,8,1612 MHz,4796,1449
+1510,2220,Samsung,5356,Samsung Galaxy S7,7368,Samsung Exynos 8890,8,1586 MHz,4790,1811
+1511,3032,Samsung,3744,Samsung Galaxy S7 edge,6992,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4741,1456
+1512,4058,Asus,4068,Asus Zenfone 4,3837,Qualcomm Snapdragon 630,8,2208 MHz,4686,851
+1513,2782,Samsung,5291,Samsung Galaxy S7 edge,6965,Samsung Exynos 8890,8,1586 MHz,4571,1745
+1514,N/A,Vivo,4466,Vivo X9 Plus,4011,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4483,1430
+1515,5257,Xiaomi,4773,Xiaomi Redmi Note 5 AI,3121,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4483,1330
+1516,N/A,Lenovo,3101,Lenovo Yoga Tab 3 Pro,N/A,Intel Atom x5-Z8500,4,2240 MHz,4480,1107
+1517,6442,Asus,4681,Asus Zenfone Max Pro (M1),3123,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4451,1317
+1518,5444,Xiaomi,4667,Xiaomi Redmi Note 5 Pro,3035,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4438,1326
+1519,N/A,Qihoo,4343,Qihoo 360 N5S,3834,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4415,1402
+1520,1192,Huawei,2878,Huawei Nexus 6P,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4404,1238
+1521,2710,Meizu,4362,Meizu PRO 6 Plus,5206,Samsung Exynos 8890,8,1482 MHz,4322,1465
+1522,N/A,Qihoo,4217,Qihoo 360 N5,3929,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4275,1397
+1523,N/A,ZTE,4259,ZTE Nubia Z17 Mini,3730,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4264,1372
+1524,3934,Nokia,4761,Nokia 6.1 Plus,3054,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4258,1319
+1525,N/A,Sony,3440,Sony Xperia Z4 Tablet (Wi-Fi),5588,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4240,1350
+1526,1947,Samsung,4274,Samsung Galaxy Tab S2 9.7 (2016),3901,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4235,1369
+1527,N/A,Motorola,3375,Motorola Moto X Force,5454,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4227,1271
+1528,3338,Huawei,5132,Huawei MediaPad M3 8.4,3568,HiSilicon Kirin 950,8,1805 MHz,4219,1672
+1529,N/A,ZTE,3824,ZTE Nubia Z11,7526,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4201,1676
+1530,N/A,LeEco,2723,LeEco LeRee Le 3,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4201,1364
+1531,1202,Sony,2791,Sony Xperia Z5 Premium,5525,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4190,1266
+1532,1636,Xiaomi,3103,Xiaomi MI PAD 2,N/A,Intel Atom x5-Z8500,4,2240 MHz,4164,1063
+1533,1841,Samsung,3956,Samsung Galaxy Tab S2 8.0,3888,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4163,1355
+1534,N/A,Asus,3659,Asus Zenfone 3 Ultra,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4146,1357
+1535,N/A,Sony,2751,Sony Xperia Z5 Premium Dual,5345,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4138,1239
+1536,1359,Sony,2715,Sony Xperia Z5 Dual,5337,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4114,1234
+1537,N/A,Samsung,4034,Samsung Galaxy C9 Pro,3475,Qualcomm MSM8976 Snapdragon 653,8,1401 MHz,4099,1294
+1538,N/A,Lenovo,3099,Lenovo Yoga Tab 3 Plus,3820,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,4089,1279
+1539,N/A,Lyf,2768,Lyf F1S,3881,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4089,1396
+1540,N/A,Smartron,2814,Smartron srt.phone,3653,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4076,1301
+1541,1135,Sony,2699,Sony Xperia Z5,5503,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4070,1230
+1542,N/A,Samsung,3865,Samsung Galaxy Note 7,3929,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4061,1519
+1543,1839,LeEco,2846,LeEco Coolpad Cool1 dual,3867,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4040,1372
+1544,1220,NVIDIA,2757,NVIDIA SHIELD Tablet K1,N/A,NVIDIA Tegra K1,4,2218 MHz,4033,1026
+1545,N/A,Vivo,3329,Vivo X7,3920,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4023,1339
+1546,N/A,Vivo,3301,Vivo X7 Plus,N/A,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4015,1326
+1547,N/A,Sharp,3994,Sharp Luna S,3877,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,4001,1258
+1548,N/A,Sony,2595,Sony Xperia Z5 Compact,5460,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4000,1215
+1549,N/A,Huawei,5067,Huawei Honor V8 Max,4288,HiSilicon Kirin 955,8,1805 MHz,3973,1759
+1550,N/A,Sony,2815,Sony Xperia Z4,5113,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3970,1288
+1551,1920,Huawei,5203,Huawei Honor 8,3956,HiSilicon Kirin 950,8,1805 MHz,3962,1665
+1552,1368,NVIDIA,2740,NVIDIA SHIELD Tablet,N/A,NVIDIA Tegra K1,4,2218 MHz,3957,1025
+1553,886,Xiaomi,2715,Xiaomi Mi Note Pro,5509,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3930,1218
+1554,N/A,HTC,2764,HTC 10 evo,4981,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3922,933
+1555,1618,LeEco,2575,LeEco Le 2,3617,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3920,1374
+1556,N/A,Alcatel,3088,Alcatel Idol 4s,3866,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3904,1414
+1557,1340,Sony,2688,Sony Xperia Z5 Compact,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3887,1222
+1558,N/A,Vivo,3158,Vivo X6S,3889,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3877,1325
+1559,N/A,Asus,3362,Asus Zenpad Z10,3841,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3876,1419
+1560,N/A,Huawei,5375,Huawei Honor V8,4187,HiSilicon Kirin 950,8,1805 MHz,3870,1745
+1561,1729,Sony,3282,Sony Xperia X,3802,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3867,1373
+1562,2574,Huawei,5096,Huawei P9 Plus,3766,HiSilicon Kirin 955,8,1805 MHz,3853,1767
+1563,N/A,Sony,3404,Sony Xperia X Compact,3755,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3834,1374
+1564,N/A,LeEco,2832,LeEco Le Pro 1,5542,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3824,1261
+1565,1241,Vodafone,3085,Vodafone Smart Platinum 7,3792,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3821,1397
+1566,2292,Huawei,5282,Huawei Mate 8,3754,HiSilicon Kirin 950,8,1805 MHz,3812,1683
+1567,1725,Huawei,4820,Huawei P9,3869,HiSilicon Kirin 955,8,1805 MHz,3797,1709
+1568,N/A,ZTE,2716,ZTE Nubia Z9 Max,5635,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3783,1235
+1569,N/A,LeEco,2921,LeEco Le Max,5159,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3776,1258
+1570,879,HTC,2476,HTC One M9,4911,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3765,1204
+1571,4057,Vivo,4372,Vivo V9,2719,Qualcomm Snapdragon 626,8,2208 MHz,3756,929
+1572,3622,Motorola,4077,Motorola Moto X4,2980,Qualcomm Snapdragon 630,8,2208 MHz,3754,863
+1573,N/A,Qihoo,4141,Qihoo 360 N6 Lite,2964,Qualcomm Snapdragon 630,8,2208 MHz,3753,869
+1574,N/A,CHUWI,2133,CHUWI Hi8 Pro,N/A,Intel Atom x5-Z8350,4,1840 MHz,3746,933
+1575,N/A,LeEco,2446,LeEco Cool Changer 1C,3907,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3744,1388
+1576,N/A,Motorola,4046,Motorola Moto G6 Plus,3029,Qualcomm Snapdragon 630,8,2208 MHz,3739,861
+1577,3644,Nokia,4102,Nokia 6.1,3014,Qualcomm Snapdragon 630,8,2208 MHz,3732,869
+1578,763,Asus,2873,Asus Zenpad Z8,3872,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3710,1365
+1579,3035,Samsung,4208,Samsung Galaxy A8 (2018),4585,Samsung Exynos 7885 Octa,8,1586 MHz,3705,1482
+1580,N/A,ZTE,2652,ZTE Nubia Z9,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3695,1200
+1581,N/A,Sharp,4079,Sharp Aquos S2,2947,Qualcomm Snapdragon 630,8,2208 MHz,3688,859
+1582,2206,Xiaomi,3146,Xiaomi MI MAX,3835,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3679,1376
+1583,1080,Sony,2296,Sony Xperia Z3+,4744,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3655,1207
+1584,1848,HTC,2774,HTC Nexus 9,N/A,NVIDIA Tegra K1 Denver,2,2499 MHz,3643,1728
+1585,N/A,LeMobile,2345,LeMobile Le X527,N/A,,0,1401 MHz,3641,1406
+1586,N/A,LG,3310,LG G5 SE,3956,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3614,1165
+1587,N/A,Vivo,2825,Vivo V3 Max,3886,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3605,1372
+1588,N/A,HTC,1881,HTC Butterfly 3,5279,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3580,1157
+1589,N/A,ZTE,3472,ZTE Nubia Z11 Max,3437,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3564,1327
+1590,N/A,Samsung,3796,Samsung Galaxy A9 Pro,3738,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3558,1300
+1591,2930,Samsung,4083,Samsung Galaxy A8+ (2018),4640,Samsung Exynos 7885 Octa,8,1586 MHz,3548,1455
+1592,1939,Motorola,2446,Motorola DROID Turbo,5086,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,3542,1007
+1593,1209,OnePlus,2740,OnePlus 2,4544,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3510,1050
+1594,4852,10.or,4339,10.or G,1796,Qualcomm Snapdragon 626,8,2208 MHz,3501,911
+1595,2956,Asus,4100,Asus Zenfone 3,3318,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3482,853
+1596,N/A,BQ,4419,BQ Aquaris X Pro,1783,Qualcomm Snapdragon 626,8,2208 MHz,3482,919
+1597,N/A,UMi,4335,UMi Z Pro,4197,Mediatek Helio X27,10,1547 MHz,3464,1550
+1598,N/A,BQ,4392,BQ Aquaris X,1770,Qualcomm Snapdragon 626,8,2208 MHz,3457,915
+1599,954,LG,2351,LG G Flex 2,4842,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3441,1177
+1600,3415,Xiaomi,4171,Xiaomi Mi A1,1817,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3431,859
+1601,N/A,Samsung,4166,Samsung Galaxy J7 V,N/A,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3426,900
+1602,N/A,Samsung,4143,Samsung Galaxy J7 Perx,1781,Qualcomm MSM8953 Snapdragon 625,8,2208 MHz,3425,903
+1603,N/A,NVIDIA,4263,NVIDIA SHIELD Android TV,N/A,NVIDIA Tegra X1,4,2014 MHz,3424,1510
+1604,1341,Kodak,4468,Kodak Ektra,3960,Mediatek MT6797 Helio X20,10,1391 MHz,3421,1599
+1605,1485,LeEco,3583,LeEco Le S3,3727,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3410,1476
+1606,N/A,Samsung,4204,Samsung Galaxy A8 (2016),5735,Samsung Exynos 7420,8,1500 MHz,3401,1305
+1607,3710,Xiaomi,4088,Xiaomi Redmi S2,1974,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3397,835
+1608,N/A,BQ,2672,BQ Aquaris X5 Plus,4066,Qualcomm MSM8976 Snapdragon 652,4,1401 MHz,3369,1155
+1609,N/A,Samsung,4213,Samsung Galaxy C7 Pro,1688,Qualcomm Snapdragon 626,8,2208 MHz,3358,893
+1610,N/A,Asus,4188,Asus Zenfone 3 Zoom,1791,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3341,860
+1611,N/A,Samsung,4057,Samsung Galaxy C5 Pro,1718,Qualcomm Snapdragon 626,8,2208 MHz,3333,881
+1612,2133,Xiaomi,2694,Xiaomi Redmi Note 3,3775,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3315,1399
+1613,N/A,Samsung,5109,Samsung Galaxy Note 7,3811,Samsung Exynos 8890,8,1586 MHz,3308,1734
+1614,1546,Samsung,2615,Samsung Galaxy S5 Plus,4966,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3290,1010
+1615,N/A,Elephone,4091,Elephone S8,N/A,Mediatek MT6797T Helio X25,10,2002 MHz,3285,1299
+1616,N/A,ZTE,4036,ZTE Nubia M2,1585,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3262,837
+1617,2733,Lenovo,4067,Lenovo K8 Note,N/A,Mediatek Helio X23,10,1391 MHz,3243,1476
+1618,N/A,Fujitsu,2630,Fujitsu Arrows NX F-04G,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3240,892
+1619,1627,Meizu,3786,Meizu Pro 6,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3230,1318
+1620,N/A,Samsung,3969,Samsung Galaxy Tab S2 8.0,3386,Samsung Exynos 5433,8,1401 MHz,3215,1359
+1621,4842,Lenovo,3836,Lenovo P2,1758,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3207,847
+1622,N/A,UMi,4371,UMi Z,4356,Mediatek Helio X27,10,1547 MHz,3177,1598
+1623,N/A,Meizu,4305,Meizu Pro 6s,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3175,1169
+1624,3240,Lenovo,3021,Lenovo Tab3 8 Plus,1643,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3175,843
+1625,5274,Meizu,4062,Meizu M6 Note,1775,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3174,831
+1626,4009,Motorola,4436,Motorola Moto Z2 Play,2001,Qualcomm Snapdragon 626,8,2208 MHz,3155,895
+1627,N/A,Xiaomi,4010,Xiaomi Redmi Note 4,1785,Qualcomm MSM8953 Snapdragon 625,8,0 MHz,3151,1475
+1628,2908,Xiaomi,4014,Xiaomi Redmi Pro,N/A,Mediatek MT6797T Helio X25,10,1547 MHz,3133,1648
+1629,N/A,Xiaomi,3595,Xiaomi Redmi 4 Prime,1963,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3118,868
+1630,N/A,Vernee,4265,Vernee Apollo,4203,Mediatek MT6797T Helio X25,10,1547 MHz,3118,1691
+1631,3540,Oppo,3416,Oppo R9s,1708,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3102,859
+1632,3844,Lenovo,3245,Lenovo Yogabook YB1-X90F,N/A,Intel Atom x5-Z8550,4,2400 MHz,3099,1170
+1633,1716,Samsung,4149,Samsung Galaxy S6 Active,5813,Samsung Exynos 7420,8,1500 MHz,3097,1286
+1634,921,Samsung,2626,Samsung Galaxy S5 LTE-A,4782,Qualcomm APQ8084 Snapdragon 805,4,2457 MHz,3081,976
+1635,N/A,Vivo,3964,Vivo X9,1750,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3080,852
+1636,N/A,Huawei,3651,Huawei Nova,1774,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3074,854
+1637,6059,Xiaomi,3824,Xiaomi Mi Max 2,1818,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3071,850
+1638,N/A,Samsung,3559,Samsung Galaxy C7,1735,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3070,840
+1639,2887,Huawei,3631,Huawei P20 Lite,2129,HiSilicon Kirin 659,8,1709 MHz,3067,925
+1640,N/A,Vivo,3784,Vivo V5 Plus,1792,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3061,850
+1641,N/A,Meizu,3671,Meizu MX6,3371,Mediatek MT6797 Helio X20,10,1391 MHz,3049,1505
+1642,N/A,Huawei,3626,Huawei P Smart,2156,HiSilicon Kirin 659,8,1709 MHz,3049,926
+1643,4190,Xiaomi,3415,Xiaomi Redmi Note 4X,1778,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3045,832
+1644,N/A,Vivo,3787,Vivo V7,1702,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3045,766
+1645,N/A,Huawei,3608,Huawei Mate SE,2146,HiSilicon Kirin 659,8,1709 MHz,3043,928
+1646,N/A,Huawei,3620,Huawei Honor 9 Lite,2165,HiSilicon Kirin 659,8,1709 MHz,3042,925
+1647,N/A,Meizu,4227,Meizu PRO 5,3860,Samsung Exynos 7420,8,1500 MHz,3032,1357
+1648,N/A,Xiaomi,3701,Xiaomi Redmi 5,1687,Qualcomm SDM450 Snapdragon 450,8,2016 MHz,3021,773
+1649,N/A,Vivo,3781,Vivo V7+,1726,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,3009,760
+1650,3717,Huawei,3542,Huawei Nova 2 Plus,2052,HiSilicon Kirin 659,8,1709 MHz,3002,910
+1651,3041,Samsung,4104,Samsung Galaxy A5 (2017),3303,Samsung Exynos 7880,8,1872 MHz,3000,773
+1652,N/A,Huawei,3549,Huawei Nova 2,2073,HiSilicon Kirin 659,8,1709 MHz,2991,910
+1653,N/A,Huawei,3515,Huawei Nova Plus,1773,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2982,851
+1654,N/A,Samsung,4011,Samsung Galaxy A7 (2017),3288,Samsung Exynos 7880,8,1872 MHz,2980,771
+1655,3696,Huawei,3522,Huawei Honor 7X,2058,HiSilicon Kirin 659,8,1709 MHz,2978,911
+1656,3694,Huawei,3490,Huawei Mate 10 Lite,2046,HiSilicon Kirin 659,8,1709 MHz,2973,912
+1657,N/A,Xiaomi,3510,Xiaomi Mi Pad 3,N/A,Mediatek MT8176,6,1703 MHz,2966,1578
+1658,2912,Motorola,4161,Motorola Moto G5S Plus,2001,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2945,832
+1659,1586,Samsung,4051,Samsung Galaxy S6 edge,5264,Samsung Exynos 7420,8,1500 MHz,2943,1292
+1660,N/A,ZTE,3814,ZTE Nubia Z11 Mini S,1640,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2933,824
+1661,N/A,Qihoo,4296,Qihoo 360 N4,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2926,1517
+1662,1362,LG,2273,LG Nexus 5X,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2918,1012
+1663,1666,Samsung,4059,Samsung Galaxy S6 edge+,5498,Samsung Exynos 7420,8,1500 MHz,2914,1309
+1664,1753,Samsung,4028,Samsung Galaxy Note 5,5600,Samsung Exynos 7420,8,1500 MHz,2908,1303
+1665,1417,Samsung,3954,Samsung Galaxy Note5 Duos,5225,Samsung Exynos 7420,8,1500 MHz,2898,1278
+1666,3181,Motorola,4112,Motorola Moto G5 Plus,1994,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2889,834
+1667,N/A,QiKU,4275,QiKU N4s,N/A,Mediatek MT6797 Helio X20,10,1391 MHz,2879,1511
+1668,N/A,Samsung,2456,Samsung Galaxy Note Edge,4792,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2872,964
+1669,N/A,Vernee,4410,Vernee Apollo Lite,3858,Mediatek MT6797 Helio X20,10,1391 MHz,2871,1612
+1670,3060,Motorola,3782,Motorola Moto G6,1862,Qualcomm SDM450 Snapdragon 450,8,1804 MHz,2868,739
+1671,1501,Motorola,2374,Motorola Moto Maxx,4828,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2862,1000
+1672,N/A,Samsung,3302,Samsung Galaxy Tab S2 9.7,3545,Samsung Exynos 5433,8,1300 MHz,2855,1003
+1673,1618,Samsung,3945,Samsung Galaxy S6,5388,Samsung Exynos 7420,8,1500 MHz,2854,1257
+1674,N/A,Elephone,3086,Elephone S7,3517,Mediatek MT6797 Helio X20,10,1391 MHz,2854,1283
+1675,1357,Motorola,2576,Motorola Nexus 6,N/A,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2852,1008
+1676,4149,Motorola,3801,Motorola Moto Z Play,1995,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2832,822
+1677,N/A,Huawei,3267,Huawei Nova 2i,2003,HiSilicon Kirin 659,8,1709 MHz,2828,887
+1678,1264,Nextbit,2249,Nextbit Robin,2807,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2812,1096
+1679,N/A,Asus,3405,Asus Zenpad 3S 10,N/A,Mediatek MT8176,6,1703 MHz,2799,1534
+1680,2866,Huawei,3360,Huawei P10 Lite,2069,HiSilicon Kirin 658,8,1709 MHz,2796,885
+1681,1058,Motorola,2798,Motorola Moto X Style,2721,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2787,1124
+1682,2738,Vernee,3934,Vernee Mars Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2777,856
+1683,1250,Samsung,2493,Samsung Galaxy Note 4 Duos,4636,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2774,967
+1684,1499,Huawei,3372,Huawei P8 lite (2017),2156,HiSilicon Kirin 655,8,1709 MHz,2767,815
+1685,N/A,Meizu,3933,Meizu M2E,2372,Mediatek Helio P20 MT6757,8,1638 MHz,2761,845
+1686,N/A,Huawei,3359,Huawei Nova Lite,2159,HiSilicon Kirin 655,8,1709 MHz,2753,813
+1687,N/A,Meizu,3152,Meizu S6,N/A,Samsung Exynos 7885 Octa,8,1586 MHz,2731,1308
+1688,N/A,UMi,3751,UMi Plus E,2221,Mediatek Helio P20 MT6757,8,2340 MHz,2730,847
+1689,N/A,Doogee,3657,Doogee Mix,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2729,840
+1690,N/A,LG,2579,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2728,1095
+1691,1276,Huawei,3395,Huawei Honor 8 Lite,2157,HiSilicon Kirin 655,8,1709 MHz,2722,816
+1692,N/A,LG,2462,LG G4,2758,Qualcomm MSM8992 Snapdragon 808,6,1248 MHz,2720,1079
+1693,N/A,Sony,3698,Sony Xperia XA1 Ultra,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2711,863
+1694,N/A,Meizu,3904,Meizu M3x,2485,Mediatek Helio P20 MT6757,8,1638 MHz,2710,861
+1695,N/A,Sony,3666,Sony Xperia XA1,N/A,Mediatek Helio P20 MT6757,8,1638 MHz,2701,855
+1696,N/A,QiKU,2812,QiKU Q Terra,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2701,1150
+1697,N/A,Huawei,3336,Huawei Mate 9 Lite,1888,HiSilicon Kirin 655,8,1709 MHz,2678,814
+1698,N/A,Lenovo,2739,Lenovo Vibe X3,2742,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2662,1053
+1699,N/A,HTC,2305,HTC One (M8x),2496,Qualcomm MSM8974AB Snapdragon 801,4,2457 MHz,2656,973
+1700,N/A,Huawei,3335,Huawei Honor 6X,2073,HiSilicon Kirin 655,8,1709 MHz,2655,811
+1701,1229,BlackBerry,2378,BlackBerry Priv,2741,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2637,1060
+1702,N/A,Maze,3400,Maze Alpha,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2637,844
+1703,4250,Xiaomi,2810,Xiaomi Redmi 4,1530,Qualcomm MSM8937 Snapdragon 430,8,2016 MHz,2630,837
+1704,1038,Samsung,3223,Samsung Galaxy Note 4,3434,Samsung Exynos 5433,8,1300 MHz,2621,973
+1705,5327,Doogee,3707,Doogee S60,N/A,Mediatek Helio P20 MT6757,8,2600 MHz,2621,829
+1706,N/A,Xiaomi,1264,Xiaomi Redmi 1S,N/A,Qualcomm Snapdragon 400,2,1593 MHz,2619,485
+1707,N/A,Blackview,3798,Blackview BV8000 Pro,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2616,832
+1708,N/A,LeEco,3716,LeEco Le2 Pro,N/A,Mediatek MT6797T Helio X25,10,1846 MHz,2615,1472
+1709,N/A,HTC,2222,HTC One E8,2482,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,2614,940
+1710,1434,LG,2655,LG V10,2632,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2603,968
+1711,N/A,Samsung,2519,Samsung Galaxy S5 Active,2390,Qualcomm MSM8974AA Snapdragon 801,4,2457 MHz,2586,942
+1712,1238,Sony,3576,Sony Xperia M5,1795,Mediatek MT6795 Helio X10,8,1950 MHz,2581,730
+1713,N/A,Lenovo,3436,Lenovo K8 Plus,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2549,901
+1714,N/A,Motorola,2418,Motorola Moto X (2014),2414,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2529,999
+1715,N/A,Sony,3327,Sony Xperia M5 Dual,1695,Mediatek MT6795 Helio X10,8,1950 MHz,2515,726
+1716,N/A,Oppo,2627,Oppo Find 7a,N/A,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2501,1009
+1717,1918,Meizu,2793,Meizu MX5,1715,Mediatek MT6795 Helio X10,8,2158 MHz,2478,817
+1718,N/A,Bluboo,3072,Bluboo S1,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2469,817
+1719,N/A,HTC,2291,HTC One M8 Dual Sim,2514,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2466,953
+1720,N/A,LeEco,3296,LeEco Le 1s,1685,Mediatek MT6795 Helio X10,8,2158 MHz,2444,827
+1721,1450,Huawei,3360,Huawei P9 lite,2038,HiSilicon Kirin 650,4,1709 MHz,2441,796
+1722,1320,HTC,2305,HTC One (M8),2498,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2435,961
+1723,973,Xiaomi,2127,Xiaomi Mi 4c,2592,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2425,1076
+1724,N/A,ZTE,2422,ZTE Trek 2 ,1276,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2425,710
+1725,2209,Huawei,3300,Huawei Honor 5c,2035,HiSilicon Kirin 650,4,1709 MHz,2423,795
+1726,N/A,Vernee,3100,Vernee Mix 2,N/A,Mediatek MT6757 Helio P25,8,1690 MHz,2423,831
+1727,N/A,Xiaomi,1948,Xiaomi Mi 4s,2464,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2422,946
+1728,N/A,Samsung,3532,Samsung Galaxy Feel,1237,Samsung Exynos 7870 Octa,8,1586 MHz,2412,710
+1729,N/A,Meizu,2675,Meizu M1 Metal,1467,Mediatek MT6795 Helio X10,8,1950 MHz,2373,776
+1730,1453,Lenovo,2700,Lenovo ZUK Z1,2423,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,1025
+1731,N/A,Samsung,2372,Samsung Galaxy S5 Duos,2219,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2361,913
+1732,1146,Cat,2151,Cat S60,1288,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2353,709
+1733,N/A,ZTE,1874,ZTE Axon 7 Mini,1269,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2339,659
+1734,N/A,HTC,2179,HTC One M8 Eye,2068,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2335,922
+1735,N/A,ZTE,2516,ZTE Blade Z Max,1356,Qualcomm Snapdragon 435,8,1401 MHz,2331,673
+1736,N/A,Sony,2463,Sony Xperia Z Ultra,2035,Qualcomm Snapdragon 800,4,2150 MHz,2328,973
+1737,1105,Samsung,2412,Samsung Galaxy S5,2171,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2328,931
+1738,N/A,HTC,2134,HTC Desire Eye,2058,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2323,926
+1739,N/A,Sony,3280,Sony Xperia C4,N/A,Mediatek MT6752,8,1690 MHz,2318,737
+1740,N/A,Sony,3370,Sony Xperia C5 Ultra Dual,N/A,Mediatek MT6752,8,1690 MHz,2318,743
+1741,N/A,Nokia,2792,Nokia 5,1314,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2314,673
+1742,1298,Oppo,2764,Oppo A57,1200,Qualcomm Snapdragon 435,8,1401 MHz,2302,657
+1743,N/A,LG,2323,LG G Pro 2,2040,Qualcomm Snapdragon 800,4,2265 MHz,2292,971
+1744,3943,Samsung,3481,Samsung Galaxy J7 (2017),1234,Samsung Exynos 7870 Octa,8,1586 MHz,2288,713
+1745,N/A,Sony,3231,Sony Xperia C4 Dual,N/A,Mediatek MT6752,8,1690 MHz,2287,742
+1746,2530,Samsung,3430,Samsung Galaxy A3 (2017),1233,Samsung Exynos 7870 Octa,8,1586 MHz,2283,705
+1747,1705,Sony,2541,Sony Xperia Z1 Compact,2025,Qualcomm Snapdragon 800,4,2150 MHz,2275,978
+1748,N/A,Huawei,2028,Huawei Honor 5X,1392,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2274,625
+1749,N/A,Nokia,2786,Nokia 6,1319,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2272,668
+1750,N/A,Samsung,3462,Samsung Galaxy J7 Pro,1232,Samsung Exynos 7870 Octa,8,1586 MHz,2268,711
+1751,2575,Samsung,3367,Samsung Galaxy J5 (2017),1200,Samsung Exynos 7870 Octa,8,1586 MHz,2267,705
+1752,N/A,Meizu,2605,Meizu MX4,1264,MediaTek MT6595,8,1690 MHz,2253,797
+1753,N/A,ZTE,2505,ZTE Max XL,1368,Qualcomm Snapdragon 435,8,1401 MHz,2252,674
+1754,N/A,JiaYu,3084,JiaYu S3,N/A,Mediatek MT6752,8,1690 MHz,2248,730
+1755,N/A,Sony,2675,Sony Xperia Z3 Tablet Compact,2267,Qualcomm MSM8274AB Snapdragon 801,4,2457 MHz,2244,998
+1756,1385,Sony,2343,Sony Xperia Z1,2003,Qualcomm Snapdragon 800,4,2150 MHz,2240,970
+1757,829,Samsung,1968,Samsung Galaxy Note 3,1987,Exynos 5 Octa 5420,4,1900 MHz,2239,761
+1758,1329,Samsung,2422,Samsung Galaxy Note 3,1974,Qualcomm Snapdragon 800,4,2265 MHz,2235,923
+1759,1394,Sony,2561,Sony Xperia Z3 Compact,2251,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2235,975
+1760,1162,HTC,2487,HTC One X9,1830,Mediatek MT6795 Helio X10,8,1950 MHz,2219,759
+1761,1303,Sony,2538,Sony Xperia Z3,2245,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2216,993
+1762,1076,Yota,1911,Yota YotaPhone 2,2021,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,2206,891
+1763,3730,Samsung,3232,Samsung Galaxy J7 Nxt,1116,Samsung Exynos 7870 Octa,8,1586 MHz,2201,690
+1764,N/A,Huawei,2616,Huawei Y7 Prime,1559,Qualcomm Snapdragon 435,8,1401 MHz,2201,641
+1765,935,Asus,2044,Asus Padfone S,2474,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2201,956
+1766,3638,Samsung,3412,Samsung Galaxy Tab A 10.1,1235,Samsung Exynos 7870 Octa,8,1586 MHz,2198,705
+1767,N/A,Huawei,1975,Huawei Ascend XT,1244,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2197,619
+1768,N/A,Lenovo,3035,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2173,728
+1769,N/A,Huawei,2591,Huawei P8 Max,N/A,HiSilicon Kirin 935,4,1516 MHz,2173,756
+1770,N/A,Xiaomi,2059,Xiaomi Redmi 4X,1347,Qualcomm Snapdragon 435,8,0 MHz,2170,649
+1771,1484,OnePlus,2511,OnePlus One,2214,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2168,1003
+1772,1173,LG,2329,LG G2,2026,Qualcomm Snapdragon 800,4,2265 MHz,2158,991
+1773,1219,Meizu,2850,Meizu M1 Note,N/A,Mediatek MT6752m,8,1690 MHz,2157,789
+1774,1434,Sony,2453,Sony Xperia Z3 Dual,2232,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2156,984
+1775,1230,Lenovo,2897,Lenovo K3 Note,N/A,Mediatek MT6752m,8,1690 MHz,2146,731
+1776,N/A,Sony,2612,Sony Xperia Z2 Tablet LTE,2218,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2146,973
+1777,N/A,Google,3371,Google Pixel C,N/A,NVIDIA Tegra X1,4,1912 MHz,2145,1345
+1778,N/A,Oppo,2761,Oppo F3,N/A,Mediatek MT6750,8,1508 MHz,2139,754
+1779,2549,Samsung,3146,Samsung Galaxy J7 Prime,1196,Samsung Exynos 7870 Octa,8,1586 MHz,2131,682
+1780,1221,ZTE,2028,ZTE Zmax Pro,1247,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2127,699
+1781,N/A,Huawei,2572,Huawei Honor 6A,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2127,636
+1782,N/A,Lenovo,2370,Lenovo K6 Note,1293,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2126,642
+1783,1001,Huawei,1972,Huawei G8,1222,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2123,619
+1784,N/A,Motorola,2205,Motorola Moto G4 Plus,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2118,666
+1785,N/A,Samsung,2259,Samsung Galaxy J,2329,Qualcomm Snapdragon 800,4,2265 MHz,2118,922
+1786,N/A,Oppo,3058,Oppo R9,1548,Mediatek MT6755 Helio P10,8,1950 MHz,2114,790
+1787,N/A,HTC,2583,HTC One A9,1277,Qualcomm MSM8952 Snapdragon 617,8,0 MHz,2110,670
+1788,N/A,Wileyfox,2016,Wileyfox Swift 2,1303,Qualcomm MSM8937 Snapdragon 430,8,0 MHz,2105,627
+1789,1163,Oppo,1893,Oppo F1,1253,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2104,658
+1790,N/A,Samsung,2550,Samsung Galaxy Tab Pro 8.4,2349,Qualcomm Snapdragon 800,4,2265 MHz,2101,970
+1791,799,Huawei,2511,Huawei Honor 7,2461,HiSilicon Kirin 935,4,1516 MHz,2095,758
+1792,1664,Xiaomi,2057,Xiaomi Mi 3,2402,Qualcomm MSM8274AB Snapdragon 801,4,2265 MHz,2089,910
+1793,1496,Sony,2498,Sony Xperia Z2,2251,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2087,954
+1794,N/A,ZTE,2255,ZTE Nubia Z7 Max,2453,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2086,971
+1795,N/A,Wileyfox,2344,Wileyfox Swift 2 Plus,1292,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2086,652
+1796,N/A,Sony,3351,Sony Xperia C5 Ultra,N/A,Mediatek MT6752,8,1690 MHz,2082,738
+1797,1199,Lenovo,3188,Lenovo Vibe S1,N/A,Mediatek MT6752,8,1690 MHz,2071,738
+1798,N/A,Lenovo,3245,Lenovo P70,N/A,Mediatek MT6752m,8,1690 MHz,2069,722
+1799,N/A,ZTE,2191,ZTE Blade X Max,N/A,Qualcomm Snapdragon 435,8,1401 MHz,2066,669
+1800,N/A,ZTE,2003,ZTE Axon Mini,1228,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,2062,644
+1801,1267,NVIDIA,2274,NVIDIA Shield,N/A,NVIDIA Tegra 4,4,1912 MHz,2060,877
+1802,N/A,BLU,1995,BLU Life One X2,1200,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2049,645
+1803,N/A,Samsung,3326,Samsung Galaxy J7 (2016),1151,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,2048,687
+1804,1331,Huawei,2491,Huawei Mate S,N/A,HiSilicon Kirin 935,4,1516 MHz,2047,750
+1805,N/A,Xiaomi,2128,Xiaomi Mi Note,2212,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2038,928
+1806,N/A,HTC,1704,HTC One M8s,1251,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,2036,607
+1807,N/A,Alcatel,1845,Alcatel Idol 4,1260,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,2027,693
+1808,N/A,Sony,2821,Sony Xperia XA Dual,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2024,759
+1809,N/A,Lenovo,1819,Lenovo Vibe P1,1237,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,2022,614
+1810,986,Xiaomi,2010,Xiaomi MI 4LTE,2325,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2020,900
+1811,N/A,Sony,2826,Sony Xperia XA,N/A,Mediatek MT6755 Helio P10,8,0 MHz,2020,760
+1812,N/A,Asus,2445,Asus Zenfone 3 Laser,1286,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,2015,651
+1813,N/A,LG,2485,LG Stylo 3 Plus,1428,Qualcomm Snapdragon 435,8,1401 MHz,2001,619
+1814,1659,Samsung,3327,Samsung Galaxy J7,1057,Qualcomm MSM8952 Snapdragon 617,8,1586 MHz,1997,693
+1815,N/A,Xiaomi,1967,Xiaomi Mi 4,2269,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,1997,891
+1816,N/A,Samsung,2763,Samsung Galaxy A8 Duos,1917,Qualcomm MSM8939 Snapdragon 615,8,1300 MHz,1996,852
+1817,995,LG,1926,LG Nexus 5,N/A,Qualcomm Snapdragon 800,4,2265 MHz,1988,897
+1818,N/A,Samsung,1471,Samsung Galaxy A7,1255,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1984,568
+1819,1087,Samsung,3208,Samsung Galaxy A5 (2016),1143,Samsung Exynos 7580,8,1600 MHz,1983,642
+1820,1808,Samsung,3207,Samsung Galaxy A7 (2016),1282,Samsung Exynos 7580,8,1600 MHz,1981,643
+1821,1040,Samsung,3067,Samsung Galaxy S5 Neo,1041,Samsung Exynos 7580 Octa,8,1600 MHz,1979,641
+1822,N/A,HTC,2756,HTC U Play,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1977,740
+1823,N/A,LeTV,3987,LeTV Le 1 (X600),1785,Mediatek MT6795 Helio X10,8,1950 MHz,1974,788
+1824,1403,Huawei,2427,Huawei P8,1883,HiSilicon Kirin 935,4,1516 MHz,1972,680
+1825,N/A,Vivo,1881,Vivo Y55L,1447,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1971,629
+1826,N/A,Xiaomi,2780,Xiaomi Mi 5c,N/A,Xiaomi Surge S1,8,1404 MHz,1966,726
+1827,658,Lenovo,1534,Lenovo Vibe Shot,1233,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1961,645
+1828,1271,OnePlus,2276,OnePlus X,2009,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,1959,949
+1829,999,LG,2130,LG G3,2552,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,1957,939
+1830,N/A,Motorola,2222,Motorola Moto G5S,1468,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1957,626
+1831,N/A,Gionee,2779,Gionee A1,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1957,733
+1832,1833,Motorola,2476,Motorola Moto G5,1467,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1956,617
+1833,N/A,Lenovo,2220,Lenovo K6,1472,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1955,627
+1834,1307,Samsung,1982,Samsung Galaxy Note 10.1 (2014),1841,Exynos 5 Octa 5420,4,1900 MHz,1951,768
+1835,N/A,Lenovo,2284,Lenovo K6 Power,1450,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1950,624
+1836,N/A,Lenovo,2231,Lenovo Vibe K6,1461,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1949,625
+1837,N/A,Vivo,1716,Vivo V3,1238,Qualcomm MSM8939v2 Snapdragon 616,8,0 MHz,1949,655
+1838,N/A,HTC,2463,HTC One M9+,1740,Mediatek MT6795 Helio X10,8,2158 MHz,1948,801
+1839,N/A,ZTE,2370,ZTE Nubia Z7 Mini,N/A,Qualcomm MSM8974AA Snapdragon 801,4,2265 MHz,1936,940
+1840,3275,Samsung,3246,Samsung Galaxy J7 Max,N/A,Mediatek Helio P20 MT6757,8,1690 MHz,1926,767
+1841,1570,HTC,2655,HTC One A9s,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1924,727
+1842,1049,ZTE,2144,ZTE Nubia Z11 Mini,N/A,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1924,691
+1843,1234,Motorola,2251,Motorola Moto G4,1272,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1920,670
+1844,1691,Lenovo,2886,Lenovo A7000,N/A,Mediatek MT6752m,8,1690 MHz,1920,725
+1845,701,HTC,1447,HTC Desire 820,1255,Qualcomm MSM8939 Snapdragon 615,8,1536 MHz,1914,573
+1846,1050,Samsung,2622,Samsung Galaxy C5,1256,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1910,666
+1847,2442,Motorola,2106,Motorola Moto G6 Play,834,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1910,635
+1848,N/A,Huawei,2875,Huawei Enjoy 5s,N/A,Mediatek MT6753,8,1495 MHz,1887,684
+1849,N/A,Huawei,1899,Huawei Ascend Mate 7,2639,HiSilicon Kirin 925,8,1305 MHz,1881,767
+1850,1670,Meizu,2348,Meizu M5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1865,700
+1851,2823,Asus,2145,Asus Zenfone 4 Max,1213,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1865,656
+1852,N/A,Oppo,2537,Oppo A39,N/A,Mediatek MT6750,8,1508 MHz,1863,649
+1853,N/A,BQ,1659,BQ Aquaris M5,1250,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1862,574
+1854,N/A,Meizu,2587,Meizu M1E,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1857,717
+1855,N/A,Huawei,1871,Huawei Honor 6 Plus,2587,HiSilicon Kirin 925,8,1305 MHz,1851,765
+1856,N/A,Vodafone,1394,Vodafone Smart Ultra 6,1243,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1850,578
+1857,N/A,General,2402,General Mobile GM 5 Plus,1227,Qualcomm MSM8952 Snapdragon 617,8,1516 MHz,1822,684
+1858,N/A,Xiaomi,1774,Xiaomi Redmi 3x,1199,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1822,632
+1859,N/A,PPTV,2143,PPTV King 7,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1820,778
+1860,N/A,Oppo,2959,Oppo F1 Plus,1584,Mediatek MT6755 Helio P10,8,1950 MHz,1811,774
+1861,455,Samsung,2457,Samsung Galaxy Alpha,1645,Samsung Exynos 5430,8,1300 MHz,1803,782
+1862,2881,Xiaomi,1774,Xiaomi Redmi 3s,1189,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1802,633
+1863,N/A,Alcatel,1534,Alcatel OneTouch Idol 3,1236,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1800,598
+1864,1994,Samsung,1965,Samsung Galaxy Note Pro 12.2,1806,Exynos 5 Octa 5420,4,1900 MHz,1793,764
+1865,N/A,Infinix,3014,Infinix Zero 3,N/A,Mediatek MT6795 Helio X10,8,1950 MHz,1792,655
+1866,N/A,Lenovo,1873,Lenovo Vibe K5 Plus,1218,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1788,580
+1867,1224,Motorola,2515,Motorola Moto M,N/A,Mediatek MT6755 Helio P10,8,0 MHz,1787,757
+1868,N/A,Oppo,2533,Oppo F1s,1192,Mediatek MT6755 Helio P10,8,1508 MHz,1786,646
+1869,694,Lenovo,1654,Lenovo Vibe K5,1161,Qualcomm MSM8929 Snapdragon 415,8,0 MHz,1786,605
+1870,1144,Motorola,1652,Motorola Moto X Play,1253,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1778,639
+1871,N/A,Xiaomi,1685,Xiaomi Redmi 3,1182,Qualcomm MSM8939v2 Snapdragon 616,8,1497 MHz,1770,633
+1872,2337,LG,2557,LG Stylus 3,1448,Mediatek MT6750,8,1401 MHz,1770,623
+1873,669,Huawei,1752,Huawei Honor 6,2476,Huawei HiSilicon Kirin 920 Hi3630,8,1305 MHz,1764,738
+1874,N/A,LG,1966,LG Stylus 2 Plus,1317,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1762,587
+1875,1722,LG,1993,LG Q6,1260,Qualcomm Snapdragon 435,8,1401 MHz,1750,550
+1876,2450,Xiaomi,2112,Xiaomi Redmi Note 5A,822,Qualcomm Snapdragon 435,8,1401 MHz,1744,672
+1877,N/A,Vodafone,2560,Vodafone Smart Ultra 7,N/A,Mediatek MT6755M Helio P10 M,8,1807 MHz,1742,692
+1878,N/A,Samsung,2018,Samsung Galaxy Tab Pro 10.1,N/A,Exynos 5 Octa 5420,4,1900 MHz,1728,807
+1879,1593,Samsung,1979,Samsung Galaxy Tab S 10.5,2152,Exynos 5 Octa 5420,4,1900 MHz,1723,785
+1880,1074,Samsung,1891,Samsung Galaxy Tab S 8.4,2344,Exynos 5 Octa 5420,4,1900 MHz,1722,782
+1881,1437,Samsung,1939,Samsung Galaxy Tab S 10.5,2152,Qualcomm Snapdragon 800,4,1900 MHz,1719,778
+1882,895,Meizu,2042,Meizu MX4 Pro,2012,Samsung Exynos 5430,8,1500 MHz,1717,841
+1883,N/A,Samsung,1850,Samsung Galaxy Tab S 8.4 LTE,2221,Qualcomm Snapdragon 800,4,1900 MHz,1710,772
+1884,N/A,Meizu,2379,Meizu M6,N/A,Mediatek MT6750,8,1001 MHz,1710,601
+1885,N/A,Blackview,2631,Blackview BV6000,N/A,Mediatek MT6755 Helio P10,8,1144 MHz,1693,733
+1886,N/A,Vernee,2599,Vernee Thor,N/A,Mediatek MT6753,8,1300 MHz,1688,613
+1887,N/A,NVIDIA,2001,NVIDIA Tegra Note,N/A,NVIDIA Tegra 4,4,1810 MHz,1683,791
+1888,N/A,Vivo,2225,Vivo V5s,N/A,Mediatek MT6750,8,1508 MHz,1682,602
+1889,N/A,Vivo,2428,Vivo Y66,N/A,Qualcomm MSM8937 Snapdragon 430,8,1508 MHz,1671,586
+1890,N/A,Asus,1610,Asus Zenfone Selfie,1236,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1670,582
+1891,N/A,Lenovo,2360,Lenovo Vibe K4 Note,N/A,Mediatek MT6753,8,1300 MHz,1665,598
+1892,N/A,Lenovo,2616,Lenovo K5 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1664,685
+1893,N/A,ZTE,2412,ZTE Blade V7,N/A,Mediatek MT6753,8,1300 MHz,1647,607
+1894,N/A,BLU,2382,BLU Vivo 5R,N/A,Mediatek MT6753,8,1300 MHz,1639,599
+1895,N/A,UMi,2552,UMi Max,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1636,703
+1896,N/A,Sony,1405,Sony Xperia M4 Aqua,1136,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1634,599
+1897,1126,Elephone,2566,Elephone P9000,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1611,725
+1898,N/A,Oukitel,2409,Oukitel K6000 Pro,N/A,Mediatek MT6753,8,1300 MHz,1610,596
+1899,N/A,Ulefone,2465,Ulefone Metal,N/A,Mediatek MT6753,8,1300 MHz,1598,609
+1900,N/A,Asus,2044,Asus Zenfone Max Plus,N/A,Mediatek MT6750,8,1508 MHz,1595,533
+1901,N/A,Motorola,1481,Motorola Moto G Turbo Edition,1241,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1594,590
+1902,N/A,YU,1309,YU Yureka,N/A,Qualcomm MSM8939 Snapdragon 615,8,1497 MHz,1593,559
+1903,N/A,Elephone,2450,Elephone P8000,N/A,Mediatek MT6753,8,1300 MHz,1592,605
+1904,N/A,Sony,1347,Sony Xperia M4 Aqua Dual,1255,Qualcomm MSM8939 Snapdragon 615,8,1459 MHz,1588,595
+1905,N/A,UMi,2579,UMi Super,N/A,Mediatek MT6755 Helio P10,8,1950 MHz,1585,726
+1906,N/A,Coolpad,2274,Coolpad Note 3,N/A,Mediatek MT6753,8,1300 MHz,1581,591
+1907,N/A,Meizu,2184,Meizu M5s,N/A,Mediatek MT6753,8,1300 MHz,1577,616
+1908,1851,Wiko,2415,Wiko Fever 4G,N/A,Mediatek MT6753,8,1300 MHz,1572,602
+1909,N/A,Alcatel,2488,Alcatel Flash Plus 2,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1571,691
+1910,N/A,UMi,2509,UMi Plus,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1568,698
+1911,N/A,Meizu,2305,Meizu U20,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1553,703
+1912,N/A,Meizu,2378,Meizu M3 Note,N/A,Mediatek MT6755 Helio P10,8,1001 MHz,1542,720
+1913,1963,Asus,1711,Asus Nexus 7 (2013),N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1541,664
+1914,N/A,Amazon,2161,Amazon Fire HD 10,N/A,Mediatek MT8173,4,1404 MHz,1541,1195
+1915,460,Samsung,1696,Samsung Galaxy S4,1452,Exynos 5 Octa 5410,4,1600 MHz,1533,683
+1916,N/A,Samsung,2416,Samsung Galaxy S4,1452,Qualcomm Snapdragon 800,4,2265 MHz,1533,950
+1917,735,Samsung,1774,Samsung Galaxy S4,1431,Qualcomm Snapdragon 600,4,1900 MHz,1521,717
+1918,N/A,LG,1732,LG K10,398,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,1508,567
+1919,2548,ulefone,2337,ulefone Power,N/A,Mediatek MT6753,8,1300 MHz,1496,596
+1920,N/A,Meizu,2150,Meizu M5,N/A,Mediatek MT6750,8,1001 MHz,1494,600
+1921,1927,LG,2228,LG K10 (2017),N/A,Mediatek MT6750,8,1001 MHz,1492,588
+1922,N/A,Doogee,2421,Doogee F5,N/A,Mediatek MT6753,8,1300 MHz,1468,605
+1923,2018,Meizu,2241,Meizu M2 Note,N/A,Mediatek MT6753,8,1300 MHz,1447,580
+1924,N/A,Asus,1805,Asus Zenfone 3 Max,1291,Mediatek MT6737,4,1443 MHz,1445,665
+1925,N/A,Huawei,1987,Huawei Honor 4X,N/A,HiSilicon Kirin 620,8,1200 MHz,1436,536
+1926,N/A,Xiaomi,1374,Xiaomi Mi 4i,1237,Qualcomm MSM8939 Snapdragon 615,8,1651 MHz,1404,617
+1927,N/A,Meizu,2003,Meizu M3,N/A,Mediatek MT6750,8,1508 MHz,1403,630
+1928,919,HTC,1792,HTC Desire 628,N/A,Mediatek MT6753,8,1300 MHz,1401,603
+1929,1649,Meizu,2082,Meizu U10,N/A,Mediatek MT6750,8,1001 MHz,1399,601
+1930,N/A,Huawei,1966,Huawei Y6II Compact,N/A,Mediatek MT6735,4,1200 MHz,1391,542
+1931,N/A,Huawei,1988,Huawei Honor 4C,N/A,HiSilicon Kirin 620,8,1200 MHz,1381,540
+1932,2135,Xiaomi,1833,Xiaomi Redmi 5A,584,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1368,671
+1933,712,Samsung,1796,Samsung Galaxy S4 Value Edition,1296,Qualcomm Snapdragon 600,4,1890 MHz,1364,721
+1934,1225,Huawei,1977,Huawei P8 lite,N/A,HiSilicon Kirin 620,8,1200 MHz,1355,541
+1935,1690,Meizu,2110,Meizu M3s,N/A,Mediatek MT6750,8,1508 MHz,1354,627
+1936,2655,Xiaomi,1740,Xiaomi Redmi 4A,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1349,664
+1937,904,Samsung,1793,Samsung Galaxy S4 Active,1362,Qualcomm Snapdragon 600,4,1890 MHz,1347,717
+1938,1033,Samsung,1223,Samsung Nexus 10,N/A,Samsung Exynos 5250,2,1700 MHz,1326,801
+1939,837,Xiaomi,1531,Xiaomi MI-2,1246,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1312,547
+1940,N/A,LG,1608,LG G Pad 8.3,1178,Qualcomm Snapdragon 600,4,1728 MHz,1300,701
+1941,N/A,ASUS,2204,ASUS MeMO Pad 7,N/A,Intel Atom Z3745,4,1862 MHz,1295,908
+1942,N/A,Samsung,1661,Samsung Galaxy Note 3 Neo,1422,Samsung Exynos 5260,6,1300 MHz,1294,709
+1943,1605,Asus,2864,Asus Zenfone Zoom,2307,Intel Atom Z3590,4,2500 MHz,1288,1064
+1944,N/A,Xiaomi,1151,Xiaomi MI-2a,N/A,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,1277,742
+1945,N/A,YU,2630,YU Yunicorn,N/A,Mediatek MT6755 Helio P10,8,1807 MHz,1268,702
+1946,N/A,Samsung,1533,Samsung Galaxy S4 (Google Play Edition),1373,Qualcomm Snapdragon 600,4,1900 MHz,1261,736
+1947,N/A,LG,1484,LG X power,N/A,Mediatek MT6735,4,1300 MHz,1234,555
+1948,N/A,Vivo,1838,Vivo Y53,583,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1232,652
+1949,N/A,Vivo,1831,Vivo Y55s,582,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1230,648
+1950,N/A,Huawei,1806,Huawei P9 lite mini,587,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1220,651
+1951,853,Asus,1298,Asus Zenfone 2 Laser,945,Qualcomm MSM8956 Snapdragon 650,6,1209 MHz,1216,514
+1952,N/A,Sony,1828,Sony Xperia L1,N/A,Mediatek MT6737T,4,1443 MHz,1215,660
+1953,N/A,Lenovo,3275,Lenovo Vibe X2,1273,MediaTek MT6595M,8,1690 MHz,1214,1020
+1954,1696,Asus,2754,Asus Zenfone 2 ,2335,Intel Atom Z2560,2,2333 MHz,1213,1026
+1955,N/A,Samsung,1638,Samsung Galaxy J3 Luna Pro,539,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1203,629
+1956,N/A,Huawei,1845,Huawei Y5 (2017),N/A,Mediatek MT6737T,4,1443 MHz,1203,665
+1957,N/A,Asus,3031,Asus Zenpad S 8.0,2411,Intel Atom Z3580,4,2333 MHz,1202,1077
+1958,N/A,Samsung,1648,Samsung Galaxy J7 Sky Pro,N/A,Qualcomm MSM8953 Snapdragon 625,8,1401 MHz,1201,640
+1959,841,Samsung,1620,Samsung Galaxy J3 Emerge,567,Qualcomm MSM8937 Snapdragon 430,8,1401 MHz,1157,624
+1960,N/A,Asus,1815,Asus Zenpad 8.0,730,MediaTek MT8163 V/B,4,1300 MHz,1153,657
+1961,N/A,Asus,882,Asus Zenfone Max,627,Qualcomm MSM8916 Snapdragon 410,4,998 MHz,1125,382
+1962,N/A,Oppo,1487,Oppo Find 5,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,1124,545
+1963,1011,Samsung,1827,Samsung Galaxy A3 (2016),1204,Samsung Exynos 7578,4,1500 MHz,1124,613
+1964,N/A,Samsung,1751,Samsung Galaxy J3 (2017),644,Samsung Exynos 7570,4,1430 MHz,1109,606
+1965,926,LG,1347,LG Nexus 4,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,1103,535
+1966,N/A,Motorola,1514,Motorola Moto E4,593,Mediatek MT6737,4,1248 MHz,1098,535
+1967,N/A,LG,1481,LG Optimus G Pro,N/A,Qualcomm Snapdragon 600,4,1700 MHz,1087,688
+1968,1620,Nokia,1526,Nokia 3,N/A,Mediatek MT6737,4,1248 MHz,1081,557
+1969,N/A,LG,1608,LG K20 plus,532,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,1079,595
+1970,N/A,Samsung,1752,Samsung Galaxy J3 Prime,N/A,Samsung Exynos 7570,4,1430 MHz,1074,609
+1971,2870,Samsung,1717,Samsung Galaxy J5 Prime,622,Samsung Exynos 7570,4,1430 MHz,1053,599
+1972,N/A,Lenovo,2076,Lenovo Tab 2 A10-70 (WiFi),N/A,Mediatek MT8165,4,1690 MHz,1031,738
+1973,N/A,Oppo,1311,Oppo A37,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,1030,516
+1974,N/A,Amazon,1616,Amazon Fire HD 8 (2017),N/A,MediaTek MT8163 V/B,4,1300 MHz,1027,614
+1975,N/A,Meizu,1437,Meizu M5c,N/A,Mediatek MT6737,4,1248 MHz,1023,552
+1976,N/A,Huawei,1520,Huawei Ascend P7,N/A,HiSilicon Kirin 910T,4,1795 MHz,1022,597
+1977,1054,Motorola,1424,Motorola Moto G3,458,Qualcomm MSM8916 Snapdragon 410,4,1363 MHz,1004,552
+1978,1145,Amazon,1614,Amazon Fire HD 8 (2016),N/A,MediaTek MT8163 V/B,4,1300 MHz,985,612
+1979,N/A,Sony,1409,Sony Xperia Tablet Z,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,978,541
+1980,3398,Motorola,1501,Motorola Moto E4 Plus,629,Mediatek MT6737,4,1248 MHz,964,537
+1981,581,Samsung,1490,Samsung Galaxy Note II,N/A,Samsung Exynos 4412,4,1600 MHz,961,579
+1982,N/A,Sony,1476,Sony Xperia E5,N/A,Mediatek MT6735,4,1300 MHz,961,555
+1983,1074,Sony,1348,Sony Xperia ZR,1189,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,954,542
+1984,N/A,Motorola,1328,Motorola Moto G4 Play,402,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,947,508
+1985,N/A,Sony,1379,Sony Xperia ZL,1209,Qualcomm Snapdragon S4 Pro APQ8064,4,1512 MHz,939,539
+1986,N/A,LG,1465,LG K8,N/A,Mediatek MT6735,4,1300 MHz,936,542
+1987,N/A,Samsung,1596,Samsung Galaxy J2 Prime,422,Mediatek MT6737,4,1443 MHz,935,557
+1988,N/A,Acer,1071,Acer Chromebook R11,N/A,Intel Celeron N3150,4,2582 MHz,933,1140
+1989,1007,Sony,1331,Sony Xperia Z,1210,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,930,538
+1990,1709,Coolpad,1599,Coolpad Note 3 Lite,N/A,Mediatek MT6735,4,1300 MHz,927,582
+1991,N/A,Sony,1094,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T,2,1728 MHz,926,745
+1992,N/A,Sony,1178,Sony Xperia SP,1036,Qualcomm Snapdragon S4 MSM8960T Pro,2,1728 MHz,926,769
+1993,858,Xiaomi,2487,Xiaomi Redmi Note 2,1508,Mediatek MT6795,8,2158 MHz,923,777
+1994,N/A,Oppo,1235,Oppo A33,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,920,483
+1995,N/A,Samsung,1251,Samsung Galaxy Tab E 9.6,N/A,Spreadtrum SC7730,4,1190 MHz,913,496
+1996,1008,Wileyfox,1390,Wileyfox Swift,400,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,912,522
+1997,N/A,Lenovo,2037,Lenovo Tab 2 A10-70 (4G),N/A,Mediatek MT8732,4,1690 MHz,911,728
+1998,N/A,Motorola,1489,Motorola Moto C Plus,N/A,Mediatek MT6737,4,1248 MHz,910,531
+1999,848,Samsung,1469,Samsung Galaxy Note 8.0,N/A,Samsung Exynos 4412,4,1600 MHz,900,579
+2000,N/A,LG,1226,LG Spirit,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,477
+2001,N/A,LG,1248,LG Stylus 2,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,898,491
+2002,N/A,LG,1373,LG Aristo 2,419,Qualcomm MSM8917 Snapdragon 425,4,1401 MHz,895,554
+2003,1495,Samsung,1257,Samsung Galaxy Tab A 8.0,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,892,492
+2004,N/A,Xiaomi,1328,Xiaomi Redmi 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,892,509
+2005,1168,Motorola,1272,Motorola Moto E (2nd Gen.),399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,887,500
+2006,N/A,BLU,1554,BLU R1 HD,N/A,Mediatek MT6735,4,1300 MHz,879,558
+2007,N/A,Samsung,1167,Samsung Galaxy J5 (2016),400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,875,491
+2008,N/A,Samsung,1281,Samsung Galaxy Tab A 9.7,415,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,871,491
+2009,541,Samsung,1200,Samsung Galaxy J5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,869,491
+2010,N/A,LG,1331,LG Stylo 2,399,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,869,497
+2011,N/A,Samsung,1265,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,868,497
+2012,N/A,ZTE,1296,ZTE Zmax 2,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,866,508
+2013,N/A,LG,1292,LG G Stylo,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,863,505
+2014,N/A,Samsung,1142,Samsung Galaxy J3 V,N/A,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,862,481
+2015,N/A,Vivo,1332,Vivo Y51L,403,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,858,522
+2016,N/A,Samsung,1071,Samsung Galaxy Grand Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,853,408
+2017,1212,Meizu,1542,Meizu M2,N/A,Mediatek MT6735,4,1300 MHz,848,590
+2018,1303,Lenovo,1219,Lenovo A6000,401,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,842,506
+2019,N/A,LG,1336,LG Optimus G,N/A,Qualcomm Snapdragon S4 Pro APQ8064,4,1500 MHz,841,511
+2020,N/A,Samsung,1108,Samsung Galaxy On7,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,834,475
+2021,N/A,Doogee,1327,Doogee X5 Max Pro,N/A,Mediatek MT6737,4,1092 MHz,825,513
+2022,N/A,Samsung,1386,Samsung Galaxy Note 10.1,N/A,Samsung Exynos 4412,4,1400 MHz,821,530
+2023,N/A,Samsung,1382,Samsung Galaxy Note 10.1 3G,N/A,Samsung Exynos 4412,4,1400 MHz,820,525
+2024,N/A,Huawei,1452,Huawei Y6 Pro,N/A,Mediatek MT6735P,4,1300 MHz,814,518
+2025,724,Samsung,1115,Samsung Galaxy A3,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,811,490
+2026,N/A,Lenovo,1292,Lenovo A6010,398,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,810,511
+2027,1376,Samsung,1435,Samsung Galaxy Core Prime,N/A,Qualcomm MSM8916 Snapdragon 410,4,1248 MHz,809,519
+2028,931,Samsung,1126,Samsung Galaxy A5 Duos,399,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,808,491
+2029,N/A,Samsung,1124,Samsung Galaxy A5,400,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,488
+2030,N/A,Samsung,1158,Samsung Galaxy E5,397,Qualcomm MSM8916 Snapdragon 410,4,1190 MHz,799,484
+2031,1040,HTC,1652,HTC One,1274,Qualcomm Snapdragon 600,4,1700 MHz,791,705
+2032,N/A,Huawei,1347,Huawei Y5II,N/A,Mediatek MT6735,4,1300 MHz,782,473
+2033,N/A,Motorola,1223,Motorola Moto C,N/A,Mediatek MT6737,4,1092 MHz,782,446
+2034,2161,Amazon,1158,Amazon Fire (2017),N/A,Mediatek MT8127,4,1300 MHz,782,441
+2035,N/A,Lenovo,1321,Lenovo S90 Sisley,N/A,Qualcomm MSM8916 Snapdragon 410,4,1209 MHz,778,520
+2036,N/A,Samsung,1208,Samsung Galaxy S3 Neo,427,Qualcomm MSM8226 Snapdragon 400,4,1401 MHz,769,466
+2037,N/A,Lenovo,992,Lenovo Tab 10,N/A,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,748,388
+2038,1032,Samsung,1122,Samsung Galaxy S5 Mini,425,Samsung Exynos 3470,4,1400 MHz,743,414
+2039,N/A,Samsung,1159,Samsung Galaxy J3,502,Spreadtrum SC9830,4,1500 MHz,740,441
+2040,688,Amazon,1185,Amazon Kindle Fire (2015),N/A,Mediatek MT8127,4,1300 MHz,729,442
+2041,845,Samsung,1253,Samsung Galaxy S III,N/A,Samsung Exynos 4412,4,1400 MHz,725,505
+2042,N/A,Samsung,774,Samsung Galaxy S III,N/A,Qualcomm Snapdragon S4 MSM8960,2,1500 MHz,724,475
+2043,N/A,Lenovo,1272,Lenovo Vibe P1m,N/A,Mediatek MT6735,4,988 MHz,717,475
+2044,N/A,LG,1007,LG Tribute,396,Qualcomm Snapdragon 400,2,1267 MHz,714,410
+2045,1909,Samsung,1027,Samsung Galaxy Tab A 7.0,N/A,Qualcomm MSM8916 Snapdragon 410,4,1300 MHz,713,396
+2046,N/A,Samsung,1126,Samsung Galaxy Tab 4 10.1,316,Qualcomm Snapdragon 400,2,1190 MHz,712,426
+2047,N/A,Asus,1186,Asus Zenfone Go,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+2048,642,Doogee,1121,Doogee X5,N/A,Mediatek MT6580M,4,1300 MHz,708,415
+2049,N/A,Lenovo,1183,Lenovo C2,N/A,Mediatek MT6735,4,988 MHz,707,432
+2050,778,Samsung,987,Samsung Galaxy S4 Duos,N/A,Qualcomm Snapdragon 400,2,1728 MHz,705,630
+2051,N/A,Samsung,1005,Samsung Galaxy J3 (2016),397,Spreadtrum SC9830,4,1300 MHz,703,386
+2052,934,Samsung,1120,Samsung Galaxy J2,N/A,Samsung Exynos 3475 Quad,4,1300 MHz,702,406
+2053,691,Lenovo,1233,Lenovo A2010,N/A,Mediatek MT6735,4,988 MHz,698,452
+2054,N/A,Cubot,1151,Cubot Note S,N/A,Mediatek MT6580M,4,1300 MHz,691,404
+2055,N/A,Motorola,1093,Motorola Moto G,426,Qualcomm Snapdragon 400,2,1190 MHz,690,427
+2056,569,Motorola,1077,Motorola Moto G (2014),426,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,690,425
+2057,N/A,HTC,2367,HTC One E9+,1759,Mediatek MT6795 Helio X10,8,1950 MHz,690,766
+2058,N/A,Motorola,1156,Motorola Moto E3 Power,N/A,Mediatek MT6735,4,988 MHz,687,427
+2059,N/A,LG,1056,LG Phoenix 2,398,Qualcomm MSM8909 Snapdragon 210,4,1267 MHz,687,412
+2060,N/A,Samsung,1099,Samsung Galaxy Grand 2,N/A,Qualcomm MSM8226 Snapdragon 400,4,1190 MHz,685,416
+2061,N/A,Samsung,974,Samsung Galaxy J1 (2016),491,Spreadtrum SC9830,4,1200 MHz,683,374
+2062,N/A,Samsung,986,Samsung Galaxy S4 Mini,N/A,Qualcomm Snapdragon 400,2,1728 MHz,682,632
+2063,N/A,Samsung,1152,Samsung Galaxy On5,353,Samsung Exynos 3475 Quad,4,1300 MHz,677,403
+2064,N/A,Samsung,1051,Samsung Galaxy J2 Pro (2016),N/A,Spreadtrum SC8830,4,1500 MHz,676,411
+2065,749,Asus,979,Asus Nexus 7,N/A,NVIDIA Tegra 3 T30L,4,1300 MHz,672,384
+2066,780,LG,1133,LG G3 S,N/A,Qualcomm Snapdragon 400,2,1190 MHz,667,430
+2067,N/A,HTC,2041,HTC One ME,1703,Mediatek MT6795 Helio X10,8,2158 MHz,663,789
+2068,N/A,HTC,978,HTC Desire 530,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,658,388
+2069,N/A,ZTE,1146,ZTE Blade V7 Lite,N/A,Mediatek MT6735P,4,988 MHz,655,422
+2070,N/A,LG,879,LG Optimus 4X HD,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,654,384
+2071,N/A,HTC,978,HTC Desire 626s,N/A,Qualcomm MSM8909 Snapdragon 210,4,1094 MHz,635,384
+2072,N/A,LG,1013,LG K7,N/A,Mediatek MT6580M,4,1094 MHz,634,396
+2073,N/A,Sony,849,Sony Xperia M2,N/A,Qualcomm Snapdragon 400,2,1190 MHz,631,341
+2074,938,Motorola,1144,Motorola Moto X,1263,Qualcomm Snapdragon S4 MSM8960 Pro,2,1728 MHz,628,719
+2075,N/A,HTC,981,HTC One X,N/A,NVIDIA Tegra 3 T30,4,1500 MHz,622,423
+2076,978,HTC,1630,HTC One Dual Sim,1216,Qualcomm Snapdragon 600,4,1728 MHz,598,703
+2077,N/A,Lenovo,1220,Lenovo Lenovo TB3-710F,N/A,Mediatek MT8161,4,1300 MHz,527,436
+2078,N/A,Lenovo,951,Lenovo A1000,N/A,Spreadtrum SC7731,4,1300 MHz,497,382
+2079,N/A,ZTE,1523,ZTE Blade V6,N/A,Mediatek MT6735,4,1300 MHz,487,568
+2080,N/A,Motorola,738,Motorola Moto E,N/A,Qualcomm MSM8210 Snapdragon 200,2,1190 MHz,463,379
+2081,N/A,Samsung,762,Samsung Galaxy Tab 3 8.0,N/A,Samsung Exynos 4212,2,1500 MHz,443,478
+2082,N/A,Barnes,808,Barnes & Noble Nook HD+,N/A,Ti OMAP 4470,2,1500 MHz,436,489
+2083,440,Samsung,698,Samsung Galaxy Note,N/A,Samsung Exynos 4210,2,1400 MHz,424,464
+2084,N/A,Samsung,639,Samsung Galaxy S II,N/A,Samsung Exynos 4210,2,1200 MHz,346,415
+2085,198,Samsung,668,Samsung Galaxy Nexus,N/A,Ti OMAP 4460,2,1200 MHz,336,413
+2086,N/A,Samsung,517,Samsung Galaxy Tab 2 7.0 (WiFi),N/A,Ti OMAP 4430,2,1000 MHz,334,311
+2087,612,Motorola,595,Motorola RAZR XT910 ,N/A,Ti OMAP 4430,2,1200 MHz,325,368
+2088,N/A,Samsung,521,Samsung Galaxy Tab 2 10.1,N/A,Ti OMAP 4430,2,1008 MHz,310,312
+2089,N/A,Sony,593,Sony Xperia M,N/A,Qualcomm Snapdragon S4 Plus MSM8227,2,972 MHz,296,368
+2090,242,Samsung,490,Samsung Galaxy S III mini,N/A,ST-Ericsson NovaThor U8420,2,1000 MHz,291,307
+2091,N/A,Samsung,514,Samsung Galaxy Tab 2 7.0,N/A,Ti OMAP 4430,2,1000 MHz,285,310
+2092,6442,Asus,4681,Asus Zenfone Max Pro (M1),3123,Qualcomm SDM636 Snapdragon 636,8,1612 MHz,4451,1317
+2093,6059,Xiaomi,3824,Xiaomi Mi Max 2,1818,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3071,850
+2094,5154,Samsung,8804,Samsung Galaxy Note 9,13452,Samsung Exynos 9810,8,1794 MHz,9353,3467
+2095,4174,Samsung,6032,Samsung Galaxy S8+,11747,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8349,1771
+2096,4150,Samsung,8306,Samsung Galaxy S9+,12992,Qualcomm Snapdragon 845,8,1766 MHz,13406,2292
+2097,4097,Samsung,6350,Samsung Galaxy S8+,13802,Samsung Exynos 8895 Octa,8,1690 MHz,9035,1939
+2098,4096,Samsung,8671,Samsung Galaxy S9+,13490,Samsung Exynos 9810,8,1794 MHz,8585,3335
+2099,4033,LG,6151,LG V30,9542,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7480,1866
+2100,3965,Xiaomi,8243,Xiaomi Mi 8,13262,Qualcomm Snapdragon 845,8,1766 MHz,13090,2279
+2101,3960,Samsung,8527,Samsung Galaxy S9,13197,Samsung Exynos 9810,8,1794 MHz,8705,3289
+2102,3960,OnePlus,6612,OnePlus 5T,10846,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7859,1941
+2103,3948,Samsung,6386,Samsung Galaxy S8,13873,Samsung Exynos 8895 Octa,8,1690 MHz,9210,1941
+2104,3844,Samsung,6405,Samsung Galaxy Note 8,13930,Samsung Exynos 8895 Octa,8,1690 MHz,9907,1951
+2105,3794,Samsung,9892,Samsung Galaxy S10+,17077,Samsung Exynos 9820,8,1950 MHz,9520,4313
+2106,3620,Xiaomi,6193,Xiaomi MI 6,10795,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7658,1894
+2107,3565,OnePlus,8846,OnePlus 6,13181,Qualcomm Snapdragon 845,8,1766 MHz,13505,2390
+2108,3482,Huawei,6217,Huawei Honor 10,13372,HiSilicon Kirin 970,8,1844 MHz,8459,1827
+2109,3415,Xiaomi,4171,Xiaomi Mi A1,1817,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,3431,859
+2110,3410,Samsung,6028,Samsung Galaxy S8,12897,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,8800,1763
+2111,3246,LG,3795,LG G6,8827,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,2188 MHz,6910,1664
+2112,3208,Smartisan,5705,Smartisan Nut Pro 2,4132,Qualcomm Snapdragon 660,8,1843 MHz,5272,1614
+2113,3181,Motorola,4112,Motorola Moto G5 Plus,1994,Qualcomm MSM8953 Snapdragon 625,8,2016 MHz,2889,834
+2114,3041,Samsung,4104,Samsung Galaxy A5 (2017),3303,Samsung Exynos 7880,8,1872 MHz,3000,773
+2115,3032,Samsung,3744,Samsung Galaxy S7 edge,6992,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4741,1456
+2116,3013,Xiaomi,8148,Xiaomi Mix 2S,13291,Qualcomm Snapdragon 845,8,1766 MHz,13318,2259
+2117,3012,Google,6060,Google Pixel 2,9970,Qualcomm MSM8998 Snapdragon 835,8,1900 MHz,7179,1838
+2118,2782,Samsung,5291,Samsung Galaxy S7 edge,6965,Samsung Exynos 8890,8,1586 MHz,4571,1745
+2119,2747,Samsung,3700,Samsung Galaxy S7 Active,8229,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6161,1501
+2120,2530,Samsung,3430,Samsung Galaxy A3 (2017),1233,Samsung Exynos 7870 Octa,8,1586 MHz,2283,705
+2121,2447,Huawei,6054,Huawei P10,9580,Hisilicon Kirin 960,8,1844 MHz,9000,1861
+2122,2377,Xiaomi,3935,Xiaomi MI 5s,9499,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1996 MHz,6953,1617
+2123,2220,Samsung,5356,Samsung Galaxy S7,7368,Samsung Exynos 8890,8,1586 MHz,4790,1811
+2124,2141,Google,4060,Google Pixel XL,7201,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7508,1626
+2125,2133,Xiaomi,2694,Xiaomi Redmi Note 3,3775,Qualcomm MSM8956 Snapdragon 650,6,1401 MHz,3315,1399
+2126,2107,Lenovo,3492,Lenovo ZUK Z2,9937,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6333,1642
+2127,2105,Asus,5089,Asus Zenfone 5 Max,3108,Qualcomm Snapdragon 660,8,1612 MHz,4796,1449
+2128,1956,OnePlus,3947,OnePlus 3,10046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,7325,1683
+2129,1926,Samsung,3719,Samsung Galaxy S7,7424,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,4954,1536
+2130,1920,Huawei,5203,Huawei Honor 8,3956,HiSilicon Kirin 950,8,1805 MHz,3962,1665
+2131,1878,LG,3492,LG V20,9037,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6372,1569
+2132,1865,Xiaomi,3694,Xiaomi Mi 5,9045,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6540,1606
+2133,1848,HTC,2774,HTC Nexus 9,N/A,NVIDIA Tegra K1 Denver,2,2499 MHz,3643,1728
+2134,1804,ZTE,3919,ZTE Axon 7,9711,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6911,1656
+2135,1753,Samsung,4028,Samsung Galaxy Note 5,5600,Samsung Exynos 7420,8,1500 MHz,2908,1303
+2136,1738,Google,4014,Google Pixel,N/A,Qualcomm MSM8996 Pro-AB Snapdragon 821,4,1593 MHz,7708,1626
+2137,1726,LG,3668,LG G5,9345,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6585,1651
+2138,1725,Huawei,4820,Huawei P9,3869,HiSilicon Kirin 955,8,1805 MHz,3797,1709
+2139,1696,Asus,2754,Asus Zenfone 2 ,2335,Intel Atom Z2560,2,2333 MHz,1213,1026
+2140,1679,HTC,3479,HTC 10,9510,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6633,1557
+2141,1674,ZTE,3869,ZTE Axon 7,9757,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6936,1639
+2142,1666,Samsung,4059,Samsung Galaxy S6 edge+,5498,Samsung Exynos 7420,8,1500 MHz,2914,1309
+2143,1618,Samsung,3945,Samsung Galaxy S6,5388,Samsung Exynos 7420,8,1500 MHz,2854,1257
+2144,1586,Samsung,4051,Samsung Galaxy S6 edge,5264,Samsung Exynos 7420,8,1500 MHz,2943,1292
+2145,1499,Huawei,3372,Huawei P8 lite (2017),2156,HiSilicon Kirin 655,8,1709 MHz,2767,815
+2146,1484,OnePlus,2511,OnePlus One,2214,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2168,1003
+2147,1475,Motorola,3744,Motorola Moto Z,9046,Qualcomm MSM8996 Snapdragon 820,4,1593 MHz,6836,1536
+2148,1450,Huawei,3360,Huawei P9 lite,2038,HiSilicon Kirin 650,4,1709 MHz,2441,796
+2149,1394,Sony,2561,Sony Xperia Z3 Compact,2251,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2235,975
+2150,1362,LG,2273,LG Nexus 5X,N/A,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2918,1012
+2151,1357,Motorola,2576,Motorola Nexus 6,N/A,Qualcomm APQ8084 Snapdragon 805,4,2649 MHz,2852,1008
+2152,1340,Sony,2688,Sony Xperia Z5 Compact,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3887,1222
+2153,1331,Huawei,2491,Huawei Mate S,N/A,HiSilicon Kirin 935,4,1516 MHz,2047,750
+2154,1329,Samsung,2422,Samsung Galaxy Note 3,1974,Qualcomm Snapdragon 800,4,2265 MHz,2235,923
+2155,1320,HTC,2305,HTC One (M8),2498,Qualcomm MSM8974AB Snapdragon 801,4,2265 MHz,2435,961
+2156,1303,Sony,2538,Sony Xperia Z3,2245,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2216,993
+2157,1209,OnePlus,2740,OnePlus 2,4544,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3510,1050
+2158,1192,Huawei,2878,Huawei Nexus 6P,N/A,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,4404,1238
+2159,1173,LG,2329,LG G2,2026,Qualcomm Snapdragon 800,4,2265 MHz,2158,991
+2160,1105,Samsung,2412,Samsung Galaxy S5,2171,Qualcomm MSM8974AC Snapdragon 801,4,2457 MHz,2328,931
+2161,1058,Motorola,2798,Motorola Moto X Style,2721,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2787,1124
+2162,1038,Samsung,3223,Samsung Galaxy Note 4,3434,Samsung Exynos 5433,8,1300 MHz,2621,973
+2163,1032,Samsung,1122,Samsung Galaxy S5 Mini,425,Samsung Exynos 3470,4,1400 MHz,743,414
+2164,999,LG,2130,LG G3,2552,Qualcomm MSM8975AC Snapdragon 801,4,2457 MHz,1957,939
+2165,995,LG,1926,LG Nexus 5,N/A,Qualcomm Snapdragon 800,4,2265 MHz,1988,897
+2166,973,Xiaomi,2127,Xiaomi Mi 4c,2592,Qualcomm MSM8992 Snapdragon 808,6,1440 MHz,2425,1076
+2167,886,Xiaomi,2715,Xiaomi Mi Note Pro,5509,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3930,1218
+2168,879,HTC,2476,HTC One M9,4911,Qualcomm MSM8994 Snapdragon 810,8,1555 MHz,3765,1204
+2169,845,Samsung,1253,Samsung Galaxy S III,N/A,Samsung Exynos 4412,4,1400 MHz,725,505
+2170,829,Samsung,1968,Samsung Galaxy Note 3,1987,Exynos 5 Octa 5420,4,1900 MHz,2239,761
+2171,735,Samsung,1774,Samsung Galaxy S4,1431,Qualcomm Snapdragon 600,4,1900 MHz,1521,717
+2172,712,Samsung,1796,Samsung Galaxy S4 Value Edition,1296,Qualcomm Snapdragon 600,4,1890 MHz,1364,721
+2173,460,Samsung,1696,Samsung Galaxy S4,1452,Exynos 5 Octa 5410,4,1600 MHz,1533,683
